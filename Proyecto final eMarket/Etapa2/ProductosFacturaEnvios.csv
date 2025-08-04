@@ -1,0 +1,2156 @@
+ProductoID,Cantidad,Descuento,FechaFactura,FechaEnvio,PaisEnvio,ProductoNombre,UnidadesStock
+11,45,0.2,8/20/1996 0:00,8/26/1996 0:00,Germany,Chai,39
+42,18,0,8/30/1996 0:00,9/5/1996 0:00,USA,Chai,39
+72,20,0,9/30/1996 0:00,10/10/1996 0:00,USA,Chai,39
+14,15,0.15000001,11/7/1996 0:00,11/15/1996 0:00,Germany,Chai,39
+51,12,0,11/14/1996 0:00,11/20/1996 0:00,Mexico,Chai,39
+41,15,0.15000001,12/3/1996 0:00,12/27/1996 0:00,Switzerland,Chai,39
+51,10,0,1/7/1997 0:00,1/13/1997 0:00,Brazil,Chai,39
+65,24,0,1/14/1997 0:00,1/16/1997 0:00,France,Chai,39
+22,15,0,3/17/1997 0:00,3/25/1997 0:00,Portugal,Chai,39
+57,40,0.2,4/30/1997 0:00,5/6/1997 0:00,Germany,Chai,39
+65,8,0.15000001,5/5/1997 0:00,5/15/1997 0:00,Finland,Chai,39
+20,10,0,6/23/1997 0:00,6/30/1997 0:00,Mexico,Chai,39
+33,20,0,7/7/1997 0:00,7/14/1997 0:00,Canada,Chai,39
+60,3,0,7/24/1997 0:00,7/30/1997 0:00,France,Chai,39
+31,6,0,7/25/1997 0:00,8/1/1997 0:00,Poland,Chai,39
+39,25,0,8/12/1997 0:00,8/20/1997 0:00,France,Chai,39
+49,15,0.25,8/27/1997 0:00,9/3/1997 0:00,Ireland,Chai,39
+24,35,0.25,10/1/1997 0:00,10/7/1997 0:00,Sweden,Chai,39
+55,30,0,10/3/1997 0:00,10/22/1997 0:00,Germany,Chai,39
+74,5,0.2,10/10/1997 0:00,10/16/1997 0:00,USA,Chai,39
+2,50,0,11/4/1997 0:00,11/14/1997 0:00,Venezuela,Chai,39
+16,8,0,11/24/1997 0:00,11/28/1997 0:00,UK,Chai,39
+36,4,0.25,1/19/1998 0:00,1/23/1998 0:00,Venezuela,Chai,39
+59,80,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Chai,39
+53,20,0.15000001,2/2/1998 0:00,2/17/1998 0:00,Venezuela,Chai,39
+77,40,0,2/4/1998 0:00,2/9/1998 0:00,UK,Chai,39
+27,20,0.05,2/24/1998 0:00,3/6/1998 0:00,Brazil,Chai,39
+39,10,0,2/26/1998 0:00,3/5/1998 0:00,Spain,Chai,39
+77,60,0.25,3/2/1998 0:00,3/11/1998 0:00,Canada,Chai,39
+2,21,0,3/9/1998 0:00,3/18/1998 0:00,Brazil,Chai,39
+5,4,0,4/6/1998 0:00,4/8/1998 0:00,USA,Chai,39
+32,2,0,4/7/1998 0:00,4/10/1998 0:00,Finland,Chai,39
+21,8,0,4/7/1998 0:00,4/15/1998 0:00,USA,Chai,39
+37,10,0.1,4/15/1998 0:00,4/24/1998 0:00,Finland,Chai,39
+41,45,0,4/17/1998 0:00,4/24/1998 0:00,USA,Chai,39
+57,10,0,4/20/1998 0:00,4/24/1998 0:00,Belgium,Chai,39
+62,25,0.25,4/24/1998 0:00,5/1/1998 0:00,UK,Chai,39
+70,40,0.15000001,5/5/1998 0:00,0000-00-00 00:00:00,Germany,Chai,39
+21,20,0,7/12/1996 0:00,7/15/1996 0:00,Switzerland,Chang,17
+35,50,0.2,7/17/1996 0:00,7/23/1996 0:00,Austria,Chang,17
+5,35,0,7/24/1996 0:00,8/23/1996 0:00,Sweden,Chang,17
+7,40,0,9/5/1996 0:00,9/11/1996 0:00,Ireland,Chang,17
+56,25,0.2,10/11/1996 0:00,10/14/1996 0:00,Sweden,Chang,17
+16,7,0.2,10/22/1996 0:00,10/24/1996 0:00,Ireland,Chang,17
+24,24,0.2,10/30/1996 0:00,11/4/1996 0:00,Germany,Chang,17
+30,25,0.25,12/25/1996 0:00,1/3/1997 0:00,USA,Chang,17
+74,60,0,1/17/1997 0:00,1/24/1997 0:00,Germany,Chang,17
+2,10,0,2/4/1997 0:00,2/7/1997 0:00,UK,Chang,17
+41,45,0.15000001,2/10/1997 0:00,2/28/1997 0:00,USA,Chang,17
+17,40,0.15000001,3/10/1997 0:00,3/14/1997 0:00,USA,Chang,17
+70,20,0.1,3/25/1997 0:00,3/31/1997 0:00,Venezuela,Chang,17
+12,12,0,4/11/1997 0:00,4/18/1997 0:00,USA,Chang,17
+40,10,0,7/25/1997 0:00,8/1/1997 0:00,Poland,Chang,17
+59,20,0,8/6/1997 0:00,8/11/1997 0:00,Brazil,Chang,17
+76,30,0.05,8/14/1997 0:00,8/19/1997 0:00,Germany,Chang,17
+29,50,0,8/22/1997 0:00,8/26/1997 0:00,Venezuela,Chang,17
+72,5,0,10/14/1997 0:00,10/20/1997 0:00,Sweden,Chang,17
+33,30,0.25,10/22/1997 0:00,10/27/1997 0:00,USA,Chang,17
+72,3,0,10/29/1997 0:00,11/4/1997 0:00,USA,Chang,17
+36,15,0.2,11/14/1997 0:00,11/18/1997 0:00,UK,Chang,17
+43,40,0,12/5/1997 0:00,12/9/1997 0:00,Germany,Chang,17
+33,15,0.05,12/19/1997 0:00,12/26/1997 0:00,France,Chang,17
+20,10,0,12/23/1997 0:00,12/31/1997 0:00,Poland,Chang,17
+31,20,0.25,12/31/1997 0:00,1/5/1998 0:00,France,Chang,17
+72,12,0.2,1/5/1998 0:00,1/9/1998 0:00,Brazil,Chang,17
+10,10,0,1/13/1998 0:00,1/23/1998 0:00,UK,Chang,17
+31,5,0.05,1/26/1998 0:00,2/2/1998 0:00,Brazil,Chang,17
+33,15,0,1/26/1998 0:00,1/30/1998 0:00,USA,Chang,17
+40,20,0,1/28/1998 0:00,2/10/1998 0:00,Mexico,Chang,17
+76,21,0.25,2/3/1998 0:00,2/12/1998 0:00,Sweden,Chang,17
+71,20,0,2/12/1998 0:00,2/18/1998 0:00,Belgium,Chang,17
+72,20,0,2/16/1998 0:00,2/23/1998 0:00,Spain,Chang,17
+24,10,0.15000001,3/10/1998 0:00,3/13/1998 0:00,Italy,Chang,17
+59,50,0.2,4/1/1998 0:00,4/7/1998 0:00,Germany,Chang,17
+10,11,0.25,4/14/1998 0:00,4/21/1998 0:00,Germany,Chang,17
+13,100,0.25,4/17/1998 0:00,4/27/1998 0:00,USA,Chang,17
+28,30,0.2,4/22/1998 0:00,4/28/1998 0:00,Switzerland,Chang,17
+62,10,0.2,4/24/1998 0:00,5/4/1998 0:00,Brazil,Chang,17
+44,20,0.15000001,5/5/1998 0:00,0000-00-00 00:00:00,Germany,Chang,17
+59,8,0,5/5/1998 0:00,0000-00-00 00:00:00,Austria,Chang,17
+63,10,0.15000001,5/6/1998 0:00,0000-00-00 00:00:00,Switzerland,Chang,17
+73,24,0.2,5/6/1998 0:00,0000-00-00 00:00:00,USA,Chang,17
+17,30,0,8/26/1996 0:00,8/28/1996 0:00,UK,Aniseed Syrup,13
+24,50,0,1/6/1997 0:00,1/22/1997 0:00,Venezuela,Aniseed Syrup,13
+55,20,0.1,3/25/1997 0:00,3/31/1997 0:00,Venezuela,Aniseed Syrup,13
+75,60,0,5/19/1997 0:00,6/13/1997 0:00,Germany,Aniseed Syrup,13
+19,14,0,7/7/1997 0:00,7/16/1997 0:00,Denmark,Aniseed Syrup,13
+24,6,0,10/13/1997 0:00,10/21/1997 0:00,Germany,Aniseed Syrup,13
+35,20,0,11/14/1997 0:00,11/18/1997 0:00,Canada,Aniseed Syrup,13
+30,20,0.1,12/3/1997 0:00,12/8/1997 0:00,Austria,Aniseed Syrup,13
+57,49,0,1/23/1998 0:00,1/30/1998 0:00,Germany,Aniseed Syrup,13
+15,30,0,1/28/1998 0:00,2/6/1998 0:00,Sweden,Aniseed Syrup,13
+19,25,0,4/13/1998 0:00,4/20/1998 0:00,Austria,Aniseed Syrup,13
+60,4,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Aniseed Syrup,13
+72,20,0,9/19/1996 0:00,10/23/1996 0:00,Ireland,Chef Anton's Cajun Seasoning,53
+27,24,0,10/10/1996 0:00,10/14/1996 0:00,Spain,Chef Anton's Cajun Seasoning,53
+44,18,0.1,10/23/1996 0:00,10/25/1996 0:00,Portugal,Chef Anton's Cajun Seasoning,53
+60,10,0,10/28/1996 0:00,11/4/1996 0:00,Canada,Chef Anton's Cajun Seasoning,53
+67,35,0,11/1/1996 0:00,11/5/1996 0:00,USA,Chef Anton's Cajun Seasoning,53
+1,16,0.2,3/4/1997 0:00,3/14/1997 0:00,Portugal,Chef Anton's Cajun Seasoning,53
+40,50,0.15000001,4/18/1997 0:00,4/21/1997 0:00,France,Chef Anton's Cajun Seasoning,53
+53,50,0.1,5/5/1997 0:00,5/7/1997 0:00,Germany,Chef Anton's Cajun Seasoning,53
+35,50,0.05,5/12/1997 0:00,5/22/1997 0:00,Sweden,Chef Anton's Cajun Seasoning,53
+62,20,0.2,7/22/1997 0:00,7/31/1997 0:00,Brazil,Chef Anton's Cajun Seasoning,53
+16,10,0.1,8/18/1997 0:00,8/21/1997 0:00,Italy,Chef Anton's Cajun Seasoning,53
+34,25,0,8/19/1997 0:00,8/26/1997 0:00,Finland,Chef Anton's Cajun Seasoning,53
+46,12,0.1,9/2/1997 0:00,9/11/1997 0:00,Sweden,Chef Anton's Cajun Seasoning,53
+54,6,0,10/14/1997 0:00,11/7/1997 0:00,Brazil,Chef Anton's Cajun Seasoning,53
+68,25,0,11/3/1997 0:00,12/5/1997 0:00,UK,Chef Anton's Cajun Seasoning,53
+3,21,0,1/22/1998 0:00,1/23/1998 0:00,Belgium,Chef Anton's Cajun Seasoning,53
+64,30,0.25,2/26/1998 0:00,3/4/1998 0:00,Brazil,Chef Anton's Cajun Seasoning,53
+5,5,0,3/16/1998 0:00,3/23/1998 0:00,Italy,Chef Anton's Cajun Seasoning,53
+29,25,0.25,4/6/1998 0:00,4/14/1998 0:00,USA,Chef Anton's Cajun Seasoning,53
+49,1,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Chef Anton's Cajun Seasoning,53
+77,65,0.2,7/17/1996 0:00,7/23/1996 0:00,Austria,Chef Anton's Gumbo Mix,0
+13,12,0.2,7/22/1996 0:00,7/25/1996 0:00,USA,Chef Anton's Gumbo Mix,0
+44,20,0,8/27/1996 0:00,9/3/1996 0:00,Brazil,Chef Anton's Gumbo Mix,0
+51,32,0,12/13/1996 0:00,12/16/1996 0:00,Austria,Chef Anton's Gumbo Mix,0
+20,15,0.1,8/18/1997 0:00,8/21/1997 0:00,Italy,Chef Anton's Gumbo Mix,0
+18,4,0,10/17/1997 0:00,11/5/1997 0:00,USA,Chef Anton's Gumbo Mix,0
+24,30,0,1/23/1998 0:00,1/29/1998 0:00,UK,Chef Anton's Gumbo Mix,0
+63,20,0,3/18/1998 0:00,3/27/1998 0:00,Argentina,Chef Anton's Gumbo Mix,0
+75,70,0,4/17/1998 0:00,4/27/1998 0:00,USA,Chef Anton's Gumbo Mix,0
+1,30,0.25,4/24/1998 0:00,5/1/1998 0:00,UK,Chef Anton's Gumbo Mix,0
+17,30,0,9/19/1996 0:00,10/23/1996 0:00,Ireland,Grandma's Boysenberry Spread,120
+43,6,0,10/9/1996 0:00,10/14/1996 0:00,Germany,Grandma's Boysenberry Spread,120
+60,70,0,8/1/1997 0:00,8/8/1997 0:00,Canada,Grandma's Boysenberry Spread,120
+75,30,0,11/7/1997 0:00,11/12/1997 0:00,Brazil,Grandma's Boysenberry Spread,120
+56,6,0,1/13/1998 0:00,1/21/1998 0:00,Brazil,Grandma's Boysenberry Spread,120
+11,50,0.05,2/5/1998 0:00,2/10/1998 0:00,France,Grandma's Boysenberry Spread,120
+16,20,0,3/9/1998 0:00,3/12/1998 0:00,Germany,Grandma's Boysenberry Spread,120
+69,12,0,3/13/1998 0:00,3/17/1998 0:00,Canada,Grandma's Boysenberry Spread,120
+39,16,0.05,3/16/1998 0:00,3/24/1998 0:00,Germany,Grandma's Boysenberry Spread,120
+72,40,0,3/31/1998 0:00,4/2/1998 0:00,Brazil,Grandma's Boysenberry Spread,120
+2,20,0.25,5/6/1998 0:00,0000-00-00 00:00:00,France,Grandma's Boysenberry Spread,120
+36,1,0.02,5/6/1998 0:00,0000-00-00 00:00:00,USA,Grandma's Boysenberry Spread,120
+59,15,0,7/22/1996 0:00,7/25/1996 0:00,USA,Uncle Bob's Organic Dried Pears,15
+62,10,0.2,12/17/1996 0:00,12/23/1996 0:00,USA,Uncle Bob's Organic Dried Pears,15
+19,16,0.05,2/27/1997 0:00,2/28/1997 0:00,France,Uncle Bob's Organic Dried Pears,15
+70,30,0,3/11/1997 0:00,3/18/1997 0:00,UK,Uncle Bob's Organic Dried Pears,15
+66,50,0.15000001,4/18/1997 0:00,4/21/1997 0:00,France,Uncle Bob's Organic Dried Pears,15
+68,10,0,5/23/1997 0:00,5/27/1997 0:00,France,Uncle Bob's Organic Dried Pears,15
+40,10,0,7/7/1997 0:00,7/16/1997 0:00,Denmark,Uncle Bob's Organic Dried Pears,15
+56,45,0,7/22/1997 0:00,7/25/1997 0:00,USA,Uncle Bob's Organic Dried Pears,15
+17,35,0,8/15/1997 0:00,8/21/1997 0:00,France,Uncle Bob's Organic Dried Pears,15
+28,90,0,10/6/1997 0:00,10/9/1997 0:00,Germany,Uncle Bob's Organic Dried Pears,15
+43,35,0,12/5/1997 0:00,12/9/1997 0:00,Germany,Uncle Bob's Organic Dried Pears,15
+40,3,0.15000001,12/22/1997 0:00,12/26/1997 0:00,Brazil,Uncle Bob's Organic Dried Pears,15
+65,20,0.1,1/15/1998 0:00,1/23/1998 0:00,Germany,Uncle Bob's Organic Dried Pears,15
+68,5,0,1/29/1998 0:00,2/3/1998 0:00,France,Uncle Bob's Organic Dried Pears,15
+49,20,0.05,2/26/1998 0:00,3/6/1998 0:00,Italy,Uncle Bob's Organic Dried Pears,15
+59,12,0,2/26/1998 0:00,3/10/1998 0:00,Norway,Uncle Bob's Organic Dried Pears,15
+71,8,0,3/11/1998 0:00,3/23/1998 0:00,France,Uncle Bob's Organic Dried Pears,15
+18,6,0,3/18/1998 0:00,3/27/1998 0:00,Argentina,Uncle Bob's Organic Dried Pears,15
+29,45,0,3/19/1998 0:00,3/23/1998 0:00,Germany,Uncle Bob's Organic Dried Pears,15
+39,18,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Uncle Bob's Organic Dried Pears,15
+30,20,0,3/27/1998 0:00,4/8/1998 0:00,Canada,Uncle Bob's Organic Dried Pears,15
+53,60,0,3/31/1998 0:00,4/6/1998 0:00,UK,Uncle Bob's Organic Dried Pears,15
+54,60,0,3/31/1998 0:00,4/10/1998 0:00,USA,Uncle Bob's Organic Dried Pears,15
+62,60,0,4/6/1998 0:00,4/14/1998 0:00,Sweden,Uncle Bob's Organic Dried Pears,15
+68,20,0,4/9/1998 0:00,4/21/1998 0:00,Italy,Uncle Bob's Organic Dried Pears,15
+69,4,0,4/14/1998 0:00,4/24/1998 0:00,UK,Uncle Bob's Organic Dried Pears,15
+70,40,0,4/28/1998 0:00,5/1/1998 0:00,UK,Uncle Bob's Organic Dried Pears,15
+4,15,0.05,5/5/1998 0:00,0000-00-00 00:00:00,Venezuela,Uncle Bob's Organic Dried Pears,15
+6,1,0.05,5/6/1998 0:00,0000-00-00 00:00:00,USA,Uncle Bob's Organic Dried Pears,15
+42,70,0.25,11/1/1996 0:00,11/5/1996 0:00,USA,Northwoods Cranberry Sauce,6
+43,70,0,11/4/1996 0:00,11/11/1996 0:00,Germany,Northwoods Cranberry Sauce,6
+71,10,0.15000001,4/18/1997 0:00,4/21/1997 0:00,France,Northwoods Cranberry Sauce,6
+16,24,0,4/30/1997 0:00,5/6/1997 0:00,Germany,Northwoods Cranberry Sauce,6
+62,10,0,10/7/1997 0:00,10/14/1997 0:00,Finland,Northwoods Cranberry Sauce,6
+42,40,0,10/17/1997 0:00,11/20/1997 0:00,Brazil,Northwoods Cranberry Sauce,6
+69,30,0.2,12/19/1997 0:00,12/23/1997 0:00,Brazil,Northwoods Cranberry Sauce,6
+28,20,0,1/13/1998 0:00,1/23/1998 0:00,UK,Northwoods Cranberry Sauce,6
+43,30,0,2/18/1998 0:00,2/20/1998 0:00,Germany,Northwoods Cranberry Sauce,6
+53,16,0,3/25/1998 0:00,3/27/1998 0:00,Canada,Northwoods Cranberry Sauce,6
+75,20,0.15000001,3/26/1998 0:00,4/23/1998 0:00,Belgium,Northwoods Cranberry Sauce,6
+36,30,0,4/8/1998 0:00,4/13/1998 0:00,Portugal,Northwoods Cranberry Sauce,6
+32,2,0.1,5/6/1998 0:00,0000-00-00 00:00:00,USA,Northwoods Cranberry Sauce,6
+58,20,0.1,1/21/1997 0:00,1/27/1997 0:00,Brazil,Mishi Kobe Niku,29
+62,16,0.15000001,4/23/1997 0:00,5/23/1997 0:00,Germany,Mishi Kobe Niku,29
+34,50,0.25,9/30/1997 0:00,10/30/1997 0:00,Ireland,Mishi Kobe Niku,29
+70,6,0,10/6/1997 0:00,10/10/1997 0:00,USA,Mishi Kobe Niku,29
+41,3,0,1/23/1998 0:00,1/29/1998 0:00,UK,Mishi Kobe Niku,29
+62,24,0.05,8/5/1996 0:00,8/12/1996 0:00,Germany,Ikura,31
+1,15,0,8/8/1996 0:00,8/14/1996 0:00,Mexico,Ikura,31
+41,30,0.2,11/19/1996 0:00,12/2/1996 0:00,Venezuela,Ikura,31
+76,16,0,12/20/1996 0:00,12/24/1996 0:00,Canada,Ikura,31
+17,14,0,2/18/1997 0:00,2/27/1997 0:00,France,Ikura,31
+28,20,0.2,2/19/1997 0:00,3/11/1997 0:00,France,Ikura,31
+76,20,0.05,3/18/1997 0:00,3/26/1997 0:00,France,Ikura,31
+71,16,0.05,4/28/1997 0:00,5/1/1997 0:00,Switzerland,Ikura,31
+35,2,0,5/1/1997 0:00,5/7/1997 0:00,Sweden,Ikura,31
+52,5,0,6/13/1997 0:00,7/9/1997 0:00,Spain,Ikura,31
+15,10,0,7/24/1997 0:00,7/30/1997 0:00,France,Ikura,31
+25,70,0,7/28/1997 0:00,8/1/1997 0:00,USA,Ikura,31
+39,18,0.25,8/27/1997 0:00,9/3/1997 0:00,Ireland,Ikura,31
+16,24,0.15000001,9/10/1997 0:00,9/19/1997 0:00,Portugal,Ikura,31
+35,2,0,9/22/1997 0:00,9/29/1997 0:00,Mexico,Ikura,31
+46,20,0,9/29/1997 0:00,10/3/1997 0:00,Brazil,Ikura,31
+59,18,0.1,10/1/1997 0:00,10/7/1997 0:00,Denmark,Ikura,31
+63,18,0,10/22/1997 0:00,10/24/1997 0:00,USA,Ikura,31
+6,21,0,10/23/1997 0:00,10/29/1997 0:00,France,Ikura,31
+13,16,0,10/30/1997 0:00,11/5/1997 0:00,Canada,Ikura,31
+14,6,0,12/12/1997 0:00,12/26/1997 0:00,USA,Ikura,31
+31,10,0,12/18/1997 0:00,12/24/1997 0:00,Venezuela,Ikura,31
+72,36,0,12/30/1997 0:00,1/7/1998 0:00,UK,Ikura,31
+4,15,0,1/12/1998 0:00,2/6/1998 0:00,France,Ikura,31
+57,16,0,1/20/1998 0:00,1/29/1998 0:00,Belgium,Ikura,31
+75,100,0.15000001,1/27/1998 0:00,2/5/1998 0:00,Austria,Ikura,31
+2,10,0,2/6/1998 0:00,2/11/1998 0:00,Spain,Ikura,31
+11,70,0,2/13/1998 0:00,3/2/1998 0:00,Brazil,Ikura,31
+30,20,0.1,3/4/1998 0:00,4/8/1998 0:00,Sweden,Ikura,31
+58,25,0,3/12/1998 0:00,3/19/1998 0:00,Denmark,Ikura,31
+59,30,0,3/13/1998 0:00,3/17/1998 0:00,Canada,Ikura,31
+65,24,0.15000001,4/14/1998 0:00,4/16/1998 0:00,Germany,Ikura,31
+68,1,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Ikura,31
+19,12,0,7/4/1996 0:00,7/16/1996 0:00,France,Queso Cabrales,22
+30,12,0,9/3/1996 0:00,9/11/1996 0:00,Venezuela,Queso Cabrales,22
+38,50,0.2,10/11/1996 0:00,10/14/1996 0:00,Sweden,Queso Cabrales,22
+56,12,0.2,11/13/1996 0:00,11/25/1996 0:00,Austria,Queso Cabrales,22
+26,24,0,11/27/1996 0:00,12/2/1996 0:00,Mexico,Queso Cabrales,22
+72,30,0,1/7/1997 0:00,1/30/1997 0:00,Germany,Queso Cabrales,22
+54,6,0,2/3/1997 0:00,2/13/1997 0:00,Sweden,Queso Cabrales,22
+18,30,0,2/11/1997 0:00,2/18/1997 0:00,Austria,Queso Cabrales,22
+42,6,0.2,2/12/1997 0:00,2/14/1997 0:00,Italy,Queso Cabrales,22
+47,10,0,3/6/1997 0:00,3/13/1997 0:00,Brazil,Queso Cabrales,22
+14,5,0,3/26/1997 0:00,4/2/1997 0:00,Venezuela,Queso Cabrales,22
+21,15,0.25,3/28/1997 0:00,4/9/1997 0:00,Austria,Queso Cabrales,22
+71,3,0,5/6/1997 0:00,5/9/1997 0:00,USA,Queso Cabrales,22
+52,50,0.1,5/13/1997 0:00,5/21/1997 0:00,Mexico,Queso Cabrales,22
+68,15,0.05,5/20/1997 0:00,5/26/1997 0:00,Germany,Queso Cabrales,22
+2,10,0,5/22/1997 0:00,6/26/1997 0:00,USA,Queso Cabrales,22
+31,15,0,5/30/1997 0:00,6/3/1997 0:00,Finland,Queso Cabrales,22
+32,35,0.15000001,6/12/1997 0:00,6/18/1997 0:00,France,Queso Cabrales,22
+51,15,0.05,6/17/1997 0:00,6/19/1997 0:00,Canada,Queso Cabrales,22
+4,14,0,7/29/1997 0:00,8/1/1997 0:00,Germany,Queso Cabrales,22
+23,10,0,8/19/1997 0:00,8/26/1997 0:00,Brazil,Queso Cabrales,22
+26,15,0,10/9/1997 0:00,10/17/1997 0:00,Austria,Queso Cabrales,22
+36,5,0,11/3/1997 0:00,12/5/1997 0:00,UK,Queso Cabrales,22
+37,15,0.25,12/9/1997 0:00,12/17/1997 0:00,Brazil,Queso Cabrales,22
+72,20,0,12/25/1997 0:00,1/5/1998 0:00,Germany,Queso Cabrales,22
+17,50,0.1,12/26/1997 0:00,1/5/1998 0:00,UK,Queso Cabrales,22
+30,20,0.1,1/9/1998 0:00,1/13/1998 0:00,Venezuela,Queso Cabrales,22
+4,15,0,1/20/1998 0:00,1/29/1998 0:00,Mexico,Queso Cabrales,22
+17,25,0,1/30/1998 0:00,2/2/1998 0:00,Germany,Queso Cabrales,22
+62,10,0,2/4/1998 0:00,2/9/1998 0:00,UK,Queso Cabrales,22
+18,40,0,2/16/1998 0:00,2/23/1998 0:00,USA,Queso Cabrales,22
+41,40,0.25,2/26/1998 0:00,3/18/1998 0:00,Ireland,Queso Cabrales,22
+43,2,0,3/4/1998 0:00,3/11/1998 0:00,Mexico,Queso Cabrales,22
+33,5,0.25,3/12/1998 0:00,3/13/1998 0:00,Canada,Queso Cabrales,22
+59,30,0,3/30/1998 0:00,4/21/1998 0:00,Argentina,Queso Cabrales,22
+2,15,0,3/31/1998 0:00,4/2/1998 0:00,Brazil,Queso Cabrales,22
+31,10,0,4/22/1998 0:00,4/29/1998 0:00,France,Queso Cabrales,22
+36,10,0,5/5/1998 0:00,0000-00-00 00:00:00,Mexico,Queso Cabrales,22
+55,12,0.05,7/26/1996 0:00,7/31/1996 0:00,Finland,Queso Manchego La Pastora,86
+64,15,0,2/7/1997 0:00,2/10/1997 0:00,Canada,Queso Manchego La Pastora,86
+68,15,0.25,5/14/1997 0:00,6/6/1997 0:00,Germany,Queso Manchego La Pastora,86
+76,30,0.15000001,5/21/1997 0:00,5/23/1997 0:00,Venezuela,Queso Manchego La Pastora,86
+4,36,0.15000001,8/15/1997 0:00,8/18/1997 0:00,Austria,Queso Manchego La Pastora,86
+8,100,0,9/23/1997 0:00,10/16/1997 0:00,USA,Queso Manchego La Pastora,86
+8,4,0,10/7/1997 0:00,10/14/1997 0:00,Finland,Queso Manchego La Pastora,86
+19,36,0,10/27/1997 0:00,10/29/1997 0:00,Germany,Queso Manchego La Pastora,86
+42,30,0,3/23/1998 0:00,4/1/1998 0:00,Austria,Queso Manchego La Pastora,86
+17,20,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Queso Manchego La Pastora,86
+56,20,0,4/13/1998 0:00,4/16/1998 0:00,USA,Queso Manchego La Pastora,86
+25,20,0.05,4/23/1998 0:00,4/24/1998 0:00,Germany,Queso Manchego La Pastora,86
+39,4,0.2,4/24/1998 0:00,5/4/1998 0:00,Brazil,Queso Manchego La Pastora,86
+40,2,0.05,5/6/1998 0:00,0000-00-00 00:00:00,USA,Queso Manchego La Pastora,86
+75,10,0,8/8/1996 0:00,8/14/1996 0:00,Mexico,Konbu,24
+1,20,0.1,8/27/1996 0:00,9/4/1996 0:00,Brazil,Konbu,24
+23,12,0,10/9/1996 0:00,10/14/1996 0:00,Germany,Konbu,24
+54,20,0,12/16/1996 0:00,12/18/1996 0:00,UK,Konbu,24
+50,18,0,12/23/1996 0:00,12/31/1996 0:00,Germany,Konbu,24
+69,10,0,12/25/1996 0:00,1/3/1997 0:00,USA,Konbu,24
+38,2,0.1,1/21/1997 0:00,1/27/1997 0:00,Brazil,Konbu,24
+41,1,0,3/3/1997 0:00,3/18/1997 0:00,UK,Konbu,24
+44,10,0,4/16/1997 0:00,5/13/1997 0:00,Germany,Konbu,24
+65,10,0,5/5/1997 0:00,5/15/1997 0:00,Finland,Konbu,24
+24,8,0,5/16/1997 0:00,5/23/1997 0:00,UK,Konbu,24
+54,60,0,7/16/1997 0:00,7/22/1997 0:00,Venezuela,Konbu,24
+11,8,0.1,7/29/1997 0:00,8/1/1997 0:00,Venezuela,Konbu,24
+38,13,0.15000001,8/15/1997 0:00,8/18/1997 0:00,Austria,Konbu,24
+1,4,0,11/11/1997 0:00,11/18/1997 0:00,France,Konbu,24
+29,6,0,11/19/1997 0:00,11/21/1997 0:00,Switzerland,Konbu,24
+24,20,0.15000001,12/26/1997 0:00,1/5/1998 0:00,Germany,Konbu,24
+57,7,0,1/1/1998 0:00,1/7/1998 0:00,Canada,Konbu,24
+31,10,0,1/13/1998 0:00,1/23/1998 0:00,UK,Konbu,24
+55,3,0.2,1/14/1998 0:00,1/19/1998 0:00,France,Konbu,24
+69,6,0,1/16/1998 0:00,1/23/1998 0:00,Sweden,Konbu,24
+10,65,0.15000001,1/27/1998 0:00,2/5/1998 0:00,Austria,Konbu,24
+26,28,0.05,2/18/1998 0:00,2/20/1998 0:00,USA,Konbu,24
+60,5,0,2/20/1998 0:00,3/6/1998 0:00,Argentina,Konbu,24
+24,40,0,2/24/1998 0:00,3/4/1998 0:00,Brazil,Konbu,24
+34,10,0,3/4/1998 0:00,3/11/1998 0:00,Mexico,Konbu,24
+36,42,0.15000001,3/6/1998 0:00,3/19/1998 0:00,Switzerland,Konbu,24
+16,20,0.25,3/10/1998 0:00,3/16/1998 0:00,Germany,Konbu,24
+31,20,0,3/11/1998 0:00,3/23/1998 0:00,France,Konbu,24
+60,15,0,3/11/1998 0:00,3/19/1998 0:00,UK,Konbu,24
+28,20,0,3/12/1998 0:00,3/18/1998 0:00,Germany,Konbu,24
+29,77,0,3/19/1998 0:00,3/23/1998 0:00,Germany,Konbu,24
+38,84,0.15000001,3/27/1998 0:00,4/6/1998 0:00,USA,Konbu,24
+49,56,0,4/6/1998 0:00,4/16/1998 0:00,USA,Konbu,24
+54,20,0.1,4/15/1998 0:00,4/24/1998 0:00,Finland,Konbu,24
+39,80,0,4/17/1998 0:00,4/24/1998 0:00,USA,Konbu,24
+60,7,0,4/20/1998 0:00,4/22/1998 0:00,Germany,Konbu,24
+25,30,0,4/29/1998 0:00,0000-00-00 00:00:00,Brazil,Konbu,24
+51,10,0.05,5/5/1998 0:00,0000-00-00 00:00:00,Venezuela,Konbu,24
+54,4,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Konbu,24
+31,9,0,7/5/1996 0:00,7/10/1996 0:00,Germany,Tofu,35
+75,9,0,10/9/1996 0:00,10/14/1996 0:00,Germany,Tofu,35
+76,10,0,10/18/1996 0:00,10/25/1996 0:00,Finland,Tofu,35
+69,15,0,12/6/1996 0:00,12/9/1996 0:00,USA,Tofu,35
+71,42,0.25,12/25/1996 0:00,1/3/1997 0:00,USA,Tofu,35
+11,12,0,1/9/1997 0:00,1/14/1997 0:00,Argentina,Tofu,35
+65,20,0.1,1/13/1997 0:00,1/15/1997 0:00,Finland,Tofu,35
+77,35,0,1/27/1997 0:00,3/3/1997 0:00,Austria,Tofu,35
+34,12,0,3/13/1997 0:00,3/21/1997 0:00,Mexico,Tofu,35
+54,70,0,4/11/1997 0:00,4/16/1997 0:00,Ireland,Tofu,35
+65,30,0.2,6/2/1997 0:00,6/4/1997 0:00,USA,Tofu,35
+77,11,0.15000001,6/17/1997 0:00,7/4/1997 0:00,Austria,Tofu,35
+21,15,0.05,6/26/1997 0:00,7/1/1997 0:00,Germany,Tofu,35
+28,21,0,8/7/1997 0:00,8/12/1997 0:00,Germany,Tofu,35
+57,3,0,8/8/1997 0:00,8/14/1997 0:00,Mexico,Tofu,35
+64,3,0.1,9/4/1997 0:00,9/10/1997 0:00,USA,Tofu,35
+29,30,0,9/19/1997 0:00,9/23/1997 0:00,Germany,Tofu,35
+56,16,0,11/7/1997 0:00,11/10/1997 0:00,Sweden,Tofu,35
+1,5,0.15000001,11/21/1997 0:00,11/24/1997 0:00,Finland,Tofu,35
+64,15,0.2,12/24/1997 0:00,1/2/1998 0:00,Brazil,Tofu,35
+74,20,0.25,5/6/1998 0:00,0000-00-00 00:00:00,France,Tofu,35
+36,1,0.03,5/6/1998 0:00,0000-00-00 00:00:00,USA,Tofu,35
+20,20,0,8/16/1996 0:00,8/23/1996 0:00,Venezuela,Genen Shouyu,39
+38,5,0,10/7/1996 0:00,10/14/1996 0:00,Germany,Genen Shouyu,39
+60,12,0.05,4/9/1997 0:00,4/17/1997 0:00,France,Genen Shouyu,39
+72,10,0,6/25/1997 0:00,7/4/1997 0:00,USA,Genen Shouyu,39
+58,25,0.05,7/8/1997 0:00,7/16/1997 0:00,Germany,Genen Shouyu,39
+71,50,0,9/4/1997 0:00,9/15/1997 0:00,USA,Genen Shouyu,39
+31,35,0,7/12/1996 0:00,7/15/1996 0:00,Switzerland,Pavlova,29
+58,60,0.25,7/23/1996 0:00,7/31/1996 0:00,Austria,Pavlova,29
+14,40,0.15000001,8/22/1996 0:00,8/28/1996 0:00,Brazil,Pavlova,29
+54,30,0,9/3/1996 0:00,9/11/1996 0:00,Venezuela,Pavlova,29
+31,10,0,9/20/1996 0:00,9/27/1996 0:00,USA,Pavlova,29
+28,21,0.15000001,10/8/1996 0:00,10/10/1996 0:00,USA,Pavlova,29
+39,56,0.05,11/21/1996 0:00,11/26/1996 0:00,UK,Pavlova,29
+71,21,0.15000001,1/3/1997 0:00,1/9/1997 0:00,Austria,Pavlova,29
+41,16,0,2/7/1997 0:00,2/10/1997 0:00,Canada,Pavlova,29
+63,49,0.15000001,2/10/1997 0:00,2/28/1997 0:00,USA,Pavlova,29
+65,20,0.2,2/21/1997 0:00,2/25/1997 0:00,France,Pavlova,29
+30,35,0.15000001,3/10/1997 0:00,3/14/1997 0:00,USA,Pavlova,29
+53,18,0,3/28/1997 0:00,4/9/1997 0:00,Austria,Pavlova,29
+60,50,0,4/23/1997 0:00,5/23/1997 0:00,Germany,Pavlova,29
+70,40,0.15000001,5/28/1997 0:00,6/6/1997 0:00,Portugal,Pavlova,29
+74,14,0,5/30/1997 0:00,6/3/1997 0:00,Finland,Pavlova,29
+5,30,0.05,5/30/1997 0:00,6/5/1997 0:00,Germany,Pavlova,29
+18,12,0.1,6/18/1997 0:00,6/25/1997 0:00,Sweden,Pavlova,29
+29,30,0.05,7/21/1997 0:00,7/29/1997 0:00,Canada,Pavlova,29
+33,30,0.1,9/2/1997 0:00,9/19/1997 0:00,Germany,Pavlova,29
+74,10,0,9/17/1997 0:00,9/24/1997 0:00,France,Pavlova,29
+13,3,0,9/18/1997 0:00,9/19/1997 0:00,Finland,Pavlova,29
+50,50,0.25,9/24/1997 0:00,9/26/1997 0:00,USA,Pavlova,29
+56,20,0,10/16/1997 0:00,10/21/1997 0:00,USA,Pavlova,29
+20,20,0,10/27/1997 0:00,10/29/1997 0:00,Germany,Pavlova,29
+60,15,0.05,11/5/1997 0:00,11/14/1997 0:00,France,Pavlova,29
+7,3,0,11/12/1997 0:00,11/18/1997 0:00,France,Pavlova,29
+60,20,0,12/16/1997 0:00,1/14/1998 0:00,Germany,Pavlova,29
+68,65,0,12/24/1997 0:00,1/20/1998 0:00,Austria,Pavlova,29
+24,50,0,1/27/1998 0:00,2/4/1998 0:00,USA,Pavlova,29
+34,12,0.05,2/5/1998 0:00,2/10/1998 0:00,France,Pavlova,29
+24,30,0.25,2/9/1998 0:00,2/19/1998 0:00,Brazil,Pavlova,29
+28,15,0,2/26/1998 0:00,3/10/1998 0:00,Norway,Pavlova,29
+59,6,0,2/27/1998 0:00,3/9/1998 0:00,Argentina,Pavlova,29
+71,24,0,3/2/1998 0:00,3/4/1998 0:00,Venezuela,Pavlova,29
+45,30,0.1,3/6/1998 0:00,3/24/1998 0:00,France,Pavlova,29
+52,28,0.15000001,3/17/1998 0:00,3/20/1998 0:00,Venezuela,Pavlova,29
+53,55,0,3/30/1998 0:00,4/3/1998 0:00,USA,Pavlova,29
+10,36,0.1,3/30/1998 0:00,4/2/1998 0:00,Ireland,Pavlova,29
+55,3,0,5/1/1998 0:00,5/4/1998 0:00,USA,Pavlova,29
+62,30,0.15000001,5/5/1998 0:00,0000-00-00 00:00:00,Germany,Pavlova,29
+70,14,0.05,5/6/1998 0:00,0000-00-00 00:00:00,Denmark,Pavlova,29
+31,2,0.03,5/6/1998 0:00,0000-00-00 00:00:00,USA,Pavlova,29
+35,30,0,7/25/1996 0:00,8/12/1996 0:00,France,Alice Mutton,0
+46,15,0.25,8/13/1996 0:00,8/16/1996 0:00,Germany,Alice Mutton,0
+72,15,0,8/30/1996 0:00,9/5/1996 0:00,USA,Alice Mutton,0
+13,40,0,9/10/1996 0:00,10/9/1996 0:00,Belgium,Alice Mutton,0
+69,8,0,10/2/1996 0:00,10/11/1996 0:00,Mexico,Alice Mutton,0
+2,20,0,10/25/1996 0:00,10/29/1996 0:00,USA,Alice Mutton,0
+14,70,0.05,10/28/1996 0:00,11/4/1996 0:00,Canada,Alice Mutton,0
+25,36,0.1,11/5/1996 0:00,11/8/1996 0:00,USA,Alice Mutton,0
+26,2,0,1/15/1997 0:00,1/24/1997 0:00,USA,Alice Mutton,0
+31,45,0.2,1/30/1997 0:00,2/3/1997 0:00,Austria,Alice Mutton,0
+13,50,0.25,1/30/1997 0:00,2/7/1997 0:00,Canada,Alice Mutton,0
+62,10,0,2/12/1997 0:00,2/21/1997 0:00,Sweden,Alice Mutton,0
+46,25,0.1,5/1/1997 0:00,5/30/1997 0:00,UK,Alice Mutton,0
+53,40,0,5/8/1997 0:00,5/12/1997 0:00,Austria,Alice Mutton,0
+69,8,0.1,5/28/1997 0:00,6/6/1997 0:00,Spain,Alice Mutton,0
+23,16,0.05,6/10/1997 0:00,6/16/1997 0:00,USA,Alice Mutton,0
+71,18,0,6/19/1997 0:00,6/20/1997 0:00,Mexico,Alice Mutton,0
+72,100,0,7/22/1997 0:00,7/25/1997 0:00,USA,Alice Mutton,0
+21,30,0.2,9/30/1997 0:00,10/8/1997 0:00,Austria,Alice Mutton,0
+51,20,0,10/8/1997 0:00,10/14/1997 0:00,USA,Alice Mutton,0
+35,8,0.05,10/9/1997 0:00,10/17/1997 0:00,Austria,Alice Mutton,0
+55,27,0.25,10/22/1997 0:00,10/27/1997 0:00,USA,Alice Mutton,0
+68,20,0.05,11/3/1997 0:00,12/5/1997 0:00,Italy,Alice Mutton,0
+71,33,0,12/11/1997 0:00,12/16/1997 0:00,Austria,Alice Mutton,0
+76,35,0.25,12/24/1997 0:00,1/20/1998 0:00,Austria,Alice Mutton,0
+77,40,0.25,12/29/1997 0:00,12/31/1997 0:00,Spain,Alice Mutton,0
+29,6,0,1/26/1998 0:00,1/30/1998 0:00,USA,Alice Mutton,0
+35,42,0,1/30/1998 0:00,2/17/1998 0:00,USA,Alice Mutton,0
+49,16,0.05,2/5/1998 0:00,2/10/1998 0:00,France,Alice Mutton,0
+30,15,0,2/16/1998 0:00,2/18/1998 0:00,France,Alice Mutton,0
+56,12,0,2/26/1998 0:00,3/5/1998 0:00,Spain,Alice Mutton,0
+65,10,0,2/27/1998 0:00,3/2/1998 0:00,Mexico,Alice Mutton,0
+71,15,0,3/3/1998 0:00,3/5/1998 0:00,Brazil,Alice Mutton,0
+23,6,0,3/13/1998 0:00,3/17/1998 0:00,Canada,Alice Mutton,0
+63,6,0,3/24/1998 0:00,3/26/1998 0:00,France,Alice Mutton,0
+16,12,0,4/29/1998 0:00,0000-00-00 00:00:00,Brazil,Alice Mutton,0
+48,77,0.1,5/1/1998 0:00,5/4/1998 0:00,USA,Alice Mutton,0
+26,12,0,8/29/1996 0:00,9/11/1996 0:00,Mexico,Carnarvon Tigers,42
+42,25,0.1,9/13/1996 0:00,10/9/1996 0:00,USA,Carnarvon Tigers,42
+49,40,0.2,10/17/1996 0:00,10/21/1996 0:00,Canada,Carnarvon Tigers,42
+3,20,0.05,10/29/1996 0:00,11/8/1996 0:00,France,Carnarvon Tigers,42
+1,9,0,12/13/1996 0:00,12/16/1996 0:00,Austria,Carnarvon Tigers,42
+21,30,0,3/11/1997 0:00,3/14/1997 0:00,France,Carnarvon Tigers,42
+28,25,0.1,4/24/1997 0:00,5/1/1997 0:00,Ireland,Carnarvon Tigers,42
+36,18,0.15000001,6/12/1997 0:00,6/18/1997 0:00,France,Carnarvon Tigers,42
+40,40,0.2,7/3/1997 0:00,7/10/1997 0:00,Germany,Carnarvon Tigers,42
+11,50,0,8/15/1997 0:00,8/21/1997 0:00,France,Carnarvon Tigers,42
+69,8,0,8/20/1997 0:00,8/27/1997 0:00,Norway,Carnarvon Tigers,42
+71,4,0.1,8/25/1997 0:00,9/1/1997 0:00,Brazil,Carnarvon Tigers,42
+37,20,0,8/26/1997 0:00,9/2/1997 0:00,Brazil,Carnarvon Tigers,42
+54,12,0.25,10/27/1997 0:00,11/5/1997 0:00,USA,Carnarvon Tigers,42
+62,24,0,11/18/1997 0:00,11/27/1997 0:00,Germany,Carnarvon Tigers,42
+14,21,0.2,11/27/1997 0:00,12/2/1997 0:00,USA,Carnarvon Tigers,42
+21,30,0,12/22/1997 0:00,12/31/1997 0:00,France,Carnarvon Tigers,42
+33,25,0.25,1/19/1998 0:00,1/23/1998 0:00,Venezuela,Carnarvon Tigers,42
+59,10,0,1/27/1998 0:00,2/3/1998 0:00,Germany,Carnarvon Tigers,42
+41,20,0,1/30/1998 0:00,2/17/1998 0:00,USA,Carnarvon Tigers,42
+44,25,0,2/9/1998 0:00,2/19/1998 0:00,Brazil,Carnarvon Tigers,42
+59,4,0.25,3/9/1998 0:00,3/18/1998 0:00,Brazil,Carnarvon Tigers,42
+14,6,0,3/20/1998 0:00,3/24/1998 0:00,France,Carnarvon Tigers,42
+1,8,0.1,3/30/1998 0:00,4/2/1998 0:00,Ireland,Carnarvon Tigers,42
+62,10,0,4/13/1998 0:00,4/16/1998 0:00,USA,Carnarvon Tigers,42
+76,8,0,4/15/1998 0:00,4/28/1998 0:00,Italy,Carnarvon Tigers,42
+19,35,0.2,4/27/1998 0:00,4/29/1998 0:00,Austria,Carnarvon Tigers,42
+33,1,0,8/14/1996 0:00,8/21/1996 0:00,Spain,Teatime Chocolate Biscuits,25
+17,18,0,8/16/1996 0:00,8/23/1996 0:00,Venezuela,Teatime Chocolate Biscuits,25
+33,15,0,9/6/1996 0:00,9/13/1996 0:00,Brazil,Teatime Chocolate Biscuits,25
+19,10,0.05,10/15/1996 0:00,10/23/1996 0:00,USA,Teatime Chocolate Biscuits,25
+53,80,0,11/4/1996 0:00,11/11/1996 0:00,Germany,Teatime Chocolate Biscuits,25
+57,18,0.05,1/14/1997 0:00,1/17/1997 0:00,Brazil,Teatime Chocolate Biscuits,25
+38,20,0,1/16/1997 0:00,1/27/1997 0:00,Finland,Teatime Chocolate Biscuits,25
+46,4,0.15000001,1/21/1997 0:00,1/27/1997 0:00,Brazil,Teatime Chocolate Biscuits,25
+68,15,0.2,2/6/1997 0:00,2/14/1997 0:00,Germany,Teatime Chocolate Biscuits,25
+77,12,0.1,2/14/1997 0:00,2/19/1997 0:00,Germany,Teatime Chocolate Biscuits,25
+2,40,0,2/14/1997 0:00,3/7/1997 0:00,Brazil,Teatime Chocolate Biscuits,25
+47,21,0,3/4/1997 0:00,3/6/1997 0:00,Belgium,Teatime Chocolate Biscuits,25
+61,5,0,3/26/1997 0:00,3/28/1997 0:00,Brazil,Teatime Chocolate Biscuits,25
+74,10,0,5/28/1997 0:00,6/6/1997 0:00,Spain,Teatime Chocolate Biscuits,25
+60,35,0.2,6/2/1997 0:00,6/4/1997 0:00,USA,Teatime Chocolate Biscuits,25
+69,5,0,8/5/1997 0:00,8/11/1997 0:00,UK,Teatime Chocolate Biscuits,25
+9,15,0.1,8/7/1997 0:00,8/12/1997 0:00,Germany,Teatime Chocolate Biscuits,25
+13,30,0,8/27/1997 0:00,9/3/1997 0:00,Brazil,Teatime Chocolate Biscuits,25
+70,12,0.25,9/1/1997 0:00,9/11/1997 0:00,Germany,Teatime Chocolate Biscuits,25
+73,7,0,9/22/1997 0:00,9/29/1997 0:00,Mexico,Teatime Chocolate Biscuits,25
+19,30,0.1,9/25/1997 0:00,9/30/1997 0:00,USA,Teatime Chocolate Biscuits,25
+26,7,0.25,10/8/1997 0:00,10/14/1997 0:00,Venezuela,Teatime Chocolate Biscuits,25
+53,5,0,10/20/1997 0:00,10/23/1997 0:00,Italy,Teatime Chocolate Biscuits,25
+77,12,0,10/21/1997 0:00,10/29/1997 0:00,USA,Teatime Chocolate Biscuits,25
+26,50,0.05,12/22/1997 0:00,1/19/1998 0:00,Germany,Teatime Chocolate Biscuits,25
+31,24,0.05,12/30/1997 0:00,1/6/1998 0:00,Brazil,Teatime Chocolate Biscuits,25
+59,15,0,1/2/1998 0:00,1/8/1998 0:00,Venezuela,Teatime Chocolate Biscuits,25
+35,2,0,1/14/1998 0:00,1/23/1998 0:00,Norway,Teatime Chocolate Biscuits,25
+38,12,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Teatime Chocolate Biscuits,25
+68,25,0,2/6/1998 0:00,3/3/1998 0:00,Sweden,Teatime Chocolate Biscuits,25
+55,12,0,2/26/1998 0:00,3/4/1998 0:00,Finland,Teatime Chocolate Biscuits,25
+76,7,0,3/4/1998 0:00,3/11/1998 0:00,Mexico,Teatime Chocolate Biscuits,25
+56,12,0,3/23/1998 0:00,4/2/1998 0:00,Germany,Teatime Chocolate Biscuits,25
+64,50,0.05,4/9/1998 0:00,4/17/1998 0:00,Germany,Teatime Chocolate Biscuits,25
+14,35,0,4/14/1998 0:00,5/4/1998 0:00,Brazil,Teatime Chocolate Biscuits,25
+46,42,0,5/1/1998 0:00,5/4/1998 0:00,USA,Teatime Chocolate Biscuits,25
+50,10,0.25,5/6/1998 0:00,0000-00-00 00:00:00,France,Teatime Chocolate Biscuits,25
+63,40,0.05,7/9/1996 0:00,7/11/1996 0:00,Belgium,Sir Rodney's Marmalade,40
+17,6,0,8/2/1996 0:00,8/6/1996 0:00,USA,Sir Rodney's Marmalade,40
+21,20,0,8/28/1996 0:00,9/2/1996 0:00,Brazil,Sir Rodney's Marmalade,40
+56,12,0.25,12/4/1996 0:00,12/9/1996 0:00,Brazil,Sir Rodney's Marmalade,40
+59,28,0,12/16/1996 0:00,12/20/1996 0:00,Sweden,Sir Rodney's Marmalade,40
+17,39,0,4/22/1997 0:00,5/16/1997 0:00,Austria,Sir Rodney's Marmalade,40
+40,15,0.1,5/1/1997 0:00,5/30/1997 0:00,UK,Sir Rodney's Marmalade,40
+47,21,0.2,7/9/1997 0:00,8/13/1997 0:00,Germany,Sir Rodney's Marmalade,40
+26,21,0,9/8/1997 0:00,10/15/1997 0:00,USA,Sir Rodney's Marmalade,40
+54,5,0,1/13/1998 0:00,2/4/1998 0:00,Argentina,Sir Rodney's Marmalade,40
+56,20,0.05,2/10/1998 0:00,2/12/1998 0:00,Germany,Sir Rodney's Marmalade,40
+11,5,0,3/5/1998 0:00,4/8/1998 0:00,France,Sir Rodney's Marmalade,40
+76,50,0.05,3/16/1998 0:00,3/25/1998 0:00,UK,Sir Rodney's Marmalade,40
+2,15,0,3/30/1998 0:00,4/21/1998 0:00,Argentina,Sir Rodney's Marmalade,40
+22,15,0,4/14/1998 0:00,4/21/1998 0:00,Germany,Sir Rodney's Marmalade,40
+72,1,0.04,5/6/1998 0:00,0000-00-00 00:00:00,USA,Sir Rodney's Marmalade,40
+46,10,0,7/18/1996 0:00,7/25/1996 0:00,Mexico,Sir Rodney's Scones,3
+56,20,0,7/19/1996 0:00,7/30/1996 0:00,Brazil,Sir Rodney's Scones,3
+64,10,0.1,10/18/1996 0:00,10/25/1996 0:00,Finland,Sir Rodney's Scones,3
+75,5,0.1,11/29/1996 0:00,12/2/1996 0:00,Austria,Sir Rodney's Scones,3
+53,10,0.15000001,12/27/1996 0:00,1/2/1997 0:00,Portugal,Sir Rodney's Scones,3
+19,30,0.1,1/7/1997 0:00,1/13/1997 0:00,Brazil,Sir Rodney's Scones,3
+34,12,0,1/9/1997 0:00,1/14/1997 0:00,Argentina,Sir Rodney's Scones,3
+57,50,0,1/30/1997 0:00,2/3/1997 0:00,Austria,Sir Rodney's Scones,3
+12,40,0.15000001,2/25/1997 0:00,2/28/1997 0:00,Germany,Sir Rodney's Scones,3
+16,40,0.25,2/28/1997 0:00,3/5/1997 0:00,Venezuela,Sir Rodney's Scones,3
+64,21,0.25,3/17/1997 0:00,3/25/1997 0:00,Portugal,Sir Rodney's Scones,3
+74,14,0,3/24/1997 0:00,4/1/1997 0:00,UK,Sir Rodney's Scones,3
+2,12,0,4/11/1997 0:00,4/18/1997 0:00,USA,Sir Rodney's Scones,3
+16,40,0.2,4/22/1997 0:00,4/28/1997 0:00,Germany,Sir Rodney's Scones,3
+29,15,0,5/16/1997 0:00,5/23/1997 0:00,UK,Sir Rodney's Scones,3
+61,6,0.1,5/28/1997 0:00,6/6/1997 0:00,Spain,Sir Rodney's Scones,3
+27,6,0,7/24/1997 0:00,7/30/1997 0:00,France,Sir Rodney's Scones,3
+11,8,0,7/29/1997 0:00,8/1/1997 0:00,Germany,Sir Rodney's Scones,3
+54,42,0,8/4/1997 0:00,8/7/1997 0:00,Canada,Sir Rodney's Scones,3
+66,25,0.1,8/7/1997 0:00,8/12/1997 0:00,Germany,Sir Rodney's Scones,3
+11,30,0.2,8/22/1997 0:00,9/5/1997 0:00,Denmark,Sir Rodney's Scones,3
+28,60,0,9/5/1997 0:00,9/8/1997 0:00,Germany,Sir Rodney's Scones,3
+17,12,0.1,9/25/1997 0:00,9/30/1997 0:00,USA,Sir Rodney's Scones,3
+26,5,0,10/24/1997 0:00,10/27/1997 0:00,Argentina,Sir Rodney's Scones,3
+35,32,0.05,10/24/1997 0:00,10/29/1997 0:00,Germany,Sir Rodney's Scones,3
+41,30,0,11/4/1997 0:00,11/14/1997 0:00,Venezuela,Sir Rodney's Scones,3
+39,40,0.05,11/6/1997 0:00,11/14/1997 0:00,Switzerland,Sir Rodney's Scones,3
+54,40,0,12/3/1997 0:00,12/8/1997 0:00,France,Sir Rodney's Scones,3
+19,40,0,1/30/1998 0:00,2/17/1998 0:00,USA,Sir Rodney's Scones,3
+24,20,0,2/6/1998 0:00,2/9/1998 0:00,Finland,Sir Rodney's Scones,3
+31,40,0.05,2/12/1998 0:00,2/13/1998 0:00,USA,Sir Rodney's Scones,3
+52,60,0,3/5/1998 0:00,3/12/1998 0:00,Germany,Sir Rodney's Scones,3
+19,36,0,3/6/1998 0:00,3/18/1998 0:00,Belgium,Sir Rodney's Scones,3
+65,12,0,3/17/1998 0:00,3/20/1998 0:00,Germany,Sir Rodney's Scones,3
+71,40,0.15000001,3/26/1998 0:00,4/23/1998 0:00,Belgium,Sir Rodney's Scones,3
+26,65,0,4/1/1998 0:00,4/7/1998 0:00,Austria,Sir Rodney's Scones,3
+40,15,0.1,4/20/1998 0:00,4/27/1998 0:00,USA,Sir Rodney's Scones,3
+10,20,0,4/22/1998 0:00,0000-00-00 00:00:00,USA,Sir Rodney's Scones,3
+52,3,0,4/29/1998 0:00,0000-00-00 00:00:00,Germany,Sir Rodney's Scones,3
+62,6,0.05,7/8/1996 0:00,7/15/1996 0:00,France,Gustaf’s Knäckebröd,104
+10,12,0,2/4/1997 0:00,2/7/1997 0:00,UK,Gustaf’s Knäckebröd,104
+54,24,0,5/30/1997 0:00,6/3/1997 0:00,Finland,Gustaf’s Knäckebröd,104
+55,48,0,7/18/1997 0:00,8/8/1997 0:00,USA,Gustaf’s Knäckebröd,104
+64,40,0,8/4/1997 0:00,8/7/1997 0:00,Canada,Gustaf’s Knäckebröd,104
+65,40,0,8/18/1997 0:00,8/21/1997 0:00,Italy,Gustaf’s Knäckebröd,104
+77,15,0,8/28/1997 0:00,9/9/1997 0:00,Brazil,Gustaf’s Knäckebröd,104
+28,20,0.25,9/1/1997 0:00,9/11/1997 0:00,Germany,Gustaf’s Knäckebröd,104
+44,6,0,12/3/1997 0:00,12/8/1997 0:00,France,Gustaf’s Knäckebröd,104
+48,4,0,12/8/1997 0:00,12/15/1997 0:00,UK,Gustaf’s Knäckebröd,104
+70,52,0,1/16/1998 0:00,1/21/1998 0:00,Austria,Gustaf’s Knäckebröd,104
+16,35,0,1/21/1998 0:00,1/26/1998 0:00,Austria,Gustaf’s Knäckebröd,104
+33,21,0,3/11/1998 0:00,3/19/1998 0:00,UK,Gustaf’s Knäckebröd,104
+46,25,0,4/6/1998 0:00,4/14/1998 0:00,Sweden,Gustaf’s Knäckebröd,104
+39,40,0,10/24/1996 0:00,10/29/1996 0:00,Germany,Tunnbröd,61
+53,25,0,11/7/1996 0:00,11/15/1996 0:00,Germany,Tunnbröd,61
+61,40,0,12/27/1996 0:00,1/6/1997 0:00,Germany,Tunnbröd,61
+71,60,0,1/2/1997 0:00,1/10/1997 0:00,Austria,Tunnbröd,61
+21,21,0,3/3/1997 0:00,3/18/1997 0:00,UK,Tunnbröd,61
+49,15,0,3/11/1997 0:00,3/14/1997 0:00,France,Tunnbröd,61
+59,10,0,4/3/1997 0:00,4/11/1997 0:00,Canada,Tunnbröd,61
+26,70,0.15000001,5/21/1997 0:00,5/23/1997 0:00,Venezuela,Tunnbröd,61
+28,20,0.05,5/30/1997 0:00,6/5/1997 0:00,Germany,Tunnbröd,61
+43,10,0,8/5/1997 0:00,8/11/1997 0:00,UK,Tunnbröd,61
+56,32,0,9/16/1997 0:00,9/18/1997 0:00,Germany,Tunnbröd,61
+71,5,0,9/18/1997 0:00,9/30/1997 0:00,UK,Tunnbröd,61
+7,44,0,11/20/1997 0:00,11/28/1997 0:00,USA,Tunnbröd,61
+46,18,0,1/2/1998 0:00,1/8/1998 0:00,Venezuela,Tunnbröd,61
+72,70,0.1,1/21/1998 0:00,1/30/1998 0:00,Germany,Tunnbröd,61
+68,50,0,2/4/1998 0:00,2/9/1998 0:00,UK,Tunnbröd,61
+75,30,0.2,2/10/1998 0:00,2/18/1998 0:00,Sweden,Tunnbröd,61
+21,8,0.25,3/9/1998 0:00,3/18/1998 0:00,Brazil,Tunnbröd,61
+30,10,0,4/9/1998 0:00,4/10/1998 0:00,Spain,Tunnbröd,61
+55,2,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Tunnbröd,61
+13,15,0.15000001,7/11/1996 0:00,7/23/1996 0:00,Switzerland,Guaraná Fantástica,20
+23,28,0,7/23/1996 0:00,7/31/1996 0:00,Austria,Guaraná Fantástica,20
+19,12,0.05,8/7/1996 0:00,8/9/1996 0:00,Italy,Guaraná Fantástica,20
+42,12,0,8/14/1996 0:00,9/12/1996 0:00,Sweden,Guaraná Fantástica,20
+4,6,0,8/14/1996 0:00,8/21/1996 0:00,Spain,Guaraná Fantástica,20
+43,10,0,8/29/1996 0:00,9/11/1996 0:00,Mexico,Guaraná Fantástica,20
+56,10,0,11/12/1996 0:00,11/18/1996 0:00,Portugal,Guaraná Fantástica,20
+60,25,0,11/15/1996 0:00,11/20/1996 0:00,UK,Guaraná Fantástica,20
+24,10,0.05,11/20/1996 0:00,11/27/1996 0:00,France,Guaraná Fantástica,20
+29,15,0,12/18/1996 0:00,12/25/1996 0:00,Brazil,Guaraná Fantástica,20
+40,15,0,12/18/1996 0:00,12/20/1996 0:00,Norway,Guaraná Fantástica,20
+45,20,0.1,2/14/1997 0:00,2/19/1997 0:00,Germany,Guaraná Fantástica,20
+50,25,0,3/5/1997 0:00,3/14/1997 0:00,Denmark,Guaraná Fantástica,20
+11,28,0,3/6/1997 0:00,3/11/1997 0:00,Italy,Guaraná Fantástica,20
+46,80,0.05,3/12/1997 0:00,3/19/1997 0:00,UK,Guaraná Fantástica,20
+24,14,0,4/7/1997 0:00,4/11/1997 0:00,Venezuela,Guaraná Fantástica,20
+25,10,0.15000001,4/21/1997 0:00,4/24/1997 0:00,Brazil,Guaraná Fantástica,20
+30,5,0,4/25/1997 0:00,5/5/1997 0:00,Mexico,Guaraná Fantástica,20
+43,8,0,4/29/1997 0:00,5/1/1997 0:00,Norway,Guaraná Fantástica,20
+2,35,0.1,5/19/1997 0:00,5/29/1997 0:00,Brazil,Guaraná Fantástica,20
+16,18,0.2,6/2/1997 0:00,6/4/1997 0:00,USA,Guaraná Fantástica,20
+44,25,0.1,6/11/1997 0:00,6/18/1997 0:00,Canada,Guaraná Fantástica,20
+18,35,0.2,7/11/1997 0:00,7/18/1997 0:00,Austria,Guaraná Fantástica,20
+23,5,0,8/5/1997 0:00,8/14/1997 0:00,Canada,Guaraná Fantástica,20
+64,3,0,8/7/1997 0:00,8/12/1997 0:00,Germany,Guaraná Fantástica,20
+7,15,0.15000001,8/28/1997 0:00,9/9/1997 0:00,Brazil,Guaraná Fantástica,20
+56,20,0,10/7/1997 0:00,10/14/1997 0:00,Finland,Guaraná Fantástica,20
+24,35,0,10/14/1997 0:00,11/7/1997 0:00,Brazil,Guaraná Fantástica,20
+51,20,0,12/3/1997 0:00,12/8/1997 0:00,France,Guaraná Fantástica,20
+33,20,0.15000001,12/26/1997 0:00,1/5/1998 0:00,Germany,Guaraná Fantástica,20
+71,40,0.25,1/29/1998 0:00,2/2/1998 0:00,Germany,Guaraná Fantástica,20
+14,6,0.25,2/3/1998 0:00,2/12/1998 0:00,Sweden,Guaraná Fantástica,20
+28,8,0,2/12/1998 0:00,2/20/1998 0:00,USA,Guaraná Fantástica,20
+40,12,0,2/12/1998 0:00,2/18/1998 0:00,Belgium,Guaraná Fantástica,20
+75,10,0,2/18/1998 0:00,2/20/1998 0:00,Germany,Guaraná Fantástica,20
+31,110,0,2/18/1998 0:00,2/23/1998 0:00,Austria,Guaraná Fantástica,20
+66,35,0,3/3/1998 0:00,3/5/1998 0:00,Brazil,Guaraná Fantástica,20
+76,25,0,3/12/1998 0:00,3/19/1998 0:00,Denmark,Guaraná Fantástica,20
+55,10,0.25,3/19/1998 0:00,4/8/1998 0:00,Venezuela,Guaraná Fantástica,20
+70,30,0,3/23/1998 0:00,4/1/1998 0:00,Austria,Guaraná Fantástica,20
+1,80,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Guaraná Fantástica,20
+21,20,0,3/30/1998 0:00,4/3/1998 0:00,USA,Guaraná Fantástica,20
+39,12,0,4/3/1998 0:00,4/17/1998 0:00,Poland,Guaraná Fantástica,20
+10,30,0.25,4/6/1998 0:00,4/14/1998 0:00,USA,Guaraná Fantástica,20
+38,12,0,4/8/1998 0:00,4/10/1998 0:00,Spain,Guaraná Fantástica,20
+53,10,0,4/9/1998 0:00,4/21/1998 0:00,Italy,Guaraná Fantástica,20
+59,30,0.25,4/16/1998 0:00,4/20/1998 0:00,Canada,Guaraná Fantástica,20
+64,21,0,4/17/1998 0:00,4/24/1998 0:00,USA,Guaraná Fantástica,20
+47,10,0.2,4/27/1998 0:00,0000-00-00 00:00:00,France,Guaraná Fantástica,20
+59,15,0,4/28/1998 0:00,5/5/1998 0:00,Venezuela,Guaraná Fantástica,20
+49,20,0,5/5/1998 0:00,0000-00-00 00:00:00,Mexico,Guaraná Fantástica,20
+60,4,0,10/7/1996 0:00,10/14/1996 0:00,Germany,NuNuCa Nu�-Nougat-Creme,76
+40,10,0,11/6/1996 0:00,11/8/1996 0:00,Brazil,NuNuCa Nu�-Nougat-Creme,76
+34,50,0,11/25/1996 0:00,11/28/1996 0:00,France,NuNuCa Nu�-Nougat-Creme,76
+77,7,0.25,12/25/1996 0:00,1/3/1997 0:00,USA,NuNuCa Nu�-Nougat-Creme,76
+21,12,0,3/6/1997 0:00,3/11/1997 0:00,Italy,NuNuCa Nu�-Nougat-Creme,76
+40,60,0.05,4/1/1997 0:00,4/11/1997 0:00,Canada,NuNuCa Nu�-Nougat-Creme,76
+51,18,0.1,4/15/1997 0:00,5/2/1997 0:00,Germany,NuNuCa Nu�-Nougat-Creme,76
+2,12,0.25,12/1/1997 0:00,12/10/1997 0:00,Belgium,NuNuCa Nu�-Nougat-Creme,76
+3,35,0.25,12/2/1997 0:00,12/8/1997 0:00,USA,NuNuCa Nu�-Nougat-Creme,76
+55,15,0.05,12/30/1997 0:00,1/6/1998 0:00,Brazil,NuNuCa Nu�-Nougat-Creme,76
+70,5,0,1/1/1998 0:00,1/7/1998 0:00,Canada,NuNuCa Nu�-Nougat-Creme,76
+11,10,0.2,1/14/1998 0:00,1/19/1998 0:00,France,NuNuCa Nu�-Nougat-Creme,76
+51,6,0.2,1/19/1998 0:00,2/16/1998 0:00,Venezuela,NuNuCa Nu�-Nougat-Creme,76
+74,20,0.15000001,1/23/1998 0:00,1/30/1998 0:00,France,NuNuCa Nu�-Nougat-Creme,76
+19,10,0.05,1/26/1998 0:00,2/2/1998 0:00,Brazil,NuNuCa Nu�-Nougat-Creme,76
+26,5,0,2/13/1998 0:00,2/16/1998 0:00,Spain,NuNuCa Nu�-Nougat-Creme,76
+54,24,0,3/2/1998 0:00,3/4/1998 0:00,Venezuela,NuNuCa Nu�-Nougat-Creme,76
+59,15,0,4/28/1998 0:00,5/5/1998 0:00,Venezuela,NuNuCa Nu�-Nougat-Creme,76
+73,50,0.15000001,10/16/1996 0:00,10/28/1996 0:00,Venezuela,Gumb�r Gummib�rchen,15
+11,24,0,10/24/1996 0:00,10/29/1996 0:00,Germany,Gumb�r Gummib�rchen,15
+16,16,0,11/19/1996 0:00,12/2/1996 0:00,Venezuela,Gumb�r Gummib�rchen,15
+59,70,0.25,12/25/1996 0:00,1/3/1997 0:00,USA,Gumb�r Gummib�rchen,15
+68,30,0.05,1/3/1997 0:00,1/8/1997 0:00,Italy,Gumb�r Gummib�rchen,15
+75,30,0,1/21/1997 0:00,1/27/1997 0:00,Brazil,Gumb�r Gummib�rchen,15
+44,2,0,1/22/1997 0:00,1/31/1997 0:00,Italy,Gumb�r Gummib�rchen,15
+77,10,0,1/31/1997 0:00,2/7/1997 0:00,USA,Gumb�r Gummib�rchen,15
+25,15,0,2/12/1997 0:00,2/21/1997 0:00,Sweden,Gumb�r Gummib�rchen,15
+42,6,0,2/17/1997 0:00,2/24/1997 0:00,Argentina,Gumb�r Gummib�rchen,15
+65,30,0,2/26/1997 0:00,3/4/1997 0:00,Belgium,Gumb�r Gummib�rchen,15
+66,30,0,3/26/1997 0:00,3/28/1997 0:00,Brazil,Gumb�r Gummib�rchen,15
+69,40,0,5/19/1997 0:00,6/13/1997 0:00,Germany,Gumb�r Gummib�rchen,15
+56,6,0,7/2/1997 0:00,7/9/1997 0:00,Brazil,Gumb�r Gummib�rchen,15
+23,5,0.05,7/8/1997 0:00,7/16/1997 0:00,Germany,Gumb�r Gummib�rchen,15
+41,35,0.15000001,8/15/1997 0:00,8/18/1997 0:00,Austria,Gumb�r Gummib�rchen,15
+77,30,0.15000001,9/22/1997 0:00,9/26/1997 0:00,Mexico,Gumb�r Gummib�rchen,15
+31,15,0,9/30/1997 0:00,10/8/1997 0:00,Austria,Gumb�r Gummib�rchen,15
+56,30,0,10/22/1997 0:00,10/24/1997 0:00,USA,Gumb�r Gummib�rchen,15
+72,15,0,10/30/1997 0:00,11/25/1997 0:00,USA,Gumb�r Gummib�rchen,15
+77,12,0.1,11/24/1997 0:00,12/3/1997 0:00,Switzerland,Gumb�r Gummib�rchen,15
+24,20,0,11/28/1997 0:00,12/4/1997 0:00,Switzerland,Gumb�r Gummib�rchen,15
+40,21,0.2,12/25/1997 0:00,1/14/1998 0:00,Venezuela,Gumb�r Gummib�rchen,15
+42,40,0.15000001,1/6/1998 0:00,1/13/1998 0:00,Germany,Gumb�r Gummib�rchen,15
+28,12,0,1/9/1998 0:00,1/14/1998 0:00,Germany,Gumb�r Gummib�rchen,15
+49,18,0.15000001,1/23/1998 0:00,1/30/1998 0:00,Germany,Gumb�r Gummib�rchen,15
+15,35,0.25,1/28/1998 0:00,2/6/1998 0:00,Sweden,Gumb�r Gummib�rchen,15
+28,20,0,2/4/1998 0:00,2/23/1998 0:00,Brazil,Gumb�r Gummib�rchen,15
+54,5,0,3/24/1998 0:00,3/27/1998 0:00,France,Gumb�r Gummib�rchen,15
+45,6,0,4/7/1998 0:00,4/20/1998 0:00,Belgium,Gumb�r Gummib�rchen,15
+53,63,0,4/14/1998 0:00,4/21/1998 0:00,Germany,Gumb�r Gummib�rchen,15
+67,12,0,4/15/1998 0:00,4/20/1998 0:00,UK,Gumb�r Gummib�rchen,15
+14,25,0,7/16/1996 0:00,7/22/1996 0:00,Venezuela,Schoggi Schokolade,49
+65,15,0.25,8/19/1996 0:00,8/27/1996 0:00,Germany,Schoggi Schokolade,49
+2,50,0,2/10/1997 0:00,3/14/1997 0:00,USA,Schoggi Schokolade,49
+21,120,0,4/23/1997 0:00,5/23/1997 0:00,Germany,Schoggi Schokolade,49
+53,50,0,7/14/1997 0:00,7/18/1997 0:00,USA,Schoggi Schokolade,49
+61,40,0,12/1/1997 0:00,12/10/1997 0:00,Belgium,Schoggi Schokolade,49
+62,10,0,1/29/1998 0:00,2/3/1998 0:00,France,Schoggi Schokolade,49
+25,25,0,3/6/1998 0:00,3/18/1998 0:00,Belgium,Schoggi Schokolade,49
+70,30,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Schoggi Schokolade,49
+43,20,0,8/9/1996 0:00,8/13/1996 0:00,Germany,R�ssle Sauerkraut,26
+48,28,0,9/10/1996 0:00,10/9/1996 0:00,Belgium,R�ssle Sauerkraut,26
+13,4,0,9/23/1996 0:00,10/3/1996 0:00,Germany,R�ssle Sauerkraut,26
+39,14,0,10/2/1996 0:00,10/11/1996 0:00,Mexico,R�ssle Sauerkraut,26
+28,30,0,11/22/1996 0:00,12/2/1996 0:00,France,R�ssle Sauerkraut,26
+29,13,0.1,11/29/1996 0:00,12/2/1996 0:00,Austria,R�ssle Sauerkraut,26
+75,20,0.15000001,12/9/1996 0:00,12/13/1996 0:00,UK,R�ssle Sauerkraut,26
+4,6,0,12/18/1996 0:00,12/20/1996 0:00,Norway,R�ssle Sauerkraut,26
+7,42,0.1,1/7/1997 0:00,1/13/1997 0:00,Brazil,R�ssle Sauerkraut,26
+8,12,0,2/12/1997 0:00,2/14/1997 0:00,Italy,R�ssle Sauerkraut,26
+24,15,0,2/20/1997 0:00,2/26/1997 0:00,USA,R�ssle Sauerkraut,26
+46,30,0,2/26/1997 0:00,3/4/1997 0:00,Belgium,R�ssle Sauerkraut,26
+47,18,0,3/13/1997 0:00,3/21/1997 0:00,Mexico,R�ssle Sauerkraut,26
+60,20,0,4/8/1997 0:00,4/16/1997 0:00,Venezuela,R�ssle Sauerkraut,26
+21,8,0.05,4/9/1997 0:00,4/17/1997 0:00,France,R�ssle Sauerkraut,26
+32,3,0,4/17/1997 0:00,4/29/1997 0:00,Germany,R�ssle Sauerkraut,26
+61,35,0,4/22/1997 0:00,5/16/1997 0:00,Austria,R�ssle Sauerkraut,26
+20,7,0,5/21/1997 0:00,5/30/1997 0:00,USA,R�ssle Sauerkraut,26
+28,10,0,8/7/1997 0:00,8/19/1997 0:00,USA,R�ssle Sauerkraut,26
+56,15,0.25,8/25/1997 0:00,9/2/1997 0:00,Germany,R�ssle Sauerkraut,26
+65,20,0,8/28/1997 0:00,8/29/1997 0:00,Belgium,R�ssle Sauerkraut,26
+75,60,0.1,10/1/1997 0:00,10/7/1997 0:00,Denmark,R�ssle Sauerkraut,26
+9,20,0,11/7/1997 0:00,11/10/1997 0:00,Sweden,R�ssle Sauerkraut,26
+16,5,0.2,11/13/1997 0:00,11/25/1997 0:00,USA,R�ssle Sauerkraut,26
+27,24,0,12/30/1997 0:00,1/7/1998 0:00,UK,R�ssle Sauerkraut,26
+33,3,0,2/6/1998 0:00,2/9/1998 0:00,Finland,R�ssle Sauerkraut,26
+60,30,0.1,3/4/1998 0:00,4/8/1998 0:00,Sweden,R�ssle Sauerkraut,26
+18,8,0,3/10/1998 0:00,3/13/1998 0:00,Argentina,R�ssle Sauerkraut,26
+41,2,0,3/16/1998 0:00,3/24/1998 0:00,Germany,R�ssle Sauerkraut,26
+42,20,0,3/25/1998 0:00,4/3/1998 0:00,Venezuela,R�ssle Sauerkraut,26
+52,70,0.05,4/8/1998 0:00,0000-00-00 00:00:00,Austria,R�ssle Sauerkraut,26
+59,20,0,4/21/1998 0:00,0000-00-00 00:00:00,Venezuela,R�ssle Sauerkraut,26
+70,8,0.15000001,5/4/1998 0:00,0000-00-00 00:00:00,Brazil,R�ssle Sauerkraut,26
+24,10,0,7/30/1996 0:00,8/2/1996 0:00,Venezuela,Th�ringer Rostbratwurst,0
+38,15,0,8/27/1996 0:00,9/3/1996 0:00,Brazil,Th�ringer Rostbratwurst,0
+44,25,0.1,9/13/1996 0:00,10/9/1996 0:00,USA,Th�ringer Rostbratwurst,0
+10,4,0,11/14/1996 0:00,11/20/1996 0:00,Mexico,Th�ringer Rostbratwurst,0
+56,35,0,11/22/1996 0:00,12/2/1996 0:00,France,Th�ringer Rostbratwurst,0
+60,20,0,12/2/1996 0:00,12/9/1996 0:00,USA,Th�ringer Rostbratwurst,0
+24,14,0,12/13/1996 0:00,12/16/1996 0:00,Austria,Th�ringer Rostbratwurst,0
+53,21,0,1/1/1997 0:00,1/16/1997 0:00,UK,Th�ringer Rostbratwurst,0
+35,24,0.15000001,2/10/1997 0:00,2/28/1997 0:00,USA,Th�ringer Rostbratwurst,0
+41,18,0.1,3/5/1997 0:00,3/14/1997 0:00,Denmark,Th�ringer Rostbratwurst,0
+68,36,0,4/18/1997 0:00,4/28/1997 0:00,USA,Th�ringer Rostbratwurst,0
+1,10,0,6/30/1997 0:00,7/4/1997 0:00,Finland,Th�ringer Rostbratwurst,0
+8,6,0,8/7/1997 0:00,8/19/1997 0:00,USA,Th�ringer Rostbratwurst,0
+30,20,0,8/12/1997 0:00,8/20/1997 0:00,Spain,Th�ringer Rostbratwurst,0
+40,36,0,9/12/1997 0:00,9/22/1997 0:00,Switzerland,Th�ringer Rostbratwurst,0
+17,10,0,9/30/1997 0:00,10/30/1997 0:00,Ireland,Th�ringer Rostbratwurst,0
+20,40,0,10/3/1997 0:00,10/22/1997 0:00,Germany,Th�ringer Rostbratwurst,0
+37,12,0.05,10/9/1997 0:00,10/17/1997 0:00,Austria,Th�ringer Rostbratwurst,0
+41,18,0,12/10/1997 0:00,12/19/1997 0:00,Germany,Th�ringer Rostbratwurst,0
+10,20,0.05,12/19/1997 0:00,12/26/1997 0:00,France,Th�ringer Rostbratwurst,0
+30,14,0.05,12/23/1997 0:00,1/1/1998 0:00,Germany,Th�ringer Rostbratwurst,0
+43,20,0.25,12/29/1997 0:00,12/31/1997 0:00,Spain,Th�ringer Rostbratwurst,0
+54,8,0.05,1/15/1998 0:00,1/19/1998 0:00,Brazil,Th�ringer Rostbratwurst,0
+36,10,0.25,1/28/1998 0:00,2/6/1998 0:00,Sweden,Th�ringer Rostbratwurst,0
+40,24,0,2/18/1998 0:00,2/20/1998 0:00,Germany,Th�ringer Rostbratwurst,0
+1,80,0,2/19/1998 0:00,2/25/1998 0:00,Ireland,Th�ringer Rostbratwurst,0
+13,60,0.25,2/26/1998 0:00,3/18/1998 0:00,Ireland,Th�ringer Rostbratwurst,0
+56,14,0,3/24/1998 0:00,4/2/1998 0:00,France,Th�ringer Rostbratwurst,0
+4,50,0.25,4/1/1998 0:00,4/10/1998 0:00,Sweden,Th�ringer Rostbratwurst,0
+36,2,0.25,4/7/1998 0:00,4/15/1998 0:00,USA,Th�ringer Rostbratwurst,0
+11,10,0,4/8/1998 0:00,4/13/1998 0:00,Portugal,Th�ringer Rostbratwurst,0
+33,60,0.25,4/17/1998 0:00,4/27/1998 0:00,USA,Th�ringer Rostbratwurst,0
+72,60,0.25,7/23/1996 0:00,7/31/1996 0:00,Austria,Nord-Ost Matjeshering,10
+55,6,0,8/15/1996 0:00,8/21/1996 0:00,Spain,Nord-Ost Matjeshering,10
+68,10,0,9/16/1996 0:00,9/23/1996 0:00,Spain,Nord-Ost Matjeshering,10
+69,35,0.2,10/11/1996 0:00,10/14/1996 0:00,Sweden,Nord-Ost Matjeshering,10
+17,8,0.05,10/15/1996 0:00,10/23/1996 0:00,USA,Nord-Ost Matjeshering,10
+43,15,0,10/25/1996 0:00,10/29/1996 0:00,USA,Nord-Ost Matjeshering,10
+61,18,0.1,12/12/1996 0:00,1/16/1997 0:00,Ireland,Nord-Ost Matjeshering,10
+76,18,0,1/1/1997 0:00,1/10/1997 0:00,USA,Nord-Ost Matjeshering,10
+59,28,0.25,2/28/1997 0:00,3/5/1997 0:00,Venezuela,Nord-Ost Matjeshering,10
+30,8,0,3/7/1997 0:00,3/12/1997 0:00,Germany,Nord-Ost Matjeshering,10
+66,20,0.2,4/30/1997 0:00,5/6/1997 0:00,Germany,Nord-Ost Matjeshering,10
+4,10,0,5/1/1997 0:00,5/7/1997 0:00,Sweden,Nord-Ost Matjeshering,10
+72,15,0,5/9/1997 0:00,5/12/1997 0:00,UK,Nord-Ost Matjeshering,10
+73,10,0,5/12/1997 0:00,5/14/1997 0:00,Germany,Nord-Ost Matjeshering,10
+30,20,0,6/6/1997 0:00,6/9/1997 0:00,Germany,Nord-Ost Matjeshering,10
+40,30,0,8/29/1997 0:00,9/3/1997 0:00,Brazil,Nord-Ost Matjeshering,10
+54,2,0.25,9/1/1997 0:00,9/8/1997 0:00,Brazil,Nord-Ost Matjeshering,10
+11,3,0.25,10/27/1997 0:00,11/5/1997 0:00,USA,Nord-Ost Matjeshering,10
+40,15,0,11/4/1997 0:00,11/11/1997 0:00,Brazil,Nord-Ost Matjeshering,10
+57,15,0,11/7/1997 0:00,11/12/1997 0:00,Brazil,Nord-Ost Matjeshering,10
+59,30,0,11/24/1997 0:00,12/3/1997 0:00,Switzerland,Nord-Ost Matjeshering,10
+12,15,0.2,12/19/1997 0:00,12/23/1997 0:00,Brazil,Nord-Ost Matjeshering,10
+31,25,0.25,12/29/1997 0:00,1/2/1998 0:00,Denmark,Nord-Ost Matjeshering,10
+33,20,0.05,1/15/1998 0:00,1/19/1998 0:00,Brazil,Nord-Ost Matjeshering,10
+60,40,0.25,2/3/1998 0:00,2/12/1998 0:00,Sweden,Nord-Ost Matjeshering,10
+31,15,0.05,2/17/1998 0:00,2/19/1998 0:00,Germany,Nord-Ost Matjeshering,10
+51,35,0,2/18/1998 0:00,2/20/1998 0:00,Germany,Nord-Ost Matjeshering,10
+58,36,0,2/19/1998 0:00,2/25/1998 0:00,Ireland,Nord-Ost Matjeshering,10
+72,1,0,3/2/1998 0:00,3/11/1998 0:00,Spain,Nord-Ost Matjeshering,10
+73,30,0,3/18/1998 0:00,3/27/1998 0:00,Venezuela,Nord-Ost Matjeshering,10
+70,15,0,4/10/1998 0:00,4/20/1998 0:00,Norway,Nord-Ost Matjeshering,10
+72,4,0.25,5/1/1998 0:00,0000-00-00 00:00:00,Venezuela,Nord-Ost Matjeshering,10
+13,20,0,7/10/1996 0:00,7/16/1996 0:00,Brazil,Gorgonzola Telino,0
+21,40,0,8/2/1996 0:00,8/6/1996 0:00,USA,Gorgonzola Telino,0
+33,15,0.05,8/5/1996 0:00,8/12/1996 0:00,Germany,Gorgonzola Telino,0
+49,4,0,10/9/1996 0:00,10/14/1996 0:00,Germany,Gorgonzola Telino,0
+3,25,0.2,10/22/1996 0:00,10/24/1996 0:00,Ireland,Gorgonzola Telino,0
+26,56,0.2,10/30/1996 0:00,11/4/1996 0:00,Germany,Gorgonzola Telino,0
+38,30,0,11/18/1996 0:00,11/27/1996 0:00,Germany,Gorgonzola Telino,0
+68,70,0.05,11/21/1996 0:00,11/26/1996 0:00,UK,Gorgonzola Telino,0
+24,20,0,11/26/1996 0:00,12/4/1996 0:00,Germany,Gorgonzola Telino,0
+38,30,0,12/5/1996 0:00,12/9/1996 0:00,Poland,Gorgonzola Telino,0
+65,42,0.05,12/9/1996 0:00,12/13/1996 0:00,Canada,Gorgonzola Telino,0
+71,60,0.1,12/23/1996 0:00,12/26/1996 0:00,Austria,Gorgonzola Telino,0
+11,32,0,12/25/1996 0:00,1/3/1997 0:00,USA,Gorgonzola Telino,0
+54,14,0,1/23/1997 0:00,2/24/1997 0:00,Brazil,Gorgonzola Telino,0
+12,3,0.1,2/14/1997 0:00,2/19/1997 0:00,Germany,Gorgonzola Telino,0
+23,35,0.15000001,3/14/1997 0:00,4/4/1997 0:00,Belgium,Gorgonzola Telino,0
+28,20,0.05,4/4/1997 0:00,4/7/1997 0:00,Brazil,Gorgonzola Telino,0
+67,20,0,5/14/1997 0:00,6/6/1997 0:00,Germany,Gorgonzola Telino,0
+11,30,0,5/14/1997 0:00,5/19/1997 0:00,Switzerland,Gorgonzola Telino,0
+7,55,0.15000001,5/27/1997 0:00,5/30/1997 0:00,Germany,Gorgonzola Telino,0
+35,30,0,5/30/1997 0:00,6/3/1997 0:00,Finland,Gorgonzola Telino,0
+62,6,0.05,6/10/1997 0:00,6/16/1997 0:00,USA,Gorgonzola Telino,0
+32,60,0.2,6/12/1997 0:00,6/17/1997 0:00,Ireland,Gorgonzola Telino,0
+36,35,0.2,6/16/1997 0:00,7/11/1997 0:00,USA,Gorgonzola Telino,0
+34,20,0,6/23/1997 0:00,6/30/1997 0:00,Mexico,Gorgonzola Telino,0
+41,50,0.05,6/30/1997 0:00,7/4/1997 0:00,France,Gorgonzola Telino,0
+31,20,0.05,9/5/1997 0:00,9/10/1997 0:00,Brazil,Gorgonzola Telino,0
+45,8,0.1,9/15/1997 0:00,9/23/1997 0:00,Germany,Gorgonzola Telino,0
+51,20,0.25,9/24/1997 0:00,9/26/1997 0:00,USA,Gorgonzola Telino,0
+17,20,0,10/15/1997 0:00,11/18/1997 0:00,Venezuela,Gorgonzola Telino,0
+19,50,0,10/29/1997 0:00,11/4/1997 0:00,USA,Gorgonzola Telino,0
+21,3,0.05,11/5/1997 0:00,11/14/1997 0:00,France,Gorgonzola Telino,0
+61,8,0,11/19/1997 0:00,11/26/1997 0:00,Austria,Gorgonzola Telino,0
+16,50,0,12/8/1997 0:00,12/15/1997 0:00,UK,Gorgonzola Telino,0
+35,70,0.2,12/11/1997 0:00,12/16/1997 0:00,Austria,Gorgonzola Telino,0
+44,2,0.25,12/11/1997 0:00,12/12/1997 0:00,Sweden,Gorgonzola Telino,0
+69,16,0.05,12/15/1997 0:00,12/18/1997 0:00,Austria,Gorgonzola Telino,0
+75,1,0,12/17/1997 0:00,12/22/1997 0:00,Argentina,Gorgonzola Telino,0
+11,10,0,12/18/1997 0:00,12/19/1997 0:00,Brazil,Gorgonzola Telino,0
+16,16,0.1,1/2/1998 0:00,1/12/1998 0:00,Italy,Gorgonzola Telino,0
+22,35,0,1/12/1998 0:00,2/6/1998 0:00,France,Gorgonzola Telino,0
+31,9,0.1,1/15/1998 0:00,1/23/1998 0:00,Germany,Gorgonzola Telino,0
+35,14,0,1/27/1998 0:00,2/4/1998 0:00,USA,Gorgonzola Telino,0
+16,35,0,2/13/1998 0:00,3/2/1998 0:00,Brazil,Gorgonzola Telino,0
+23,44,0.25,3/11/1998 0:00,3/20/1998 0:00,USA,Gorgonzola Telino,0
+62,10,0,3/12/1998 0:00,3/18/1998 0:00,Germany,Gorgonzola Telino,0
+77,50,0.05,3/16/1998 0:00,3/25/1998 0:00,UK,Gorgonzola Telino,0
+14,25,0.15000001,3/17/1998 0:00,3/20/1998 0:00,Venezuela,Gorgonzola Telino,0
+19,24,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Gorgonzola Telino,0
+24,15,0,4/10/1998 0:00,4/13/1998 0:00,UK,Gorgonzola Telino,0
+51,20,0,5/5/1998 0:00,0000-00-00 00:00:00,Germany,Gorgonzola Telino,0
+56,6,0.2,7/17/1996 0:00,7/23/1996 0:00,Austria,Mascarpone Fabioli,9
+72,40,0.1,9/25/1996 0:00,10/4/1996 0:00,USA,Mascarpone Fabioli,9
+64,6,0.2,10/22/1996 0:00,10/24/1996 0:00,Ireland,Mascarpone Fabioli,9
+75,50,0.2,4/22/1997 0:00,4/28/1997 0:00,Germany,Mascarpone Fabioli,9
+47,24,0.15000001,5/23/1997 0:00,6/2/1997 0:00,UK,Mascarpone Fabioli,9
+51,10,0.1,6/18/1997 0:00,6/25/1997 0:00,Sweden,Mascarpone Fabioli,9
+52,4,0,10/15/1997 0:00,11/18/1997 0:00,Venezuela,Mascarpone Fabioli,9
+53,10,0,11/28/1997 0:00,12/12/1997 0:00,Mexico,Mascarpone Fabioli,9
+73,20,0,1/7/1998 0:00,1/12/1998 0:00,Italy,Mascarpone Fabioli,9
+41,6,0,2/27/1998 0:00,3/9/1998 0:00,Argentina,Mascarpone Fabioli,9
+55,35,0.1,3/30/1998 0:00,4/2/1998 0:00,Ireland,Mascarpone Fabioli,9
+30,50,0,4/3/1998 0:00,4/13/1998 0:00,Venezuela,Mascarpone Fabioli,9
+62,15,0.05,4/23/1998 0:00,4/24/1998 0:00,Germany,Mascarpone Fabioli,9
+44,20,0,4/27/1998 0:00,4/29/1998 0:00,Austria,Mascarpone Fabioli,9
+51,1,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Mascarpone Fabioli,9
+33,25,0.05,7/9/1996 0:00,7/11/1996 0:00,Belgium,Geitost,112
+62,60,0.05,7/31/1996 0:00,8/9/1996 0:00,USA,Geitost,112
+36,24,0,8/1/1996 0:00,8/30/1996 0:00,USA,Geitost,112
+52,20,0,8/5/1996 0:00,8/12/1996 0:00,Germany,Geitost,112
+17,8,0,10/29/1996 0:00,11/5/1996 0:00,Denmark,Geitost,112
+31,60,0,12/13/1996 0:00,12/16/1996 0:00,Austria,Geitost,112
+55,49,0,1/10/1997 0:00,1/15/1997 0:00,Canada,Geitost,112
+24,50,0,1/14/1997 0:00,1/17/1997 0:00,Brazil,Geitost,112
+64,20,0,1/15/1997 0:00,1/24/1997 0:00,USA,Geitost,112
+11,20,0.2,2/21/1997 0:00,2/25/1997 0:00,France,Geitost,112
+18,12,0,3/13/1997 0:00,3/21/1997 0:00,UK,Geitost,112
+76,16,0.15000001,4/23/1997 0:00,5/23/1997 0:00,Germany,Geitost,112
+31,8,0.2,5/6/1997 0:00,5/9/1997 0:00,USA,Geitost,112
+51,30,0,5/14/1997 0:00,6/6/1997 0:00,Germany,Geitost,112
+59,15,0,5/16/1997 0:00,5/23/1997 0:00,UK,Geitost,112
+10,20,0.1,6/9/1997 0:00,6/12/1997 0:00,Italy,Geitost,112
+31,14,0,6/19/1997 0:00,6/30/1997 0:00,USA,Geitost,112
+76,14,0,7/22/1997 0:00,7/25/1997 0:00,USA,Geitost,112
+11,20,0.05,8/14/1997 0:00,8/19/1997 0:00,Germany,Geitost,112
+56,8,0.15000001,9/22/1997 0:00,9/26/1997 0:00,Mexico,Geitost,112
+14,30,0,9/23/1997 0:00,10/16/1997 0:00,USA,Geitost,112
+42,30,0,9/25/1997 0:00,10/1/1997 0:00,Mexico,Geitost,112
+16,16,0,1/5/1998 0:00,1/14/1998 0:00,USA,Geitost,112
+32,4,0.15000001,1/23/1998 0:00,1/30/1998 0:00,France,Geitost,112
+40,35,0,1/30/1998 0:00,2/17/1998 0:00,USA,Geitost,112
+75,40,0.25,2/26/1998 0:00,3/4/1998 0:00,Brazil,Geitost,112
+17,30,0,2/27/1998 0:00,3/2/1998 0:00,Mexico,Geitost,112
+34,15,0.05,3/16/1998 0:00,4/7/1998 0:00,Switzerland,Geitost,112
+53,7,0,3/24/1998 0:00,3/26/1998 0:00,France,Geitost,112
+33,30,0,4/15/1998 0:00,4/20/1998 0:00,UK,Geitost,112
+40,15,0,4/23/1998 0:00,0000-00-00 00:00:00,Canada,Geitost,112
+62,10,0,4/28/1998 0:00,0000-00-00 00:00:00,Argentina,Geitost,112
+64,20,0,8/22/1996 0:00,8/28/1996 0:00,Brazil,Sasquatch Ale,111
+59,14,0,9/26/1996 0:00,10/3/1996 0:00,UK,Sasquatch Ale,111
+63,10,0.05,11/20/1996 0:00,11/27/1996 0:00,France,Sasquatch Ale,111
+72,36,0,11/28/1996 0:00,12/2/1996 0:00,Denmark,Sasquatch Ale,111
+76,10,0,12/18/1996 0:00,12/25/1996 0:00,Brazil,Sasquatch Ale,111
+1,20,0.2,2/6/1997 0:00,2/14/1997 0:00,Germany,Sasquatch Ale,111
+31,35,0.05,3/24/1997 0:00,4/25/1997 0:00,USA,Sasquatch Ale,111
+44,10,0.25,5/26/1997 0:00,6/2/1997 0:00,Germany,Sasquatch Ale,111
+39,40,0,6/19/1997 0:00,6/20/1997 0:00,Mexico,Sasquatch Ale,111
+75,14,0,10/1/1997 0:00,10/7/1997 0:00,Denmark,Sasquatch Ale,111
+77,12,0.2,10/10/1997 0:00,10/16/1997 0:00,USA,Sasquatch Ale,111
+35,30,0,11/27/1997 0:00,12/15/1997 0:00,USA,Sasquatch Ale,111
+57,10,0,12/30/1997 0:00,1/9/1998 0:00,USA,Sasquatch Ale,111
+15,10,0,2/16/1998 0:00,2/18/1998 0:00,France,Sasquatch Ale,111
+75,20,0,3/10/1998 0:00,3/13/1998 0:00,Argentina,Sasquatch Ale,111
+14,60,0.15000001,4/1/1998 0:00,4/7/1998 0:00,Austria,Sasquatch Ale,111
+41,90,0.05,4/8/1998 0:00,0000-00-00 00:00:00,Austria,Sasquatch Ale,111
+65,30,0,4/30/1998 0:00,5/6/1998 0:00,Ireland,Sasquatch Ale,111
+75,35,0,5/1/1998 0:00,5/4/1998 0:00,USA,Sasquatch Ale,111
+57,20,0,7/19/1996 0:00,7/30/1996 0:00,Brazil,Steeleye Stout,20
+76,4,0,8/14/1996 0:00,8/21/1996 0:00,Spain,Steeleye Stout,20
+29,100,0,8/21/1996 0:00,8/30/1996 0:00,Germany,Steeleye Stout,20
+60,10,0,10/3/1996 0:00,10/11/1996 0:00,UK,Steeleye Stout,20
+69,70,0.15000001,10/8/1996 0:00,10/10/1996 0:00,USA,Steeleye Stout,20
+31,40,0.1,12/23/1996 0:00,12/26/1996 0:00,Austria,Steeleye Stout,20
+47,30,0,12/30/1996 0:00,1/9/1997 0:00,USA,Steeleye Stout,20
+52,35,0,1/1/1997 0:00,1/16/1997 0:00,UK,Steeleye Stout,20
+26,60,0.2,1/23/1997 0:00,1/27/1997 0:00,Canada,Steeleye Stout,20
+35,8,0,2/12/1997 0:00,2/21/1997 0:00,Sweden,Steeleye Stout,20
+77,3,0,4/29/1997 0:00,5/2/1997 0:00,Argentina,Steeleye Stout,20
+18,30,0,5/23/1997 0:00,5/27/1997 0:00,France,Steeleye Stout,20
+42,20,0.15000001,5/28/1997 0:00,6/6/1997 0:00,Portugal,Steeleye Stout,20
+35,6,0,5/30/1997 0:00,6/3/1997 0:00,Finland,Steeleye Stout,20
+1,20,0,6/24/1997 0:00,7/25/1997 0:00,UK,Steeleye Stout,20
+77,20,0,7/2/1997 0:00,7/9/1997 0:00,Brazil,Steeleye Stout,20
+3,4,0,7/4/1997 0:00,7/14/1997 0:00,USA,Steeleye Stout,20
+7,30,0.25,7/10/1997 0:00,7/14/1997 0:00,Austria,Steeleye Stout,20
+54,30,0.1,8/7/1997 0:00,8/12/1997 0:00,Germany,Steeleye Stout,20
+15,9,0.25,10/8/1997 0:00,10/14/1997 0:00,Venezuela,Steeleye Stout,20
+26,21,0,10/28/1997 0:00,11/5/1997 0:00,Brazil,Steeleye Stout,20
+20,35,0.2,11/13/1997 0:00,11/25/1997 0:00,USA,Steeleye Stout,20
+69,15,0,12/22/1997 0:00,12/31/1997 0:00,France,Steeleye Stout,20
+76,20,0,1/8/1998 0:00,1/15/1998 0:00,USA,Steeleye Stout,20
+52,8,0,1/14/1998 0:00,1/23/1998 0:00,Norway,Steeleye Stout,20
+58,6,0,1/16/1998 0:00,1/21/1998 0:00,Austria,Steeleye Stout,20
+35,25,0.1,1/21/1998 0:00,1/30/1998 0:00,Germany,Steeleye Stout,20
+61,4,0,2/2/1998 0:00,2/9/1998 0:00,UK,Steeleye Stout,20
+69,30,0,2/4/1998 0:00,2/23/1998 0:00,Brazil,Steeleye Stout,20
+56,3,0,2/4/1998 0:00,2/13/1998 0:00,Poland,Steeleye Stout,20
+63,10,0,3/3/1998 0:00,3/9/1998 0:00,Denmark,Steeleye Stout,20
+75,40,0,3/18/1998 0:00,3/27/1998 0:00,Venezuela,Steeleye Stout,20
+24,15,0.15000001,4/6/1998 0:00,4/16/1998 0:00,USA,Steeleye Stout,20
+57,60,0,4/20/1998 0:00,4/24/1998 0:00,Belgium,Steeleye Stout,20
+65,24,0,4/21/1998 0:00,0000-00-00 00:00:00,Venezuela,Steeleye Stout,20
+27,18,0.05,4/23/1998 0:00,4/24/1998 0:00,Germany,Steeleye Stout,20
+71,25,0,7/12/1996 0:00,7/15/1996 0:00,Switzerland,Inlagd Sill,112
+62,30,0,8/1/1996 0:00,8/2/1996 0:00,Finland,Inlagd Sill,112
+54,40,0.25,9/5/1996 0:00,9/11/1996 0:00,Ireland,Inlagd Sill,112
+73,12,0,9/24/1996 0:00,10/4/1996 0:00,Germany,Inlagd Sill,112
+13,20,0,10/24/1996 0:00,10/29/1996 0:00,Germany,Inlagd Sill,112
+59,40,0.2,10/30/1996 0:00,11/4/1996 0:00,Germany,Inlagd Sill,112
+77,20,0.05,11/20/1996 0:00,11/27/1996 0:00,France,Inlagd Sill,112
+22,6,0.2,12/3/1996 0:00,12/24/1996 0:00,France,Inlagd Sill,112
+49,5,0.1,1/7/1997 0:00,1/13/1997 0:00,Brazil,Inlagd Sill,112
+48,30,0,5/2/1997 0:00,5/23/1997 0:00,France,Inlagd Sill,112
+76,30,0.1,5/5/1997 0:00,5/7/1997 0:00,Germany,Inlagd Sill,112
+16,60,0,5/23/1997 0:00,6/2/1997 0:00,UK,Inlagd Sill,112
+59,25,0,6/10/1997 0:00,6/24/1997 0:00,Brazil,Inlagd Sill,112
+60,21,0.25,7/25/1997 0:00,8/6/1997 0:00,France,Inlagd Sill,112
+71,55,0,7/28/1997 0:00,8/1/1997 0:00,USA,Inlagd Sill,112
+4,15,0,8/26/1997 0:00,9/2/1997 0:00,Brazil,Inlagd Sill,112
+55,30,0,9/15/1997 0:00,9/22/1997 0:00,Denmark,Inlagd Sill,112
+62,6,0.25,9/30/1997 0:00,10/30/1997 0:00,Ireland,Inlagd Sill,112
+7,5,0,10/17/1997 0:00,11/5/1997 0:00,USA,Inlagd Sill,112
+17,40,0,10/27/1997 0:00,10/29/1997 0:00,Germany,Inlagd Sill,112
+33,6,0,11/12/1997 0:00,11/17/1997 0:00,France,Inlagd Sill,112
+40,20,0.2,11/27/1997 0:00,12/2/1997 0:00,USA,Inlagd Sill,112
+72,30,0,12/18/1997 0:00,12/22/1997 0:00,Italy,Inlagd Sill,112
+56,50,0.25,1/19/1998 0:00,1/23/1998 0:00,Venezuela,Inlagd Sill,112
+1,20,0,2/18/1998 0:00,2/20/1998 0:00,Germany,Inlagd Sill,112
+10,25,0.15000001,3/4/1998 0:00,3/13/1998 0:00,Brazil,Inlagd Sill,112
+21,30,0.2,3/9/1998 0:00,3/18/1998 0:00,USA,Inlagd Sill,112
+36,40,0,3/30/1998 0:00,4/3/1998 0:00,USA,Inlagd Sill,112
+1,18,0.25,4/8/1998 0:00,4/10/1998 0:00,Spain,Inlagd Sill,112
+2,16,0,4/10/1998 0:00,4/13/1998 0:00,UK,Inlagd Sill,112
+60,35,0,4/17/1998 0:00,4/23/1998 0:00,USA,Inlagd Sill,112
+10,1,0,7/18/1996 0:00,7/25/1996 0:00,Mexico,Gravad lax,11
+36,28,0,10/24/1996 0:00,10/29/1996 0:00,Germany,Gravad lax,11
+49,10,0,1/8/1997 0:00,1/14/1997 0:00,France,Gravad lax,11
+60,18,0.1,5/1/1997 0:00,5/30/1997 0:00,UK,Gravad lax,11
+76,60,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Gravad lax,11
+13,8,0,3/20/1998 0:00,4/8/1998 0:00,Switzerland,Gravad lax,11
+75,20,0.05,10/15/1996 0:00,10/23/1996 0:00,USA,C�te de Blaye,17
+11,20,0.05,11/11/1996 0:00,11/20/1996 0:00,Austria,C�te de Blaye,17
+21,50,0.2,11/13/1996 0:00,11/25/1996 0:00,Austria,C�te de Blaye,17
+39,10,0,11/22/1996 0:00,12/2/1996 0:00,France,C�te de Blaye,17
+55,40,0.25,12/4/1996 0:00,12/9/1996 0:00,Brazil,C�te de Blaye,17
+38,50,0,1/16/1997 0:00,1/28/1997 0:00,Denmark,C�te de Blaye,17
+56,49,0.2,1/23/1997 0:00,1/27/1997 0:00,Canada,C�te de Blaye,17
+70,30,0,3/19/1997 0:00,3/21/1997 0:00,USA,C�te de Blaye,17
+71,15,0,4/25/1997 0:00,5/5/1997 0:00,Mexico,C�te de Blaye,17
+59,30,0,5/19/1997 0:00,6/13/1997 0:00,Germany,C�te de Blaye,17
+6,4,0.1,5/19/1997 0:00,5/29/1997 0:00,Brazil,C�te de Blaye,17
+56,15,0.05,7/31/1997 0:00,8/5/1997 0:00,USA,C�te de Blaye,17
+68,15,0.1,9/17/1997 0:00,9/26/1997 0:00,Sweden,C�te de Blaye,17
+21,5,0,12/18/1997 0:00,12/19/1997 0:00,Brazil,C�te de Blaye,17
+22,10,0,12/30/1997 0:00,1/9/1998 0:00,USA,C�te de Blaye,17
+24,30,0.05,1/6/1998 0:00,2/4/1998 0:00,USA,C�te de Blaye,17
+52,30,0,1/6/1998 0:00,1/13/1998 0:00,Germany,C�te de Blaye,17
+19,2,0,1/13/1998 0:00,2/4/1998 0:00,Argentina,C�te de Blaye,17
+23,8,0,1/14/1998 0:00,1/23/1998 0:00,Norway,C�te de Blaye,17
+70,60,0.05,2/2/1998 0:00,2/12/1998 0:00,Germany,C�te de Blaye,17
+71,40,0,2/16/1998 0:00,2/23/1998 0:00,USA,C�te de Blaye,17
+2,5,0,3/20/1998 0:00,3/24/1998 0:00,France,C�te de Blaye,17
+68,60,0,3/27/1998 0:00,4/2/1998 0:00,Brazil,C�te de Blaye,17
+14,25,0,4/17/1998 0:00,4/23/1998 0:00,USA,C�te de Blaye,17
+19,42,0,7/10/1996 0:00,7/16/1996 0:00,Brazil,Chartreuse verte,69
+21,6,0,7/16/1996 0:00,7/22/1996 0:00,Venezuela,Chartreuse verte,69
+24,60,0,9/4/1996 0:00,9/10/1996 0:00,France,Chartreuse verte,69
+35,30,0.1,9/13/1996 0:00,10/9/1996 0:00,USA,Chartreuse verte,69
+28,4,0,10/7/1996 0:00,10/14/1996 0:00,Germany,Chartreuse verte,69
+29,50,0.15000001,11/6/1996 0:00,11/8/1996 0:00,Brazil,Chartreuse verte,69
+44,54,0.1,11/22/1996 0:00,12/3/1996 0:00,Germany,Chartreuse verte,69
+14,20,0.15000001,12/9/1996 0:00,12/13/1996 0:00,UK,Chartreuse verte,69
+42,6,0,2/13/1997 0:00,2/20/1997 0:00,Sweden,Chartreuse verte,69
+60,20,0,2/24/1997 0:00,3/3/1997 0:00,Finland,Chartreuse verte,69
+53,20,0.25,3/17/1997 0:00,3/25/1997 0:00,Portugal,Chartreuse verte,69
+60,10,0,4/16/1997 0:00,5/13/1997 0:00,Germany,Chartreuse verte,69
+71,10,0,6/23/1997 0:00,6/30/1997 0:00,USA,Chartreuse verte,69
+62,5,0,7/29/1997 0:00,8/1/1997 0:00,Germany,Chartreuse verte,69
+73,21,0.25,8/25/1997 0:00,9/2/1997 0:00,Germany,Chartreuse verte,69
+1,20,0,8/27/1997 0:00,9/3/1997 0:00,Brazil,Chartreuse verte,69
+29,20,0.1,9/2/1997 0:00,9/11/1997 0:00,Sweden,Chartreuse verte,69
+64,3,0.2,9/9/1997 0:00,9/15/1997 0:00,Ireland,Chartreuse verte,69
+55,16,0,12/2/1997 0:00,12/9/1997 0:00,Sweden,Chartreuse verte,69
+76,130,0.1,12/3/1997 0:00,12/8/1997 0:00,Austria,Chartreuse verte,69
+75,2,0.15000001,12/18/1997 0:00,12/22/1997 0:00,Italy,Chartreuse verte,69
+2,21,0,1/12/1998 0:00,2/6/1998 0:00,France,Chartreuse verte,69
+33,28,0,1/13/1998 0:00,1/21/1998 0:00,Brazil,Chartreuse verte,69
+12,10,0.2,1/19/1998 0:00,2/16/1998 0:00,Venezuela,Chartreuse verte,69
+13,80,0.05,2/2/1998 0:00,2/12/1998 0:00,Germany,Chartreuse verte,69
+26,45,0,2/18/1998 0:00,2/23/1998 0:00,Austria,Chartreuse verte,69
+62,8,0.15000001,2/20/1998 0:00,2/26/1998 0:00,Venezuela,Chartreuse verte,69
+7,30,0,3/26/1998 0:00,4/10/1998 0:00,Sweden,Chartreuse verte,69
+18,20,0,5/4/1998 0:00,5/6/1998 0:00,Mexico,Chartreuse verte,69
+51,2,0.05,5/6/1998 0:00,0000-00-00 00:00:00,USA,Chartreuse verte,69
+75,50,0,7/29/1996 0:00,8/6/1996 0:00,Germany,Boston Crab Meat,123
+4,60,0.05,8/5/1996 0:00,8/12/1996 0:00,Germany,Boston Crab Meat,123
+5,40,0.2,8/20/1996 0:00,8/26/1996 0:00,Germany,Boston Crab Meat,123
+22,10,0,9/9/1996 0:00,9/17/1996 0:00,Germany,Boston Crab Meat,123
+4,40,0.1,9/11/1996 0:00,9/18/1996 0:00,Spain,Boston Crab Meat,123
+58,4,0,11/6/1996 0:00,11/8/1996 0:00,Brazil,Boston Crab Meat,123
+11,2,0.1,1/7/1997 0:00,1/13/1997 0:00,Brazil,Boston Crab Meat,123
+50,50,0.25,1/30/1997 0:00,2/7/1997 0:00,Canada,Boston Crab Meat,123
+56,20,0,2/17/1997 0:00,2/24/1997 0:00,Argentina,Boston Crab Meat,123
+45,20,0,3/5/1997 0:00,3/14/1997 0:00,Denmark,Boston Crab Meat,123
+65,21,0,3/13/1997 0:00,3/21/1997 0:00,Mexico,Boston Crab Meat,123
+72,10,0,3/21/1997 0:00,4/10/1997 0:00,USA,Boston Crab Meat,123
+18,10,0,3/24/1997 0:00,4/1/1997 0:00,UK,Boston Crab Meat,123
+69,5,0,4/7/1997 0:00,4/11/1997 0:00,Venezuela,Boston Crab Meat,123
+70,25,0.2,4/30/1997 0:00,5/6/1997 0:00,Germany,Boston Crab Meat,123
+2,15,0.1,5/2/1997 0:00,5/23/1997 0:00,France,Boston Crab Meat,123
+40,10,0.2,5/12/1997 0:00,5/14/1997 0:00,Germany,Boston Crab Meat,123
+21,10,0.1,5/13/1997 0:00,5/21/1997 0:00,Mexico,Boston Crab Meat,123
+61,50,0,6/18/1997 0:00,6/25/1997 0:00,Sweden,Boston Crab Meat,123
+28,2,0,6/19/1997 0:00,6/30/1997 0:00,USA,Boston Crab Meat,123
+39,42,0,7/22/1997 0:00,7/25/1997 0:00,USA,Boston Crab Meat,123
+46,60,0,8/22/1997 0:00,8/26/1997 0:00,Venezuela,Boston Crab Meat,123
+18,70,0.05,9/5/1997 0:00,9/8/1997 0:00,Germany,Boston Crab Meat,123
+43,24,0.05,9/5/1997 0:00,9/10/1997 0:00,Brazil,Boston Crab Meat,123
+46,30,0.05,9/10/1997 0:00,10/3/1997 0:00,France,Boston Crab Meat,123
+18,20,0,9/26/1997 0:00,9/30/1997 0:00,Germany,Boston Crab Meat,123
+36,6,0,11/4/1997 0:00,11/11/1997 0:00,Brazil,Boston Crab Meat,123
+1,50,0.2,11/17/1997 0:00,11/24/1997 0:00,Denmark,Boston Crab Meat,123
+10,40,0,11/20/1997 0:00,11/28/1997 0:00,USA,Boston Crab Meat,123
+71,3,0,11/25/1997 0:00,11/27/1997 0:00,Italy,Boston Crab Meat,123
+77,1,0,12/31/1997 0:00,1/30/1998 0:00,Italy,Boston Crab Meat,123
+19,30,0,1/2/1998 0:00,1/8/1998 0:00,Venezuela,Boston Crab Meat,123
+39,60,0.15000001,1/6/1998 0:00,1/13/1998 0:00,Germany,Boston Crab Meat,123
+22,25,0,1/16/1998 0:00,1/23/1998 0:00,Sweden,Boston Crab Meat,123
+24,12,0,2/10/1998 0:00,2/12/1998 0:00,Finland,Boston Crab Meat,123
+28,91,0,2/18/1998 0:00,2/23/1998 0:00,Austria,Boston Crab Meat,123
+72,20,0,3/2/1998 0:00,3/4/1998 0:00,Venezuela,Boston Crab Meat,123
+30,10,0,3/26/1998 0:00,4/23/1998 0:00,Belgium,Boston Crab Meat,123
+53,10,0,4/6/1998 0:00,4/8/1998 0:00,USA,Boston Crab Meat,123
+54,5,0.2,4/21/1998 0:00,4/30/1998 0:00,Belgium,Boston Crab Meat,123
+19,40,0.1,4/30/1998 0:00,5/6/1998 0:00,Ireland,Boston Crab Meat,123
+22,10,0,7/8/1996 0:00,7/12/1996 0:00,Brazil,Jack's New England Clam Chowder,85
+30,16,0.25,7/19/1996 0:00,7/29/1996 0:00,Germany,Jack's New England Clam Chowder,85
+42,25,0.15000001,7/24/1996 0:00,8/23/1996 0:00,Sweden,Jack's New England Clam Chowder,85
+16,10,0,9/27/1996 0:00,10/8/1996 0:00,USA,Jack's New England Clam Chowder,85
+60,20,0,10/1/1996 0:00,10/4/1996 0:00,UK,Jack's New England Clam Chowder,85
+4,12,0.05,10/29/1996 0:00,11/8/1996 0:00,France,Jack's New England Clam Chowder,85
+39,13,0,11/11/1996 0:00,11/20/1996 0:00,Austria,Jack's New England Clam Chowder,85
+54,8,0.1,12/11/1996 0:00,12/13/1996 0:00,Brazil,Jack's New England Clam Chowder,85
+41,25,0.2,1/10/1997 0:00,1/21/1997 0:00,Canada,Jack's New England Clam Chowder,85
+14,30,0,2/12/1997 0:00,2/21/1997 0:00,Sweden,Jack's New England Clam Chowder,85
+44,20,0,4/3/1997 0:00,4/11/1997 0:00,Canada,Jack's New England Clam Chowder,85
+47,80,0.1,4/24/1997 0:00,5/1/1997 0:00,Ireland,Jack's New England Clam Chowder,85
+15,10,0,4/29/1997 0:00,5/2/1997 0:00,Argentina,Jack's New England Clam Chowder,85
+41,6,0.1,5/1/1997 0:00,5/30/1997 0:00,UK,Jack's New England Clam Chowder,85
+46,14,0,5/26/1997 0:00,6/2/1997 0:00,Germany,Jack's New England Clam Chowder,85
+47,12,0.05,6/5/1997 0:00,6/13/1997 0:00,France,Jack's New England Clam Chowder,85
+56,9,0.05,6/26/1997 0:00,7/1/1997 0:00,Germany,Jack's New England Clam Chowder,85
+60,20,0.2,9/3/1997 0:00,9/11/1997 0:00,Italy,Jack's New England Clam Chowder,85
+21,24,0,9/4/1997 0:00,9/15/1997 0:00,USA,Jack's New England Clam Chowder,85
+40,120,0,9/23/1997 0:00,10/16/1997 0:00,USA,Jack's New England Clam Chowder,85
+60,4,0,9/29/1997 0:00,10/3/1997 0:00,Brazil,Jack's New England Clam Chowder,85
+77,42,0,10/21/1997 0:00,10/29/1997 0:00,USA,Jack's New England Clam Chowder,85
+31,12,0,10/31/1997 0:00,11/5/1997 0:00,Brazil,Jack's New England Clam Chowder,85
+40,12,0,11/11/1997 0:00,11/18/1997 0:00,France,Jack's New England Clam Chowder,85
+70,35,0,11/19/1997 0:00,11/26/1997 0:00,Austria,Jack's New England Clam Chowder,85
+20,30,0.05,12/8/1997 0:00,12/12/1997 0:00,Denmark,Jack's New England Clam Chowder,85
+39,10,0,12/16/1997 0:00,12/24/1997 0:00,Sweden,Jack's New England Clam Chowder,85
+58,20,0.05,12/23/1997 0:00,1/1/1998 0:00,Germany,Jack's New England Clam Chowder,85
+68,14,0,12/24/1997 0:00,1/8/1998 0:00,UK,Jack's New England Clam Chowder,85
+40,20,0,1/5/1998 0:00,1/14/1998 0:00,France,Jack's New England Clam Chowder,85
+42,20,0,1/7/1998 0:00,1/12/1998 0:00,Italy,Jack's New England Clam Chowder,85
+51,12,0,1/9/1998 0:00,1/30/1998 0:00,Sweden,Jack's New England Clam Chowder,85
+10,14,0,2/16/1998 0:00,2/18/1998 0:00,France,Jack's New England Clam Chowder,85
+56,30,0,2/23/1998 0:00,2/26/1998 0:00,Venezuela,Jack's New England Clam Chowder,85
+65,5,0,2/26/1998 0:00,3/10/1998 0:00,Norway,Jack's New England Clam Chowder,85
+51,6,0.05,3/16/1998 0:00,4/7/1998 0:00,Switzerland,Jack's New England Clam Chowder,85
+59,24,0,3/19/1998 0:00,4/8/1998 0:00,Venezuela,Jack's New England Clam Chowder,85
+76,6,0,3/24/1998 0:00,3/27/1998 0:00,France,Jack's New England Clam Chowder,85
+29,4,0,3/31/1998 0:00,4/2/1998 0:00,Brazil,Jack's New England Clam Chowder,85
+65,35,0.25,4/1/1998 0:00,4/10/1998 0:00,Sweden,Jack's New England Clam Chowder,85
+69,20,0.05,4/3/1998 0:00,4/10/1998 0:00,Germany,Jack's New England Clam Chowder,85
+71,28,0.1,4/10/1998 0:00,4/15/1998 0:00,Venezuela,Jack's New England Clam Chowder,85
+31,30,0.1,4/30/1998 0:00,5/6/1998 0:00,Ireland,Jack's New England Clam Chowder,85
+55,12,0,5/1/1998 0:00,5/4/1998 0:00,USA,Jack's New England Clam Chowder,85
+64,9,0,5/4/1998 0:00,5/6/1998 0:00,Germany,Jack's New England Clam Chowder,85
+36,40,0,5/5/1998 0:00,0000-00-00 00:00:00,Austria,Jack's New England Clam Chowder,85
+23,3,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Jack's New England Clam Chowder,85
+46,10,0,7/4/1996 0:00,7/16/1996 0:00,France,Singaporean Hokkien Fried Mee,26
+67,2,0,9/19/1996 0:00,10/23/1996 0:00,Ireland,Singaporean Hokkien Fried Mee,26
+73,6,0,9/20/1996 0:00,9/26/1996 0:00,France,Singaporean Hokkien Fried Mee,26
+75,10,0.2,10/17/1996 0:00,10/21/1996 0:00,Canada,Singaporean Hokkien Fried Mee,26
+16,9,0,11/4/1996 0:00,11/11/1996 0:00,Germany,Singaporean Hokkien Fried Mee,26
+62,40,0.05,1/3/1997 0:00,1/8/1997 0:00,Italy,Singaporean Hokkien Fried Mee,26
+65,50,0,3/4/1997 0:00,3/6/1997 0:00,Belgium,Singaporean Hokkien Fried Mee,26
+38,20,0.05,4/1/1997 0:00,4/11/1997 0:00,Canada,Singaporean Hokkien Fried Mee,26
+71,30,0,4/7/1997 0:00,4/11/1997 0:00,Venezuela,Singaporean Hokkien Fried Mee,26
+16,20,0,4/24/1997 0:00,5/1/1997 0:00,Ireland,Singaporean Hokkien Fried Mee,26
+42,28,0.15000001,6/17/1997 0:00,7/4/1997 0:00,Austria,Singaporean Hokkien Fried Mee,26
+43,100,0.2,7/3/1997 0:00,7/10/1997 0:00,Germany,Singaporean Hokkien Fried Mee,26
+23,5,0,8/8/1997 0:00,8/14/1997 0:00,Mexico,Singaporean Hokkien Fried Mee,26
+14,20,0,9/1/1997 0:00,9/8/1997 0:00,Brazil,Singaporean Hokkien Fried Mee,26
+53,30,0.05,9/10/1997 0:00,10/3/1997 0:00,France,Singaporean Hokkien Fried Mee,26
+58,6,0,9/18/1997 0:00,9/19/1997 0:00,Finland,Singaporean Hokkien Fried Mee,26
+10,40,0.25,9/24/1997 0:00,9/26/1997 0:00,USA,Singaporean Hokkien Fried Mee,26
+19,28,0,11/19/1997 0:00,11/21/1997 0:00,Switzerland,Singaporean Hokkien Fried Mee,26
+44,2,0,12/5/1997 0:00,12/15/1997 0:00,Belgium,Singaporean Hokkien Fried Mee,26
+26,12,0.05,12/15/1997 0:00,12/18/1997 0:00,Austria,Singaporean Hokkien Fried Mee,26
+33,20,0.2,12/15/1997 0:00,1/21/1998 0:00,Brazil,Singaporean Hokkien Fried Mee,26
+12,42,0.1,1/21/1998 0:00,1/30/1998 0:00,Germany,Singaporean Hokkien Fried Mee,26
+33,20,0,1/28/1998 0:00,2/10/1998 0:00,Mexico,Singaporean Hokkien Fried Mee,26
+41,25,0,2/11/1998 0:00,2/20/1998 0:00,USA,Singaporean Hokkien Fried Mee,26
+54,10,0.2,3/3/1998 0:00,3/13/1998 0:00,France,Singaporean Hokkien Fried Mee,26
+59,40,0,4/2/1998 0:00,4/10/1998 0:00,Germany,Singaporean Hokkien Fried Mee,26
+16,24,0.15000001,4/6/1998 0:00,4/16/1998 0:00,USA,Singaporean Hokkien Fried Mee,26
+31,14,0,4/8/1998 0:00,4/13/1998 0:00,Portugal,Singaporean Hokkien Fried Mee,26
+42,4,0,4/9/1998 0:00,4/10/1998 0:00,Spain,Singaporean Hokkien Fried Mee,26
+19,30,0,4/20/1998 0:00,4/24/1998 0:00,Belgium,Singaporean Hokkien Fried Mee,26
+21,25,0,8/1/1996 0:00,8/2/1996 0:00,Finland,Ipoh Coffee,17
+64,15,0,8/30/1996 0:00,9/5/1996 0:00,USA,Ipoh Coffee,17
+33,12,0,9/10/1996 0:00,10/9/1996 0:00,Belgium,Ipoh Coffee,17
+66,20,0,9/19/1996 0:00,10/23/1996 0:00,Ireland,Ipoh Coffee,17
+75,24,0,9/23/1996 0:00,10/3/1996 0:00,Germany,Ipoh Coffee,17
+52,40,0.05,10/29/1996 0:00,11/8/1996 0:00,France,Ipoh Coffee,17
+40,20,0,2/26/1997 0:00,3/4/1997 0:00,Belgium,Ipoh Coffee,17
+47,3,0,3/4/1997 0:00,3/14/1997 0:00,Portugal,Ipoh Coffee,17
+60,15,0,3/7/1997 0:00,3/12/1997 0:00,Germany,Ipoh Coffee,17
+10,15,0.15000001,4/15/1997 0:00,4/22/1997 0:00,Mexico,Ipoh Coffee,17
+41,60,0,5/1/1997 0:00,5/7/1997 0:00,Sweden,Ipoh Coffee,17
+47,25,0,5/8/1997 0:00,5/12/1997 0:00,Austria,Ipoh Coffee,17
+17,20,0,8/25/1997 0:00,9/1/1997 0:00,Brazil,Ipoh Coffee,17
+26,6,0,9/18/1997 0:00,9/19/1997 0:00,Finland,Ipoh Coffee,17
+9,40,0,10/3/1997 0:00,10/22/1997 0:00,Germany,Ipoh Coffee,17
+29,24,0,10/16/1997 0:00,10/21/1997 0:00,USA,Ipoh Coffee,17
+36,30,0.25,12/1/1997 0:00,12/10/1997 0:00,Belgium,Ipoh Coffee,17
+10,20,0.15000001,1/5/1998 0:00,1/14/1998 0:00,France,Ipoh Coffee,17
+28,7,0,1/7/1998 0:00,1/16/1998 0:00,Argentina,Ipoh Coffee,17
+34,9,0,1/14/1998 0:00,1/23/1998 0:00,Norway,Ipoh Coffee,17
+1,5,0,1/20/1998 0:00,1/29/1998 0:00,Mexico,Ipoh Coffee,17
+56,10,0.2,3/3/1998 0:00,3/13/1998 0:00,France,Ipoh Coffee,17
+77,24,0.25,3/10/1998 0:00,3/16/1998 0:00,Germany,Ipoh Coffee,17
+1,9,0,3/27/1998 0:00,4/8/1998 0:00,Canada,Ipoh Coffee,17
+29,6,0,3/31/1998 0:00,4/6/1998 0:00,UK,Ipoh Coffee,17
+43,30,0,4/14/1998 0:00,4/24/1998 0:00,UK,Ipoh Coffee,17
+44,30,0.2,4/27/1998 0:00,5/1/1998 0:00,Brazil,Ipoh Coffee,17
+62,36,0.15000001,5/4/1998 0:00,0000-00-00 00:00:00,Brazil,Ipoh Coffee,17
+63,16,0,8/12/1996 0:00,8/16/1996 0:00,Sweden,Gula Malacca,27
+9,21,0,8/19/1996 0:00,8/27/1996 0:00,Germany,Gula Malacca,27
+54,24,0.1,8/27/1996 0:00,9/4/1996 0:00,Brazil,Gula Malacca,27
+69,77,0.05,11/11/1996 0:00,11/20/1996 0:00,Austria,Gula Malacca,27
+73,40,0.2,1/10/1997 0:00,1/21/1997 0:00,Canada,Gula Malacca,27
+7,100,0.05,2/20/1997 0:00,2/26/1997 0:00,USA,Gula Malacca,27
+59,2,0.15000001,3/10/1997 0:00,3/14/1997 0:00,USA,Gula Malacca,27
+70,15,0.15000001,3/31/1997 0:00,4/8/1997 0:00,Portugal,Gula Malacca,27
+8,9,0,4/25/1997 0:00,5/5/1997 0:00,Mexico,Gula Malacca,27
+12,40,0,5/28/1997 0:00,6/6/1997 0:00,Portugal,Gula Malacca,27
+24,10,0,6/6/1997 0:00,6/9/1997 0:00,Sweden,Gula Malacca,27
+17,21,0,6/23/1997 0:00,6/30/1997 0:00,Mexico,Gula Malacca,27
+46,10,0,8/7/1997 0:00,8/19/1997 0:00,USA,Gula Malacca,27
+19,28,0.1,9/4/1997 0:00,9/10/1997 0:00,USA,Gula Malacca,27
+35,21,0,9/22/1997 0:00,9/29/1997 0:00,Mexico,Gula Malacca,27
+58,24,0,10/3/1997 0:00,10/22/1997 0:00,Germany,Gula Malacca,27
+70,50,0.05,10/29/1997 0:00,10/31/1997 0:00,Germany,Gula Malacca,27
+11,16,0,11/18/1997 0:00,11/27/1997 0:00,Germany,Gula Malacca,27
+17,10,0,12/25/1997 0:00,1/14/1998 0:00,Venezuela,Gula Malacca,27
+29,16,0.2,1/14/1998 0:00,1/19/1998 0:00,France,Gula Malacca,27
+65,18,0.25,3/12/1998 0:00,3/13/1998 0:00,Canada,Gula Malacca,27
+70,6,0.15000001,3/26/1998 0:00,4/23/1998 0:00,Belgium,Gula Malacca,27
+47,12,0,4/20/1998 0:00,4/27/1998 0:00,USA,Gula Malacca,27
+1,15,0,4/22/1998 0:00,5/1/1998 0:00,Brazil,Gula Malacca,27
+34,15,0.2,12/19/1996 0:00,12/20/1996 0:00,UK,Rogede sild,5
+68,30,0.1,3/5/1997 0:00,3/14/1997 0:00,Denmark,Rogede sild,5
+71,21,0,4/10/1997 0:00,4/29/1997 0:00,Mexico,Rogede sild,5
+59,100,0.15000001,5/27/1997 0:00,5/30/1997 0:00,Germany,Rogede sild,5
+71,20,0,8/20/1997 0:00,9/1/1997 0:00,Venezuela,Rogede sild,5
+76,110,0,10/22/1997 0:00,10/24/1997 0:00,USA,Rogede sild,5
+3,40,0.2,11/13/1997 0:00,11/25/1997 0:00,USA,Rogede sild,5
+76,40,0.15000001,11/21/1997 0:00,11/24/1997 0:00,Finland,Rogede sild,5
+2,4,0,11/25/1997 0:00,11/27/1997 0:00,Italy,Rogede sild,5
+59,27,0.05,12/15/1997 0:00,12/18/1997 0:00,Austria,Rogede sild,5
+73,36,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Rogede sild,5
+4,15,0,2/19/1998 0:00,2/27/1998 0:00,Belgium,Rogede sild,5
+24,30,0,3/17/1998 0:00,3/20/1998 0:00,Venezuela,Rogede sild,5
+48,20,0,4/9/1998 0:00,4/10/1998 0:00,Spain,Rogede sild,5
+31,15,0.15000001,8/22/1996 0:00,8/28/1996 0:00,Brazil,Spegesild,95
+32,30,0,10/8/1996 0:00,10/10/1996 0:00,USA,Spegesild,95
+16,45,0,12/23/1996 0:00,12/26/1996 0:00,Austria,Spegesild,95
+43,28,0.1,12/26/1996 0:00,1/3/1997 0:00,Venezuela,Spegesild,95
+59,2,0.25,1/16/1997 0:00,1/28/1997 0:00,Denmark,Spegesild,95
+55,20,0,1/28/1997 0:00,2/4/1997 0:00,Italy,Spegesild,95
+57,5,0,2/5/1997 0:00,2/11/1997 0:00,France,Spegesild,95
+70,10,0.2,2/21/1997 0:00,2/25/1997 0:00,France,Spegesild,95
+5,20,0.05,2/27/1997 0:00,2/28/1997 0:00,France,Spegesild,95
+36,5,0,3/6/1997 0:00,3/13/1997 0:00,Brazil,Spegesild,95
+8,9,0.15000001,4/21/1997 0:00,4/24/1997 0:00,Brazil,Spegesild,95
+51,2,0.25,8/25/1997 0:00,9/2/1997 0:00,Germany,Spegesild,95
+60,21,0.1,8/25/1997 0:00,9/1/1997 0:00,Brazil,Spegesild,95
+19,45,0,9/4/1997 0:00,9/15/1997 0:00,USA,Spegesild,95
+47,60,0,9/16/1997 0:00,9/18/1997 0:00,Germany,Spegesild,95
+19,18,0,10/8/1997 0:00,10/14/1997 0:00,USA,Spegesild,95
+41,24,0,10/22/1997 0:00,10/24/1997 0:00,USA,Spegesild,95
+53,28,0.05,11/17/1997 0:00,11/21/1997 0:00,UK,Spegesild,95
+53,35,0,1/5/1998 0:00,1/9/1998 0:00,Brazil,Spegesild,95
+56,21,0,2/9/1998 0:00,2/12/1998 0:00,France,Spegesild,95
+10,15,0,3/11/1998 0:00,3/19/1998 0:00,UK,Spegesild,95
+26,9,0,3/23/1998 0:00,3/30/1998 0:00,Brazil,Spegesild,95
+45,20,0.25,4/3/1998 0:00,4/13/1998 0:00,Venezuela,Spegesild,95
+46,25,0,4/6/1998 0:00,4/14/1998 0:00,Sweden,Spegesild,95
+2,3,0,4/13/1998 0:00,0000-00-00 00:00:00,Argentina,Spegesild,95
+17,30,0.15000001,5/6/1998 0:00,0000-00-00 00:00:00,Switzerland,Spegesild,95
+47,3,0.02,5/6/1998 0:00,0000-00-00 00:00:00,USA,Spegesild,95
+56,16,0.2,10/17/1996 0:00,10/21/1996 0:00,Canada,Zaanse koeken,36
+58,55,0,1/17/1997 0:00,1/24/1997 0:00,Germany,Zaanse koeken,36
+10,30,0.25,1/30/1997 0:00,2/7/1997 0:00,Canada,Zaanse koeken,36
+71,30,0,3/20/1997 0:00,3/24/1997 0:00,France,Zaanse koeken,36
+21,6,0.15000001,4/21/1997 0:00,4/24/1997 0:00,Brazil,Zaanse koeken,36
+51,25,0,6/4/1997 0:00,6/10/1997 0:00,UK,Zaanse koeken,36
+61,15,0,7/1/1997 0:00,7/10/1997 0:00,Brazil,Zaanse koeken,36
+21,6,0.1,9/4/1997 0:00,9/10/1997 0:00,USA,Zaanse koeken,36
+54,10,0,9/4/1997 0:00,9/15/1997 0:00,USA,Zaanse koeken,36
+69,40,0,9/26/1997 0:00,9/30/1997 0:00,Germany,Zaanse koeken,36
+12,15,0,9/29/1997 0:00,10/3/1997 0:00,Brazil,Zaanse koeken,36
+16,12,0,10/9/1997 0:00,10/13/1997 0:00,Germany,Zaanse koeken,36
+36,5,0,10/20/1997 0:00,10/23/1997 0:00,Italy,Zaanse koeken,36
+62,50,0.25,10/22/1997 0:00,10/27/1997 0:00,USA,Zaanse koeken,36
+18,30,0.25,11/26/1997 0:00,11/28/1997 0:00,France,Zaanse koeken,36
+30,30,0,12/2/1997 0:00,12/9/1997 0:00,Sweden,Zaanse koeken,36
+54,40,0.25,1/16/1998 0:00,1/23/1998 0:00,Sweden,Zaanse koeken,36
+35,21,0.1,2/6/1998 0:00,3/3/1998 0:00,Sweden,Zaanse koeken,36
+71,5,0,3/5/1998 0:00,3/18/1998 0:00,Spain,Zaanse koeken,36
+44,14,0,3/17/1998 0:00,3/20/1998 0:00,Germany,Zaanse koeken,36
+2,30,0,3/26/1998 0:00,4/10/1998 0:00,Sweden,Zaanse koeken,36
+31,70,0.15000001,1/3/1997 0:00,1/9/1997 0:00,Austria,Chocolade,15
+68,15,0.1,2/21/1997 0:00,2/26/1997 0:00,UK,Chocolade,15
+75,15,0.15000001,4/15/1997 0:00,4/22/1997 0:00,Mexico,Chocolade,15
+26,6,0.1,7/18/1997 0:00,7/29/1997 0:00,Portugal,Chocolade,15
+10,24,0,10/14/1997 0:00,11/7/1997 0:00,Brazil,Chocolade,15
+61,8,0.15000001,1/5/1998 0:00,1/14/1998 0:00,France,Chocolade,15
+41,40,0,7/10/1996 0:00,7/16/1996 0:00,Brazil,Maxilaku,10
+52,15,0,8/27/1996 0:00,9/3/1996 0:00,Brazil,Maxilaku,10
+55,30,0,9/12/1996 0:00,9/17/1996 0:00,Mexico,Maxilaku,10
+4,35,0,11/22/1996 0:00,12/2/1996 0:00,France,Maxilaku,10
+11,30,0,1/1/1997 0:00,1/16/1997 0:00,UK,Maxilaku,10
+17,30,0.05,1/3/1997 0:00,1/8/1997 0:00,Italy,Maxilaku,10
+56,21,0.15000001,2/25/1997 0:00,2/28/1997 0:00,Germany,Maxilaku,10
+59,24,0,3/20/1997 0:00,3/25/1997 0:00,Brazil,Maxilaku,10
+30,25,0,4/8/1997 0:00,4/16/1997 0:00,Venezuela,Maxilaku,10
+40,6,0,5/16/1997 0:00,5/23/1997 0:00,UK,Maxilaku,10
+55,25,0.05,7/18/1997 0:00,8/8/1997 0:00,USA,Maxilaku,10
+60,18,0,7/28/1997 0:00,8/1/1997 0:00,USA,Maxilaku,10
+1,4,0.15000001,12/30/1997 0:00,1/7/1998 0:00,UK,Maxilaku,10
+21,42,0.1,2/4/1998 0:00,2/23/1998 0:00,Brazil,Maxilaku,10
+50,15,0,2/6/1998 0:00,3/3/1998 0:00,Sweden,Maxilaku,10
+16,20,0.15000001,2/11/1998 0:00,2/20/1998 0:00,USA,Maxilaku,10
+31,10,0,2/26/1998 0:00,3/4/1998 0:00,Finland,Maxilaku,10
+65,28,0,3/11/1998 0:00,3/18/1998 0:00,Italy,Maxilaku,10
+21,40,0,3/23/1998 0:00,4/2/1998 0:00,Germany,Maxilaku,10
+51,2,0,4/13/1998 0:00,0000-00-00 00:00:00,Argentina,Maxilaku,10
+76,60,0,4/21/1998 0:00,0000-00-00 00:00:00,Venezuela,Maxilaku,10
+14,15,0.1,11/11/1996 0:00,12/3/1996 0:00,France,Valkoinen suklaa,65
+28,15,0,12/16/1996 0:00,12/18/1996 0:00,UK,Valkoinen suklaa,65
+52,40,0,1/29/1997 0:00,2/7/1997 0:00,Ireland,Valkoinen suklaa,65
+6,25,0,3/5/1997 0:00,3/14/1997 0:00,Denmark,Valkoinen suklaa,65
+30,25,0.05,8/19/1997 0:00,8/26/1997 0:00,Brazil,Valkoinen suklaa,65
+76,40,0,11/4/1997 0:00,11/14/1997 0:00,Venezuela,Valkoinen suklaa,65
+61,20,0.1,11/24/1997 0:00,12/3/1997 0:00,Switzerland,Valkoinen suklaa,65
+77,24,0,3/3/1998 0:00,3/9/1998 0:00,UK,Valkoinen suklaa,65
+65,9,0,3/13/1998 0:00,3/19/1998 0:00,Spain,Valkoinen suklaa,65
+75,22,0,5/5/1998 0:00,0000-00-00 00:00:00,Austria,Valkoinen suklaa,65
+13,40,0,7/5/1996 0:00,7/10/1996 0:00,Germany,Manjimup Dried Apples,20
+41,35,0.15000001,7/8/1996 0:00,7/12/1996 0:00,Brazil,Manjimup Dried Apples,20
+16,2,0.1,8/27/1996 0:00,9/4/1996 0:00,Brazil,Manjimup Dried Apples,20
+36,48,0.2,10/22/1996 0:00,10/24/1996 0:00,Ireland,Manjimup Dried Apples,20
+52,20,0,11/25/1996 0:00,11/28/1996 0:00,France,Manjimup Dried Apples,20
+28,18,0.15000001,12/27/1996 0:00,1/2/1997 0:00,Portugal,Manjimup Dried Apples,20
+35,18,0,3/12/1997 0:00,3/19/1997 0:00,UK,Manjimup Dried Apples,20
+45,3,0,3/24/1997 0:00,4/1/1997 0:00,UK,Manjimup Dried Apples,20
+56,25,0,3/26/1997 0:00,4/2/1997 0:00,Venezuela,Manjimup Dried Apples,20
+2,6,0,5/14/1997 0:00,5/19/1997 0:00,Switzerland,Manjimup Dried Apples,20
+3,48,0.15000001,5/27/1997 0:00,5/30/1997 0:00,Germany,Manjimup Dried Apples,20
+60,20,0.2,6/2/1997 0:00,6/4/1997 0:00,USA,Manjimup Dried Apples,20
+72,20,0,6/4/1997 0:00,6/10/1997 0:00,UK,Manjimup Dried Apples,20
+46,50,0,6/6/1997 0:00,6/9/1997 0:00,Sweden,Manjimup Dried Apples,20
+40,3,0,6/12/1997 0:00,6/17/1997 0:00,Ireland,Manjimup Dried Apples,20
+18,15,0,8/15/1997 0:00,8/21/1997 0:00,France,Manjimup Dried Apples,20
+44,20,0.05,9/10/1997 0:00,10/3/1997 0:00,France,Manjimup Dried Apples,20
+59,20,0,9/11/1997 0:00,9/17/1997 0:00,USA,Manjimup Dried Apples,20
+72,28,0,10/17/1997 0:00,11/20/1997 0:00,Brazil,Manjimup Dried Apples,20
+13,7,0,10/24/1997 0:00,10/27/1997 0:00,Argentina,Manjimup Dried Apples,20
+42,30,0.05,11/6/1997 0:00,11/14/1997 0:00,Switzerland,Manjimup Dried Apples,20
+62,28,0,12/2/1997 0:00,12/9/1997 0:00,Sweden,Manjimup Dried Apples,20
+69,120,0.05,12/15/1997 0:00,12/18/1997 0:00,Austria,Manjimup Dried Apples,20
+31,10,0.1,12/26/1997 0:00,1/5/1998 0:00,UK,Manjimup Dried Apples,20
+41,30,0.25,12/29/1997 0:00,1/2/1998 0:00,Denmark,Manjimup Dried Apples,20
+63,6,0,1/8/1998 0:00,1/15/1998 0:00,USA,Manjimup Dried Apples,20
+69,4,0.25,1/21/1998 0:00,1/26/1998 0:00,France,Manjimup Dried Apples,20
+23,3,0,1/29/1998 0:00,2/4/1998 0:00,France,Manjimup Dried Apples,20
+40,2,0,2/4/1998 0:00,2/13/1998 0:00,Poland,Manjimup Dried Apples,20
+56,40,0,3/13/1998 0:00,3/19/1998 0:00,Spain,Manjimup Dried Apples,20
+56,8,0,3/17/1998 0:00,3/20/1998 0:00,Germany,Manjimup Dried Apples,20
+59,16,0,3/20/1998 0:00,3/30/1998 0:00,USA,Manjimup Dried Apples,20
+76,10,0,3/26/1998 0:00,4/10/1998 0:00,Sweden,Manjimup Dried Apples,20
+14,20,0,4/2/1998 0:00,4/6/1998 0:00,Mexico,Manjimup Dried Apples,20
+45,15,0.05,4/3/1998 0:00,4/10/1998 0:00,Germany,Manjimup Dried Apples,20
+59,44,0.25,4/14/1998 0:00,4/21/1998 0:00,Germany,Manjimup Dried Apples,20
+26,10,0,4/15/1998 0:00,4/28/1998 0:00,Italy,Manjimup Dried Apples,20
+30,24,0,4/23/1998 0:00,0000-00-00 00:00:00,Canada,Manjimup Dried Apples,20
+50,20,0,4/28/1998 0:00,5/5/1998 0:00,Venezuela,Manjimup Dried Apples,20
+73,20,0,10/4/1996 0:00,10/23/1996 0:00,Mexico,Filo Mix,38
+1,8,0,10/21/1996 0:00,10/28/1996 0:00,France,Filo Mix,38
+69,20,0.2,12/19/1996 0:00,12/20/1996 0:00,UK,Filo Mix,38
+45,15,0.1,2/14/1997 0:00,2/19/1997 0:00,Germany,Filo Mix,38
+74,20,0,2/18/1997 0:00,2/27/1997 0:00,France,Filo Mix,38
+40,6,0,4/24/1997 0:00,4/29/1997 0:00,UK,Filo Mix,38
+47,30,0,6/4/1997 0:00,6/10/1997 0:00,UK,Filo Mix,38
+56,70,0,6/10/1997 0:00,6/24/1997 0:00,Brazil,Filo Mix,38
+57,4,0.15000001,7/2/1997 0:00,7/9/1997 0:00,Italy,Filo Mix,38
+69,24,0,7/9/1997 0:00,7/16/1997 0:00,USA,Filo Mix,38
+18,5,0,8/5/1997 0:00,8/14/1997 0:00,Canada,Filo Mix,38
+36,9,0,9/26/1997 0:00,10/1/1997 0:00,France,Filo Mix,38
+68,4,0,10/31/1997 0:00,11/5/1997 0:00,Brazil,Filo Mix,38
+69,25,0,11/7/1997 0:00,11/10/1997 0:00,Sweden,Filo Mix,38
+34,18,0,11/12/1997 0:00,11/17/1997 0:00,France,Filo Mix,38
+59,60,0,11/28/1997 0:00,12/4/1997 0:00,Switzerland,Filo Mix,38
+62,15,0.05,12/8/1997 0:00,12/12/1997 0:00,Denmark,Filo Mix,38
+64,8,0,12/24/1997 0:00,1/8/1998 0:00,UK,Filo Mix,38
+26,20,0,1/1/1998 0:00,1/7/1998 0:00,Brazil,Filo Mix,38
+52,8,0,1/30/1998 0:00,2/2/1998 0:00,Germany,Filo Mix,38
+70,14,0.05,2/26/1998 0:00,3/6/1998 0:00,Italy,Filo Mix,38
+32,12,0.15000001,3/4/1998 0:00,3/13/1998 0:00,Brazil,Filo Mix,38
+25,5,0,3/5/1998 0:00,4/8/1998 0:00,France,Filo Mix,38
+27,6,0.05,3/19/1998 0:00,3/30/1998 0:00,Brazil,Filo Mix,38
+43,40,0.2,3/24/1998 0:00,4/24/1998 0:00,Spain,Filo Mix,38
+25,20,0.25,4/3/1998 0:00,4/13/1998 0:00,Venezuela,Filo Mix,38
+75,10,0,4/6/1998 0:00,4/8/1998 0:00,USA,Filo Mix,38
+39,2,0,4/21/1998 0:00,4/30/1998 0:00,Belgium,Filo Mix,38
+47,2,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Filo Mix,38
+51,15,0,7/15/1996 0:00,7/17/1996 0:00,Brazil,Perth Pasties,0
+56,36,0.2,8/20/1996 0:00,8/26/1996 0:00,Germany,Perth Pasties,0
+21,10,0,9/16/1996 0:00,9/23/1996 0:00,Spain,Perth Pasties,0
+22,20,0,9/23/1996 0:00,10/3/1996 0:00,Germany,Perth Pasties,0
+24,20,0.1,12/12/1996 0:00,1/16/1997 0:00,Ireland,Perth Pasties,0
+3,40,0,12/19/1996 0:00,12/20/1996 0:00,UK,Perth Pasties,0
+39,70,0.1,12/26/1996 0:00,1/3/1997 0:00,Venezuela,Perth Pasties,0
+65,10,0,1/16/1997 0:00,1/27/1997 0:00,Finland,Perth Pasties,0
+2,15,0.15000001,1/21/1997 0:00,1/27/1997 0:00,Brazil,Perth Pasties,0
+7,15,0,2/5/1997 0:00,2/12/1997 0:00,Finland,Perth Pasties,0
+68,50,0,2/24/1997 0:00,3/3/1997 0:00,Finland,Perth Pasties,0
+42,28,0,3/19/1997 0:00,3/21/1997 0:00,USA,Perth Pasties,0
+22,6,0,4/10/1997 0:00,4/29/1997 0:00,Mexico,Perth Pasties,0
+31,10,0,4/11/1997 0:00,4/18/1997 0:00,USA,Perth Pasties,0
+60,5,0,4/29/1997 0:00,5/1/1997 0:00,Norway,Perth Pasties,0
+71,18,0,6/4/1997 0:00,6/10/1997 0:00,UK,Perth Pasties,0
+41,25,0,6/19/1997 0:00,6/20/1997 0:00,Mexico,Perth Pasties,0
+52,12,0,8/11/1997 0:00,8/20/1997 0:00,Sweden,Perth Pasties,0
+61,25,0.05,8/29/1997 0:00,9/3/1997 0:00,Brazil,Perth Pasties,0
+62,10,0,9/19/1997 0:00,9/23/1997 0:00,Germany,Perth Pasties,0
+11,120,0,10/21/1997 0:00,10/29/1997 0:00,USA,Perth Pasties,0
+71,3,0.05,10/21/1997 0:00,10/31/1997 0:00,Ireland,Perth Pasties,0
+29,20,0,1/9/1998 0:00,1/14/1998 0:00,Germany,Perth Pasties,0
+59,9,0.1,1/15/1998 0:00,1/23/1998 0:00,Germany,Perth Pasties,0
+17,3,0,2/3/1998 0:00,2/11/1998 0:00,USA,Perth Pasties,0
+31,2,0,3/6/1998 0:00,3/16/1998 0:00,UK,Perth Pasties,0
+75,20,0,3/19/1998 0:00,3/23/1998 0:00,Germany,Perth Pasties,0
+31,70,0.1,4/17/1998 0:00,4/23/1998 0:00,Switzerland,Perth Pasties,0
+66,10,0.2,4/30/1998 0:00,0000-00-00 00:00:00,Italy,Perth Pasties,0
+10,25,0.1,5/1/1998 0:00,5/4/1998 0:00,USA,Perth Pasties,0
+67,10,0.1,8/23/1996 0:00,9/3/1996 0:00,Italy,Tourti�re,21
+31,5,0,9/16/1996 0:00,9/23/1996 0:00,Spain,Tourti�re,21
+42,15,0,10/16/1996 0:00,10/21/1996 0:00,France,Tourti�re,21
+45,24,0,11/8/1996 0:00,11/15/1996 0:00,USA,Tourti�re,21
+51,20,0.15000001,11/12/1996 0:00,11/18/1996 0:00,Portugal,Tourti�re,21
+42,28,0,11/22/1996 0:00,12/2/1996 0:00,France,Tourti�re,21
+41,24,0,11/25/1996 0:00,11/28/1996 0:00,France,Tourti�re,21
+16,18,0,11/28/1996 0:00,12/2/1996 0:00,Denmark,Tourti�re,21
+62,10,0,12/6/1996 0:00,12/9/1996 0:00,USA,Tourti�re,21
+70,6,0,1/8/1997 0:00,1/14/1997 0:00,France,Tourti�re,21
+77,40,0,1/31/1997 0:00,2/7/1997 0:00,USA,Tourti�re,21
+54,80,0,2/11/1997 0:00,2/18/1997 0:00,Austria,Tourti�re,21
+56,15,0,2/13/1997 0:00,2/20/1997 0:00,Sweden,Tourti�re,21
+74,6,0.2,2/19/1997 0:00,3/11/1997 0:00,France,Tourti�re,21
+31,24,0.25,3/26/1997 0:00,3/28/1997 0:00,Brazil,Tourti�re,21
+31,20,0,4/9/1997 0:00,4/16/1997 0:00,Germany,Tourti�re,21
+38,15,0,5/1/1997 0:00,5/7/1997 0:00,Sweden,Tourti�re,21
+36,10,0.2,5/12/1997 0:00,5/14/1997 0:00,Germany,Tourti�re,21
+39,24,0.05,5/20/1997 0:00,5/26/1997 0:00,Germany,Tourti�re,21
+72,50,0,7/7/1997 0:00,7/16/1997 0:00,Denmark,Tourti�re,21
+10,4,0,7/16/1997 0:00,7/21/1997 0:00,USA,Tourti�re,21
+75,30,0,8/29/1997 0:00,9/3/1997 0:00,Brazil,Tourti�re,21
+8,6,0.1,9/2/1997 0:00,9/11/1997 0:00,Sweden,Tourti�re,21
+30,30,0,9/23/1997 0:00,10/16/1997 0:00,USA,Tourti�re,21
+75,60,0.15000001,10/6/1997 0:00,10/10/1997 0:00,USA,Tourti�re,21
+2,15,0,10/24/1997 0:00,10/29/1997 0:00,Germany,Tourti�re,21
+29,40,0.25,10/27/1997 0:00,11/5/1997 0:00,USA,Tourti�re,21
+19,3,0.2,12/17/1997 0:00,12/19/1997 0:00,Finland,Tourti�re,21
+75,3,0,12/23/1997 0:00,12/31/1997 0:00,Poland,Tourti�re,21
+18,6,0.2,12/24/1997 0:00,1/2/1998 0:00,Brazil,Tourti�re,21
+35,7,0.1,12/26/1997 0:00,1/5/1998 0:00,UK,Tourti�re,21
+63,35,0.25,1/29/1998 0:00,2/2/1998 0:00,Germany,Tourti�re,21
+68,32,0.15000001,2/11/1998 0:00,2/20/1998 0:00,USA,Tourti�re,21
+7,10,0,2/27/1998 0:00,3/2/1998 0:00,Mexico,Tourti�re,21
+56,10,0,4/20/1998 0:00,4/24/1998 0:00,Belgium,Tourti�re,21
+29,20,0.25,5/1/1998 0:00,0000-00-00 00:00:00,Venezuela,Tourti�re,21
+41,21,0.15000001,7/11/1996 0:00,7/23/1996 0:00,Switzerland,P�t� chinois,115
+2,20,0,8/14/1996 0:00,9/12/1996 0:00,Sweden,P�t� chinois,115
+54,40,0.2,10/30/1996 0:00,11/4/1996 0:00,Germany,P�t� chinois,115
+68,12,0,11/18/1996 0:00,11/27/1996 0:00,Germany,P�t� chinois,115
+41,15,0,12/20/1996 0:00,12/24/1996 0:00,Canada,P�t� chinois,115
+52,120,0.1,12/30/1996 0:00,1/9/1997 0:00,USA,P�t� chinois,115
+14,10,0.25,1/24/1997 0:00,2/14/1997 0:00,France,P�t� chinois,115
+54,120,0.1,2/19/1997 0:00,3/12/1997 0:00,Germany,P�t� chinois,115
+16,60,0.25,2/28/1997 0:00,3/5/1997 0:00,Venezuela,P�t� chinois,115
+17,2,0.05,3/17/1997 0:00,3/24/1997 0:00,Venezuela,P�t� chinois,115
+26,30,0.1,3/25/1997 0:00,3/31/1997 0:00,Venezuela,P�t� chinois,115
+44,14,0,5/7/1997 0:00,5/9/1997 0:00,Belgium,P�t� chinois,115
+64,18,0.05,6/5/1997 0:00,6/13/1997 0:00,France,P�t� chinois,115
+69,25,0.05,6/10/1997 0:00,6/16/1997 0:00,USA,P�t� chinois,115
+11,20,0.2,7/22/1997 0:00,7/31/1997 0:00,Brazil,P�t� chinois,115
+62,5,0,7/30/1997 0:00,8/6/1997 0:00,Finland,P�t� chinois,115
+72,12,0.05,8/13/1997 0:00,8/19/1997 0:00,Germany,P�t� chinois,115
+13,4,0.1,9/15/1997 0:00,9/23/1997 0:00,Germany,P�t� chinois,115
+24,21,0,10/16/1997 0:00,10/23/1997 0:00,UK,P�t� chinois,115
+59,6,0,10/31/1997 0:00,11/5/1997 0:00,Brazil,P�t� chinois,115
+11,12,0,11/4/1997 0:00,11/11/1997 0:00,Brazil,P�t� chinois,115
+51,60,0.25,12/29/1997 0:00,1/2/1998 0:00,Denmark,P�t� chinois,115
+54,10,0.05,2/5/1998 0:00,2/9/1998 0:00,Spain,P�t� chinois,115
+17,30,0.15000001,2/23/1998 0:00,3/3/1998 0:00,Sweden,P�t� chinois,115
+29,25,0.2,3/6/1998 0:00,3/18/1998 0:00,Belgium,P�t� chinois,115
+30,4,0,3/13/1998 0:00,3/19/1998 0:00,Spain,P�t� chinois,115
+51,65,0.15000001,4/1/1998 0:00,4/7/1998 0:00,Austria,P�t� chinois,115
+55,6,0,4/6/1998 0:00,4/14/1998 0:00,Sweden,P�t� chinois,115
+62,40,0,4/6/1998 0:00,4/16/1998 0:00,USA,P�t� chinois,115
+19,35,0,4/16/1998 0:00,4/22/1998 0:00,Germany,P�t� chinois,115
+25,35,0,4/28/1998 0:00,5/1/1998 0:00,UK,P�t� chinois,115
+59,4,0.1,5/1/1998 0:00,5/4/1998 0:00,USA,P�t� chinois,115
+10,2,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,P�t� chinois,115
+28,2,0,7/22/1996 0:00,7/25/1996 0:00,USA,Gnocchi di nonna Alice,21
+49,4,0,9/2/1996 0:00,9/10/1996 0:00,France,Gnocchi di nonna Alice,21
+34,20,0,9/9/1996 0:00,9/17/1996 0:00,Germany,Gnocchi di nonna Alice,21
+38,12,0.05,10/15/1996 0:00,10/23/1996 0:00,USA,Gnocchi di nonna Alice,21
+2,20,0,11/5/1996 0:00,11/8/1996 0:00,USA,Gnocchi di nonna Alice,21
+65,18,0.25,12/2/1996 0:00,12/9/1996 0:00,USA,Gnocchi di nonna Alice,21
+74,20,0,12/16/1996 0:00,12/18/1996 0:00,UK,Gnocchi di nonna Alice,21
+40,70,0,1/1/1997 0:00,1/10/1997 0:00,USA,Gnocchi di nonna Alice,21
+56,5,0,1/27/1997 0:00,2/6/1997 0:00,Spain,Gnocchi di nonna Alice,21
+76,30,0,1/30/1997 0:00,2/3/1997 0:00,Austria,Gnocchi di nonna Alice,21
+52,28,0,2/3/1997 0:00,3/4/1997 0:00,Portugal,Gnocchi di nonna Alice,21
+13,40,0.1,2/5/1997 0:00,2/11/1997 0:00,France,Gnocchi di nonna Alice,21
+25,15,0,2/26/1997 0:00,3/4/1997 0:00,Belgium,Gnocchi di nonna Alice,21
+70,30,0.2,3/4/1997 0:00,3/14/1997 0:00,Portugal,Gnocchi di nonna Alice,21
+19,20,0,3/11/1997 0:00,3/18/1997 0:00,UK,Gnocchi di nonna Alice,21
+23,30,0,4/2/1997 0:00,4/9/1997 0:00,Brazil,Gnocchi di nonna Alice,21
+40,14,0,4/4/1997 0:00,4/7/1997 0:00,Germany,Gnocchi di nonna Alice,21
+31,70,0,4/22/1997 0:00,5/16/1997 0:00,Austria,Gnocchi di nonna Alice,21
+72,40,0,4/28/1997 0:00,5/1/1997 0:00,Switzerland,Gnocchi di nonna Alice,21
+77,30,0.15000001,5/5/1997 0:00,5/15/1997 0:00,Finland,Gnocchi di nonna Alice,21
+2,40,0.2,6/2/1997 0:00,6/4/1997 0:00,USA,Gnocchi di nonna Alice,21
+46,60,0.05,6/17/1997 0:00,6/19/1997 0:00,Canada,Gnocchi di nonna Alice,21
+41,5,0.2,7/11/1997 0:00,8/12/1997 0:00,USA,Gnocchi di nonna Alice,21
+43,28,0,7/23/1997 0:00,8/1/1997 0:00,Germany,Gnocchi di nonna Alice,21
+48,14,0,7/31/1997 0:00,8/5/1997 0:00,USA,Gnocchi di nonna Alice,21
+61,20,0,8/1/1997 0:00,8/8/1997 0:00,Canada,Gnocchi di nonna Alice,21
+33,60,0.05,8/19/1997 0:00,8/26/1997 0:00,Brazil,Gnocchi di nonna Alice,21
+38,45,0,9/4/1997 0:00,9/15/1997 0:00,USA,Gnocchi di nonna Alice,21
+62,12,0.15000001,9/10/1997 0:00,9/19/1997 0:00,Portugal,Gnocchi di nonna Alice,21
+26,20,0.25,10/2/1997 0:00,10/3/1997 0:00,Brazil,Gnocchi di nonna Alice,21
+38,30,0,10/21/1997 0:00,10/31/1997 0:00,Ireland,Gnocchi di nonna Alice,21
+40,18,0.25,10/22/1997 0:00,10/27/1997 0:00,USA,Gnocchi di nonna Alice,21
+62,10,0.05,11/3/1997 0:00,12/5/1997 0:00,Italy,Gnocchi di nonna Alice,21
+32,14,0.2,11/13/1997 0:00,11/25/1997 0:00,USA,Gnocchi di nonna Alice,21
+41,28,0,11/20/1997 0:00,11/28/1997 0:00,USA,Gnocchi di nonna Alice,21
+43,15,0,11/20/1997 0:00,12/19/1997 0:00,UK,Gnocchi di nonna Alice,21
+75,30,0.25,11/26/1997 0:00,11/28/1997 0:00,France,Gnocchi di nonna Alice,21
+56,60,0,12/2/1997 0:00,12/9/1997 0:00,Sweden,Gnocchi di nonna Alice,21
+35,20,0.2,12/17/1997 0:00,12/19/1997 0:00,Finland,Gnocchi di nonna Alice,21
+51,20,0.15000001,12/22/1997 0:00,12/26/1997 0:00,Brazil,Gnocchi di nonna Alice,21
+62,20,0.15000001,1/1/1998 0:00,1/9/1998 0:00,USA,Gnocchi di nonna Alice,21
+70,30,0,1/7/1998 0:00,1/13/1998 0:00,USA,Gnocchi di nonna Alice,21
+11,30,0,1/20/1998 0:00,1/29/1998 0:00,Belgium,Gnocchi di nonna Alice,21
+57,24,0,1/27/1998 0:00,2/4/1998 0:00,USA,Gnocchi di nonna Alice,21
+59,21,0.05,2/12/1998 0:00,2/13/1998 0:00,USA,Gnocchi di nonna Alice,21
+77,16,0,2/19/1998 0:00,2/27/1998 0:00,Belgium,Gnocchi di nonna Alice,21
+41,18,0,3/12/1998 0:00,3/13/1998 0:00,Canada,Gnocchi di nonna Alice,21
+70,12,0.15000001,3/20/1998 0:00,4/8/1998 0:00,Switzerland,Gnocchi di nonna Alice,21
+26,5,0,4/13/1998 0:00,4/16/1998 0:00,USA,Gnocchi di nonna Alice,21
+53,20,0,4/16/1998 0:00,4/27/1998 0:00,Switzerland,Gnocchi di nonna Alice,21
+31,15,0.05,7/8/1996 0:00,7/15/1996 0:00,France,Ravioli Angelo,36
+57,50,0,7/19/1996 0:00,7/29/1996 0:00,Germany,Ravioli Angelo,36
+10,2,0,8/15/1996 0:00,8/21/1996 0:00,Spain,Ravioli Angelo,36
+39,16,0,10/10/1996 0:00,10/14/1996 0:00,Spain,Ravioli Angelo,36
+20,25,0,11/15/1996 0:00,11/20/1996 0:00,UK,Ravioli Angelo,36
+38,25,0,11/29/1996 0:00,12/2/1996 0:00,Austria,Ravioli Angelo,36
+2,20,0,1/16/1997 0:00,1/27/1997 0:00,Finland,Ravioli Angelo,36
+8,15,0.2,2/6/1997 0:00,2/14/1997 0:00,Germany,Ravioli Angelo,36
+13,5,0.1,5/13/1997 0:00,5/21/1997 0:00,Mexico,Ravioli Angelo,36
+60,6,0,6/24/1997 0:00,7/25/1997 0:00,UK,Ravioli Angelo,36
+6,4,0,6/27/1997 0:00,7/14/1997 0:00,Germany,Ravioli Angelo,36
+39,20,0,7/11/1997 0:00,7/18/1997 0:00,Austria,Ravioli Angelo,36
+60,40,0,10/16/1997 0:00,10/23/1997 0:00,UK,Ravioli Angelo,36
+68,14,0.25,11/26/1997 0:00,11/28/1997 0:00,France,Ravioli Angelo,36
+19,15,0,1/9/1998 0:00,1/13/1998 0:00,Venezuela,Ravioli Angelo,36
+35,15,0,1/12/1998 0:00,2/6/1998 0:00,France,Ravioli Angelo,36
+38,24,0,1/16/1998 0:00,1/21/1998 0:00,Austria,Ravioli Angelo,36
+43,10,0.05,1/26/1998 0:00,2/2/1998 0:00,Brazil,Ravioli Angelo,36
+13,20,0,2/27/1998 0:00,3/9/1998 0:00,Argentina,Ravioli Angelo,36
+25,30,0,3/6/1998 0:00,3/19/1998 0:00,Switzerland,Ravioli Angelo,36
+44,15,0,3/27/1998 0:00,4/6/1998 0:00,USA,Ravioli Angelo,36
+64,28,0,4/21/1998 0:00,0000-00-00 00:00:00,Venezuela,Ravioli Angelo,36
+7,20,0,4/28/1998 0:00,5/5/1998 0:00,Venezuela,Ravioli Angelo,36
+31,30,0.1,9/25/1996 0:00,10/4/1996 0:00,USA,Escargots de Bourgogne,62
+53,30,0.2,10/11/1996 0:00,10/14/1996 0:00,Sweden,Escargots de Bourgogne,62
+29,80,0.2,12/5/1996 0:00,12/11/1996 0:00,Ireland,Escargots de Bourgogne,62
+30,15,0,12/5/1996 0:00,12/9/1996 0:00,Poland,Escargots de Bourgogne,62
+59,20,0,5/14/1997 0:00,5/19/1997 0:00,Switzerland,Escargots de Bourgogne,62
+77,30,0,7/9/1997 0:00,7/16/1997 0:00,USA,Escargots de Bourgogne,62
+22,6,0,8/19/1997 0:00,8/26/1997 0:00,Finland,Escargots de Bourgogne,62
+35,49,0.2,9/9/1997 0:00,9/15/1997 0:00,Ireland,Escargots de Bourgogne,62
+57,30,0,9/19/1997 0:00,9/23/1997 0:00,Germany,Escargots de Bourgogne,62
+60,30,0.25,10/8/1997 0:00,10/14/1997 0:00,Venezuela,Escargots de Bourgogne,62
+64,12,0.25,10/22/1997 0:00,10/27/1997 0:00,USA,Escargots de Bourgogne,62
+13,30,0.1,1/19/1998 0:00,1/22/1998 0:00,Brazil,Escargots de Bourgogne,62
+40,60,0.1,1/21/1998 0:00,1/30/1998 0:00,Germany,Escargots de Bourgogne,62
+47,12,0.15000001,2/2/1998 0:00,2/17/1998 0:00,Venezuela,Escargots de Bourgogne,62
+76,15,0,2/24/1998 0:00,2/27/1998 0:00,USA,Escargots de Bourgogne,62
+1,15,0,2/26/1998 0:00,3/4/1998 0:00,Brazil,Escargots de Bourgogne,62
+18,30,0.2,3/6/1998 0:00,3/18/1998 0:00,Belgium,Escargots de Bourgogne,62
+36,40,0.05,4/9/1998 0:00,4/13/1998 0:00,Germany,Escargots de Bourgogne,62
+58,30,0,7/12/1996 0:00,7/15/1996 0:00,Switzerland,Raclette Courdavault,79
+72,70,0.15000001,7/29/1996 0:00,8/6/1996 0:00,Germany,Raclette Courdavault,79
+25,6,0.05,8/7/1996 0:00,8/9/1996 0:00,Italy,Raclette Courdavault,79
+39,15,0,8/12/1996 0:00,8/16/1996 0:00,Sweden,Raclette Courdavault,79
+10,30,0.25,9/5/1996 0:00,9/11/1996 0:00,Ireland,Raclette Courdavault,79
+56,10,0,9/12/1996 0:00,9/17/1996 0:00,Mexico,Raclette Courdavault,79
+59,40,0.15000001,10/8/1996 0:00,10/10/1996 0:00,USA,Raclette Courdavault,79
+77,9,0,10/14/1996 0:00,10/17/1996 0:00,Portugal,Raclette Courdavault,79
+11,9,0.15000001,10/29/1996 0:00,11/5/1996 0:00,Denmark,Raclette Courdavault,79
+43,12,0,12/18/1996 0:00,12/20/1996 0:00,Norway,Raclette Courdavault,79
+68,16,0,1/10/1997 0:00,1/15/1997 0:00,Canada,Raclette Courdavault,79
+70,9,0.2,1/10/1997 0:00,1/21/1997 0:00,Canada,Raclette Courdavault,79
+51,20,0,1/23/1997 0:00,2/24/1997 0:00,Brazil,Raclette Courdavault,79
+22,70,0.2,1/30/1997 0:00,2/3/1997 0:00,Austria,Raclette Courdavault,79
+23,36,0,2/25/1997 0:00,3/3/1997 0:00,Germany,Raclette Courdavault,79
+35,60,0,3/19/1997 0:00,3/21/1997 0:00,USA,Raclette Courdavault,79
+42,12,0,3/20/1997 0:00,3/24/1997 0:00,France,Raclette Courdavault,79
+58,30,0,3/27/1997 0:00,4/2/1997 0:00,Germany,Raclette Courdavault,79
+64,60,0,3/31/1997 0:00,4/3/1997 0:00,Venezuela,Raclette Courdavault,79
+4,4,0,4/24/1997 0:00,4/29/1997 0:00,UK,Raclette Courdavault,79
+70,2,0,5/8/1997 0:00,5/19/1997 0:00,Argentina,Raclette Courdavault,79
+74,15,0.1,5/13/1997 0:00,5/21/1997 0:00,Mexico,Raclette Courdavault,79
+1,40,0.2,6/12/1997 0:00,6/17/1997 0:00,Ireland,Raclette Courdavault,79
+19,12,0,6/20/1997 0:00,6/30/1997 0:00,Germany,Raclette Courdavault,79
+37,35,0,7/16/1997 0:00,7/22/1997 0:00,Venezuela,Raclette Courdavault,79
+45,20,0.05,7/21/1997 0:00,7/29/1997 0:00,Canada,Raclette Courdavault,79
+60,30,0.15000001,7/31/1997 0:00,8/4/1997 0:00,USA,Raclette Courdavault,79
+71,1,0,9/11/1997 0:00,9/17/1997 0:00,USA,Raclette Courdavault,79
+5,12,0,9/23/1997 0:00,9/30/1997 0:00,France,Raclette Courdavault,79
+9,25,0,10/6/1997 0:00,10/9/1997 0:00,Germany,Raclette Courdavault,79
+3,42,0.15000001,10/13/1997 0:00,10/15/1997 0:00,Ireland,Raclette Courdavault,79
+26,35,0,10/14/1997 0:00,10/20/1997 0:00,Sweden,Raclette Courdavault,79
+25,8,0,10/16/1997 0:00,10/21/1997 0:00,USA,Raclette Courdavault,79
+33,10,0.05,11/3/1997 0:00,12/5/1997 0:00,Italy,Raclette Courdavault,79
+70,45,0,11/18/1997 0:00,11/27/1997 0:00,Germany,Raclette Courdavault,79
+2,6,0,11/20/1997 0:00,12/19/1997 0:00,UK,Raclette Courdavault,79
+25,25,0.15000001,11/21/1997 0:00,11/24/1997 0:00,Finland,Raclette Courdavault,79
+57,7,0,11/27/1997 0:00,12/15/1997 0:00,USA,Raclette Courdavault,79
+59,25,0,12/10/1997 0:00,12/19/1997 0:00,Germany,Raclette Courdavault,79
+2,25,0,12/26/1997 0:00,1/5/1998 0:00,Germany,Raclette Courdavault,79
+17,15,0.05,12/30/1997 0:00,1/6/1998 0:00,Brazil,Raclette Courdavault,79
+62,40,0.1,1/9/1998 0:00,1/13/1998 0:00,Venezuela,Raclette Courdavault,79
+18,15,0,1/15/1998 0:00,1/21/1998 0:00,Germany,Raclette Courdavault,79
+10,50,0,1/20/1998 0:00,1/29/1998 0:00,Belgium,Raclette Courdavault,79
+13,42,0.05,1/26/1998 0:00,2/2/1998 0:00,Brazil,Raclette Courdavault,79
+16,40,0.05,2/17/1998 0:00,2/19/1998 0:00,Belgium,Raclette Courdavault,79
+31,4,0,3/13/1998 0:00,3/16/1998 0:00,UK,Raclette Courdavault,79
+56,18,0.05,4/2/1998 0:00,4/9/1998 0:00,Denmark,Raclette Courdavault,79
+65,10,0,4/7/1998 0:00,4/10/1998 0:00,Finland,Raclette Courdavault,79
+2,110,0,4/13/1998 0:00,4/20/1998 0:00,Austria,Raclette Courdavault,79
+42,24,0,4/16/1998 0:00,4/22/1998 0:00,Germany,Raclette Courdavault,79
+3,100,0.25,4/17/1998 0:00,4/27/1998 0:00,USA,Raclette Courdavault,79
+26,30,0,4/17/1998 0:00,4/23/1998 0:00,USA,Raclette Courdavault,79
+29,30,0,4/20/1998 0:00,4/22/1998 0:00,Germany,Raclette Courdavault,79
+7,40,0,7/9/1996 0:00,7/11/1996 0:00,Belgium,Camembert Pierrot,19
+27,35,0,8/16/1996 0:00,8/23/1996 0:00,Venezuela,Camembert Pierrot,19
+70,20,0.25,8/19/1996 0:00,8/27/1996 0:00,Germany,Camembert Pierrot,19
+24,21,0,8/30/1996 0:00,9/5/1996 0:00,USA,Camembert Pierrot,19
+54,8,0.2,11/19/1996 0:00,12/2/1996 0:00,Venezuela,Camembert Pierrot,19
+64,80,0.05,11/21/1996 0:00,11/26/1996 0:00,UK,Camembert Pierrot,19
+51,55,0.1,11/22/1996 0:00,12/3/1996 0:00,Germany,Camembert Pierrot,19
+76,70,0.25,12/4/1996 0:00,12/9/1996 0:00,Brazil,Camembert Pierrot,19
+17,6,0.1,12/12/1996 0:00,1/16/1997 0:00,Ireland,Camembert Pierrot,19
+18,15,0,12/16/1996 0:00,12/20/1996 0:00,Sweden,Camembert Pierrot,19
+21,20,0.2,12/17/1996 0:00,12/23/1996 0:00,USA,Camembert Pierrot,19
+33,60,0.05,1/20/1997 0:00,1/30/1997 0:00,Switzerland,Camembert Pierrot,19
+62,20,0,3/4/1997 0:00,3/14/1997 0:00,Portugal,Camembert Pierrot,19
+11,40,0,3/20/1997 0:00,3/25/1997 0:00,Brazil,Camembert Pierrot,19
+52,12,0.15000001,4/21/1997 0:00,4/24/1997 0:00,Brazil,Camembert Pierrot,19
+1,84,0.15000001,4/23/1997 0:00,5/23/1997 0:00,Germany,Camembert Pierrot,19
+58,10,0.05,4/28/1997 0:00,5/1/1997 0:00,Switzerland,Camembert Pierrot,19
+35,35,0.25,5/14/1997 0:00,6/6/1997 0:00,Germany,Camembert Pierrot,19
+67,24,0.15000001,6/30/1997 0:00,7/4/1997 0:00,Finland,Camembert Pierrot,19
+38,70,0.05,7/21/1997 0:00,7/29/1997 0:00,Canada,Camembert Pierrot,19
+39,15,0,7/25/1997 0:00,8/1/1997 0:00,Poland,Camembert Pierrot,19
+2,40,0,7/28/1997 0:00,8/1/1997 0:00,USA,Camembert Pierrot,19
+24,10,0,8/8/1997 0:00,8/14/1997 0:00,Mexico,Camembert Pierrot,19
+30,20,0,8/11/1997 0:00,8/20/1997 0:00,Sweden,Camembert Pierrot,19
+53,20,0.1,9/2/1997 0:00,9/19/1997 0:00,Germany,Camembert Pierrot,19
+26,30,0,9/4/1997 0:00,9/15/1997 0:00,USA,Camembert Pierrot,19
+35,55,0.05,9/5/1997 0:00,9/8/1997 0:00,Germany,Camembert Pierrot,19
+49,30,0,9/26/1997 0:00,9/30/1997 0:00,Germany,Camembert Pierrot,19
+1,10,0,10/17/1997 0:00,11/20/1997 0:00,Brazil,Camembert Pierrot,19
+11,15,0,11/4/1997 0:00,11/11/1997 0:00,Brazil,Camembert Pierrot,19
+23,50,0,11/14/1997 0:00,11/18/1997 0:00,Canada,Camembert Pierrot,19
+68,15,0,12/8/1997 0:00,12/15/1997 0:00,UK,Camembert Pierrot,19
+35,21,0,1/13/1998 0:00,1/23/1998 0:00,UK,Camembert Pierrot,19
+51,30,0,1/13/1998 0:00,1/21/1998 0:00,Brazil,Camembert Pierrot,19
+6,60,0,1/16/1998 0:00,1/21/1998 0:00,Austria,Camembert Pierrot,19
+16,45,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Camembert Pierrot,19
+17,100,0,2/18/1998 0:00,2/23/1998 0:00,Austria,Camembert Pierrot,19
+55,10,0,3/2/1998 0:00,3/11/1998 0:00,Spain,Camembert Pierrot,19
+62,25,0.25,3/2/1998 0:00,3/11/1998 0:00,Canada,Camembert Pierrot,19
+64,49,0.25,3/10/1998 0:00,3/16/1998 0:00,Germany,Camembert Pierrot,19
+65,24,0.15000001,3/17/1998 0:00,3/20/1998 0:00,Venezuela,Camembert Pierrot,19
+21,2,0.15000001,3/19/1998 0:00,3/26/1998 0:00,Portugal,Camembert Pierrot,19
+28,4,0,4/2/1998 0:00,4/6/1998 0:00,Mexico,Camembert Pierrot,19
+10,9,0,4/8/1998 0:00,4/10/1998 0:00,Spain,Camembert Pierrot,19
+19,36,0.05,4/9/1998 0:00,4/17/1998 0:00,Germany,Camembert Pierrot,19
+47,50,0,4/28/1998 0:00,5/1/1998 0:00,UK,Camembert Pierrot,19
+49,21,0,4/29/1998 0:00,0000-00-00 00:00:00,Germany,Camembert Pierrot,19
+46,35,0,4/29/1998 0:00,0000-00-00 00:00:00,Brazil,Camembert Pierrot,19
+64,4,0,4/30/1998 0:00,5/4/1998 0:00,Italy,Camembert Pierrot,19
+16,15,0,4/30/1998 0:00,0000-00-00 00:00:00,USA,Camembert Pierrot,19
+18,2,0.06,5/6/1998 0:00,0000-00-00 00:00:00,USA,Camembert Pierrot,19
+20,16,0,1/17/1997 0:00,1/24/1997 0:00,Germany,Sirop d'�rable,113
+40,90,0.15000001,2/10/1997 0:00,2/28/1997 0:00,USA,Sirop d'�rable,113
+65,25,0,2/24/1997 0:00,3/3/1997 0:00,Finland,Sirop d'�rable,113
+76,25,0,4/11/1997 0:00,4/18/1997 0:00,USA,Sirop d'�rable,113
+23,15,0.2,4/22/1997 0:00,4/28/1997 0:00,Germany,Sirop d'�rable,113
+61,20,0,5/8/1997 0:00,5/12/1997 0:00,Austria,Sirop d'�rable,113
+70,10,0.1,5/28/1997 0:00,6/6/1997 0:00,Spain,Sirop d'�rable,113
+73,120,0.25,7/10/1997 0:00,7/14/1997 0:00,Austria,Sirop d'�rable,113
+42,20,0.2,8/22/1997 0:00,9/5/1997 0:00,Denmark,Sirop d'�rable,113
+49,10,0,10/24/1997 0:00,10/27/1997 0:00,Argentina,Sirop d'�rable,113
+54,5,0,10/30/1997 0:00,11/5/1997 0:00,Canada,Sirop d'�rable,113
+24,20,0.1,11/10/1997 0:00,11/21/1997 0:00,USA,Sirop d'�rable,113
+21,20,0,12/8/1997 0:00,12/12/1997 0:00,Denmark,Sirop d'�rable,113
+56,30,0.15000001,1/5/1998 0:00,1/14/1998 0:00,France,Sirop d'�rable,113
+65,30,0.2,2/10/1998 0:00,2/18/1998 0:00,Sweden,Sirop d'�rable,113
+2,15,0,2/25/1998 0:00,3/3/1998 0:00,Poland,Sirop d'�rable,113
+24,5,0,2/26/1998 0:00,3/4/1998 0:00,Finland,Sirop d'�rable,113
+70,30,0,3/6/1998 0:00,3/16/1998 0:00,UK,Sirop d'�rable,113
+77,66,0.15000001,4/1/1998 0:00,4/7/1998 0:00,Austria,Sirop d'�rable,113
+10,7,0,4/3/1998 0:00,4/17/1998 0:00,Poland,Sirop d'�rable,113
+31,6,0,4/20/1998 0:00,4/27/1998 0:00,USA,Sirop d'�rable,113
+77,4,0,4/22/1998 0:00,5/1/1998 0:00,Brazil,Sirop d'�rable,113
+25,10,0.2,4/27/1998 0:00,5/1/1998 0:00,Brazil,Sirop d'�rable,113
+2,4,0,4/29/1998 0:00,0000-00-00 00:00:00,Germany,Sirop d'�rable,113
+68,15,0.25,7/19/1996 0:00,7/29/1996 0:00,Germany,Tarte au sucre,17
+11,12,0,8/9/1996 0:00,8/13/1996 0:00,Germany,Tarte au sucre,17
+38,40,0,8/21/1996 0:00,8/30/1996 0:00,Germany,Tarte au sucre,17
+17,15,0,9/5/1996 0:00,9/11/1996 0:00,Ireland,Tarte au sucre,17
+34,10,0,9/17/1996 0:00,9/25/1996 0:00,USA,Tarte au sucre,17
+41,5,0,9/20/1996 0:00,9/27/1996 0:00,USA,Tarte au sucre,17
+30,25,0.1,9/25/1996 0:00,10/4/1996 0:00,USA,Tarte au sucre,17
+59,70,0,9/27/1996 0:00,10/8/1996 0:00,USA,Tarte au sucre,17
+8,28,0,10/28/1996 0:00,11/4/1996 0:00,Canada,Tarte au sucre,17
+24,20,0,12/20/1996 0:00,12/24/1996 0:00,Canada,Tarte au sucre,17
+29,10,0,12/25/1996 0:00,1/3/1997 0:00,USA,Tarte au sucre,17
+30,35,0,1/8/1997 0:00,1/14/1997 0:00,France,Tarte au sucre,17
+36,40,0,1/14/1997 0:00,1/16/1997 0:00,France,Tarte au sucre,17
+13,35,0,2/18/1997 0:00,2/27/1997 0:00,France,Tarte au sucre,17
+69,3,0,4/14/1997 0:00,4/21/1997 0:00,Canada,Tarte au sucre,17
+75,40,0,5/23/1997 0:00,5/27/1997 0:00,France,Tarte au sucre,17
+24,20,0.05,5/30/1997 0:00,6/5/1997 0:00,Germany,Tarte au sucre,17
+39,15,0.25,6/6/1997 0:00,6/9/1997 0:00,Germany,Tarte au sucre,17
+40,10,0.1,6/9/1997 0:00,6/12/1997 0:00,Italy,Tarte au sucre,17
+60,10,0,6/19/1997 0:00,6/30/1997 0:00,USA,Tarte au sucre,17
+45,10,0,7/15/1997 0:00,7/21/1997 0:00,UK,Tarte au sucre,17
+56,10,0.2,7/22/1997 0:00,7/31/1997 0:00,Brazil,Tarte au sucre,17
+29,15,0,8/11/1997 0:00,8/21/1997 0:00,USA,Tarte au sucre,17
+30,80,0.15000001,8/15/1997 0:00,8/18/1997 0:00,Austria,Tarte au sucre,17
+13,10,0,9/17/1997 0:00,9/24/1997 0:00,France,Tarte au sucre,17
+39,48,0,10/3/1997 0:00,10/22/1997 0:00,Germany,Tarte au sucre,17
+70,20,0,10/27/1997 0:00,10/29/1997 0:00,Germany,Tarte au sucre,17
+41,9,0,11/19/1997 0:00,11/21/1997 0:00,Switzerland,Tarte au sucre,17
+71,30,0,11/27/1997 0:00,12/15/1997 0:00,USA,Tarte au sucre,17
+55,15,0,12/8/1997 0:00,12/12/1997 0:00,Denmark,Tarte au sucre,17
+62,20,0,12/16/1997 0:00,1/14/1998 0:00,Germany,Tarte au sucre,17
+13,2,0,12/26/1997 0:00,1/5/1998 0:00,UK,Tarte au sucre,17
+65,5,0.25,12/29/1997 0:00,1/2/1998 0:00,Denmark,Tarte au sucre,17
+68,20,0.05,1/6/1998 0:00,2/4/1998 0:00,USA,Tarte au sucre,17
+58,25,0.15000001,1/6/1998 0:00,1/13/1998 0:00,Germany,Tarte au sucre,17
+62,3,0,1/8/1998 0:00,1/16/1998 0:00,USA,Tarte au sucre,17
+1,50,0,1/26/1998 0:00,1/30/1998 0:00,USA,Tarte au sucre,17
+61,3,0,1/30/1998 0:00,2/17/1998 0:00,USA,Tarte au sucre,17
+75,20,0.05,2/5/1998 0:00,2/9/1998 0:00,Spain,Tarte au sucre,17
+7,6,0.15000001,2/23/1998 0:00,3/3/1998 0:00,Sweden,Tarte au sucre,17
+52,35,0,2/24/1998 0:00,2/27/1998 0:00,USA,Tarte au sucre,17
+7,14,0.1,3/6/1998 0:00,3/24/1998 0:00,France,Tarte au sucre,17
+16,30,0.25,3/11/1998 0:00,3/20/1998 0:00,USA,Tarte au sucre,17
+41,60,0,3/13/1998 0:00,3/17/1998 0:00,Canada,Tarte au sucre,17
+19,12,0.15000001,3/20/1998 0:00,4/8/1998 0:00,Switzerland,Tarte au sucre,17
+49,40,0.1,3/31/1998 0:00,4/10/1998 0:00,USA,Tarte au sucre,17
+61,21,0.25,4/16/1998 0:00,4/20/1998 0:00,Canada,Tarte au sucre,17
+1,12,0,4/23/1998 0:00,5/1/1998 0:00,Poland,Tarte au sucre,17
+17,8,0,8/12/1996 0:00,8/16/1996 0:00,Sweden,Vegie-spread,24
+67,5,0,8/29/1996 0:00,9/11/1996 0:00,Mexico,Vegie-spread,24
+11,80,0.15000001,10/8/1996 0:00,10/10/1996 0:00,USA,Vegie-spread,24
+29,16,0.1,12/11/1996 0:00,12/13/1996 0:00,Brazil,Vegie-spread,24
+4,65,0,1/2/1997 0:00,1/10/1997 0:00,Austria,Vegie-spread,24
+33,35,0.25,1/29/1997 0:00,2/7/1997 0:00,Ireland,Vegie-spread,24
+58,6,0,6/20/1997 0:00,6/30/1997 0:00,Germany,Vegie-spread,24
+71,24,0.2,7/11/1997 0:00,8/12/1997 0:00,USA,Vegie-spread,24
+17,20,0,10/3/1997 0:00,10/13/1997 0:00,Germany,Vegie-spread,24
+33,9,0,11/19/1997 0:00,11/26/1997 0:00,Austria,Vegie-spread,24
+54,30,0,12/22/1997 0:00,12/31/1997 0:00,France,Vegie-spread,24
+16,40,0,3/3/1998 0:00,3/9/1998 0:00,Denmark,Vegie-spread,24
+32,10,0,3/25/1998 0:00,4/3/1998 0:00,USA,Vegie-spread,24
+57,20,0,3/26/1998 0:00,4/10/1998 0:00,Sweden,Vegie-spread,24
+30,35,0,3/26/1998 0:00,3/31/1998 0:00,Austria,Vegie-spread,24
+60,12,0,4/16/1998 0:00,4/27/1998 0:00,Switzerland,Vegie-spread,24
+1,30,0,4/22/1998 0:00,4/28/1998 0:00,Switzerland,Vegie-spread,24
+60,9,0,8/26/1996 0:00,8/28/1996 0:00,UK,Wimmers gute Semmelkn�del,22
+16,50,0,10/31/1996 0:00,11/6/1996 0:00,Germany,Wimmers gute Semmelkn�del,22
+25,35,0.1,11/29/1996 0:00,12/2/1996 0:00,Austria,Wimmers gute Semmelkn�del,22
+40,30,0,12/3/1996 0:00,12/27/1996 0:00,Switzerland,Wimmers gute Semmelkn�del,22
+50,7,0,1/27/1997 0:00,2/6/1997 0:00,Spain,Wimmers gute Semmelkn�del,22
+35,30,0.1,2/5/1997 0:00,2/11/1997 0:00,France,Wimmers gute Semmelkn�del,22
+63,6,0,2/7/1997 0:00,2/10/1997 0:00,Canada,Wimmers gute Semmelkn�del,22
+17,35,0.1,2/19/1997 0:00,3/12/1997 0:00,Germany,Wimmers gute Semmelkn�del,22
+24,8,0,3/11/1997 0:00,3/14/1997 0:00,France,Wimmers gute Semmelkn�del,22
+42,30,0,3/19/1997 0:00,3/21/1997 0:00,USA,Wimmers gute Semmelkn�del,22
+43,30,0,6/3/1997 0:00,6/6/1997 0:00,Germany,Wimmers gute Semmelkn�del,22
+67,18,0.1,6/11/1997 0:00,6/18/1997 0:00,Canada,Wimmers gute Semmelkn�del,22
+10,6,0,6/19/1997 0:00,6/30/1997 0:00,USA,Wimmers gute Semmelkn�del,22
+28,9,0,8/12/1997 0:00,8/20/1997 0:00,Spain,Wimmers gute Semmelkn�del,22
+75,15,0.1,9/15/1997 0:00,9/23/1997 0:00,Germany,Wimmers gute Semmelkn�del,22
+36,28,0,9/25/1997 0:00,9/30/1997 0:00,USA,Wimmers gute Semmelkn�del,22
+52,24,0,11/27/1997 0:00,12/15/1997 0:00,USA,Wimmers gute Semmelkn�del,22
+11,35,0.2,12/25/1997 0:00,1/14/1998 0:00,Venezuela,Wimmers gute Semmelkn�del,22
+13,3,0,1/14/1998 0:00,1/19/1998 0:00,France,Wimmers gute Semmelkn�del,22
+19,30,0,1/16/1998 0:00,1/21/1998 0:00,Austria,Wimmers gute Semmelkn�del,22
+72,48,0,1/21/1998 0:00,1/30/1998 0:00,Germany,Wimmers gute Semmelkn�del,22
+20,30,0.25,1/29/1998 0:00,2/2/1998 0:00,Germany,Wimmers gute Semmelkn�del,22
+52,15,0.05,2/5/1998 0:00,2/9/1998 0:00,Spain,Wimmers gute Semmelkn�del,22
+76,20,0,2/9/1998 0:00,2/12/1998 0:00,France,Wimmers gute Semmelkn�del,22
+47,8,0,3/18/1998 0:00,3/27/1998 0:00,Venezuela,Wimmers gute Semmelkn�del,22
+76,4,0,3/23/1998 0:00,4/1/1998 0:00,Austria,Wimmers gute Semmelkn�del,22
+21,20,0,4/17/1998 0:00,4/24/1998 0:00,USA,Wimmers gute Semmelkn�del,22
+75,25,0.2,4/27/1998 0:00,4/29/1998 0:00,Austria,Wimmers gute Semmelkn�del,22
+77,130,0,5/5/1998 0:00,0000-00-00 00:00:00,Austria,Wimmers gute Semmelkn�del,22
+21,2,0.03,5/6/1998 0:00,0000-00-00 00:00:00,USA,Wimmers gute Semmelkn�del,22
+27,15,0.15000001,7/8/1996 0:00,7/12/1996 0:00,Brazil,Louisiana Fiery Hot Pepper Sauce,76
+55,20,0,7/8/1996 0:00,7/15/1996 0:00,France,Louisiana Fiery Hot Pepper Sauce,76
+58,30,0.1,9/11/1996 0:00,9/18/1996 0:00,Spain,Louisiana Fiery Hot Pepper Sauce,76
+13,40,0,10/14/1996 0:00,10/17/1996 0:00,Portugal,Louisiana Fiery Hot Pepper Sauce,76
+57,10,0.05,11/11/1996 0:00,11/20/1996 0:00,Austria,Louisiana Fiery Hot Pepper Sauce,76
+16,5,0,11/28/1996 0:00,12/30/1996 0:00,Spain,Louisiana Fiery Hot Pepper Sauce,76
+62,15,0,11/28/1996 0:00,12/2/1996 0:00,Denmark,Louisiana Fiery Hot Pepper Sauce,76
+72,20,0.1,12/11/1996 0:00,12/13/1996 0:00,Brazil,Louisiana Fiery Hot Pepper Sauce,76
+75,20,0,1/1/1997 0:00,1/10/1997 0:00,USA,Louisiana Fiery Hot Pepper Sauce,76
+53,35,0,2/14/1997 0:00,3/7/1997 0:00,Brazil,Louisiana Fiery Hot Pepper Sauce,76
+61,28,0.1,2/19/1997 0:00,3/12/1997 0:00,Germany,Louisiana Fiery Hot Pepper Sauce,76
+6,15,0.1,4/2/1997 0:00,4/10/1997 0:00,France,Louisiana Fiery Hot Pepper Sauce,76
+1,20,0,4/11/1997 0:00,4/16/1997 0:00,Ireland,Louisiana Fiery Hot Pepper Sauce,76
+18,39,0,4/22/1997 0:00,5/16/1997 0:00,Austria,Louisiana Fiery Hot Pepper Sauce,76
+23,36,0.1,5/19/1997 0:00,5/29/1997 0:00,Brazil,Louisiana Fiery Hot Pepper Sauce,76
+36,30,0.05,6/26/1997 0:00,7/1/1997 0:00,Germany,Louisiana Fiery Hot Pepper Sauce,76
+28,12,0.2,7/11/1997 0:00,7/18/1997 0:00,Austria,Louisiana Fiery Hot Pepper Sauce,76
+34,21,0,8/20/1997 0:00,9/1/1997 0:00,Venezuela,Louisiana Fiery Hot Pepper Sauce,76
+13,15,0.15000001,9/10/1997 0:00,9/19/1997 0:00,Portugal,Louisiana Fiery Hot Pepper Sauce,76
+43,10,0,9/12/1997 0:00,9/22/1997 0:00,Switzerland,Louisiana Fiery Hot Pepper Sauce,76
+60,12,0,9/17/1997 0:00,9/24/1997 0:00,France,Louisiana Fiery Hot Pepper Sauce,76
+71,65,0.05,10/9/1997 0:00,10/17/1997 0:00,Austria,Louisiana Fiery Hot Pepper Sauce,76
+2,10,0.05,11/5/1997 0:00,11/14/1997 0:00,France,Louisiana Fiery Hot Pepper Sauce,76
+67,40,0,11/11/1997 0:00,11/21/1997 0:00,Ireland,Louisiana Fiery Hot Pepper Sauce,76
+7,80,0.1,12/4/1997 0:00,12/9/1997 0:00,Germany,Louisiana Fiery Hot Pepper Sauce,76
+13,2,0,12/31/1997 0:00,1/5/1998 0:00,France,Louisiana Fiery Hot Pepper Sauce,76
+31,15,0.15000001,1/27/1998 0:00,2/4/1998 0:00,USA,Louisiana Fiery Hot Pepper Sauce,76
+62,21,0.05,2/5/1998 0:00,2/9/1998 0:00,Spain,Louisiana Fiery Hot Pepper Sauce,76
+68,10,0,2/10/1998 0:00,2/12/1998 0:00,Finland,Louisiana Fiery Hot Pepper Sauce,76
+72,12,0.05,2/12/1998 0:00,2/13/1998 0:00,USA,Louisiana Fiery Hot Pepper Sauce,76
+49,21,0,2/24/1998 0:00,3/4/1998 0:00,Brazil,Louisiana Fiery Hot Pepper Sauce,76
+13,21,0,4/15/1998 0:00,4/20/1998 0:00,UK,Louisiana Fiery Hot Pepper Sauce,76
+22,30,0,9/9/1996 0:00,9/18/1996 0:00,Italy,Louisiana Hot Spiced Okra,4
+46,60,0,2/11/1997 0:00,2/18/1997 0:00,Austria,Louisiana Hot Spiced Okra,4
+11,60,0.15000001,3/14/1997 0:00,4/4/1997 0:00,Belgium,Louisiana Hot Spiced Okra,4
+44,10,0.1,4/2/1997 0:00,4/10/1997 0:00,France,Louisiana Hot Spiced Okra,4
+56,24,0,5/9/1997 0:00,5/12/1997 0:00,UK,Louisiana Hot Spiced Okra,4
+13,4,0,9/25/1997 0:00,10/1/1997 0:00,Mexico,Louisiana Hot Spiced Okra,4
+31,50,0,12/11/1997 0:00,12/12/1997 0:00,Sweden,Louisiana Hot Spiced Okra,4
+10,1,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Louisiana Hot Spiced Okra,4
+24,5,0.25,8/19/1996 0:00,8/27/1996 0:00,Germany,Laughing Lumberjack Lager,52
+77,30,0,4/10/1997 0:00,4/29/1997 0:00,Mexico,Laughing Lumberjack Lager,52
+59,7,0,5/21/1997 0:00,5/30/1997 0:00,USA,Laughing Lumberjack Lager,52
+50,25,0,9/16/1997 0:00,9/18/1997 0:00,Germany,Laughing Lumberjack Lager,52
+51,3,0,12/12/1997 0:00,12/26/1997 0:00,USA,Laughing Lumberjack Lager,52
+55,15,0,2/2/1998 0:00,2/9/1998 0:00,UK,Laughing Lumberjack Lager,52
+6,15,0,2/26/1998 0:00,3/5/1998 0:00,Spain,Laughing Lumberjack Lager,52
+10,24,0.2,3/3/1998 0:00,3/13/1998 0:00,France,Laughing Lumberjack Lager,52
+17,40,0.15000001,3/10/1998 0:00,3/13/1998 0:00,Italy,Laughing Lumberjack Lager,52
+62,20,0,4/28/1998 0:00,0000-00-00 00:00:00,Argentina,Laughing Lumberjack Lager,52
+4,3,0.1,8/23/1996 0:00,9/3/1996 0:00,Italy,Scottish Longbreads,6
+33,20,0,9/9/1996 0:00,9/18/1996 0:00,Italy,Scottish Longbreads,6
+41,15,0.1,9/11/1996 0:00,9/18/1996 0:00,Spain,Scottish Longbreads,6
+75,3,0,9/17/1996 0:00,9/25/1996 0:00,USA,Scottish Longbreads,6
+6,10,0,10/14/1996 0:00,10/17/1996 0:00,Portugal,Scottish Longbreads,6
+28,10,0,10/21/1996 0:00,10/28/1996 0:00,France,Scottish Longbreads,6
+20,4,0.05,10/31/1996 0:00,11/6/1996 0:00,Germany,Scottish Longbreads,6
+31,8,0.2,12/17/1996 0:00,12/23/1996 0:00,USA,Scottish Longbreads,6
+16,60,0,12/31/1996 0:00,1/8/1997 0:00,Denmark,Scottish Longbreads,6
+31,36,0.25,1/16/1997 0:00,1/28/1997 0:00,Denmark,Scottish Longbreads,6
+45,30,0.2,1/23/1997 0:00,1/27/1997 0:00,Canada,Scottish Longbreads,6
+60,21,0.25,2/28/1997 0:00,3/3/1997 0:00,Sweden,Scottish Longbreads,6
+75,30,0,3/31/1997 0:00,4/3/1997 0:00,Venezuela,Scottish Longbreads,6
+21,6,0,4/29/1997 0:00,5/2/1997 0:00,Argentina,Scottish Longbreads,6
+47,20,0,5/7/1997 0:00,5/9/1997 0:00,Belgium,Scottish Longbreads,6
+51,35,0,5/19/1997 0:00,6/13/1997 0:00,Germany,Scottish Longbreads,6
+30,15,0,8/1/1997 0:00,8/8/1997 0:00,Canada,Scottish Longbreads,6
+35,18,0.2,8/6/1997 0:00,8/11/1997 0:00,Brazil,Scottish Longbreads,6
+64,10,0,9/9/1997 0:00,9/18/1997 0:00,USA,Scottish Longbreads,6
+5,40,0.2,10/10/1997 0:00,10/16/1997 0:00,USA,Scottish Longbreads,6
+7,45,0,10/29/1997 0:00,11/4/1997 0:00,USA,Scottish Longbreads,6
+72,6,0.2,11/27/1997 0:00,12/2/1997 0:00,USA,Scottish Longbreads,6
+75,40,0,12/5/1997 0:00,12/9/1997 0:00,Germany,Scottish Longbreads,6
+24,18,0,12/22/1997 0:00,12/31/1997 0:00,France,Scottish Longbreads,6
+41,15,0,12/23/1997 0:00,12/31/1997 0:00,Poland,Scottish Longbreads,6
+52,24,0,1/13/1998 0:00,1/21/1998 0:00,Brazil,Scottish Longbreads,6
+76,20,0,1/20/1998 0:00,1/29/1998 0:00,Mexico,Scottish Longbreads,6
+7,20,0,2/4/1998 0:00,2/9/1998 0:00,UK,Scottish Longbreads,6
+13,18,0,2/16/1998 0:00,2/23/1998 0:00,Spain,Scottish Longbreads,6
+53,20,0,2/24/1998 0:00,3/4/1998 0:00,Brazil,Scottish Longbreads,6
+69,80,0.25,3/11/1998 0:00,3/20/1998 0:00,USA,Scottish Longbreads,6
+76,2,0,4/9/1998 0:00,4/10/1998 0:00,Spain,Scottish Longbreads,6
+60,42,0,4/24/1998 0:00,4/30/1998 0:00,Canada,Scottish Longbreads,6
+18,55,0,5/1/1998 0:00,5/4/1998 0:00,USA,Scottish Longbreads,6
+38,15,0,9/3/1996 0:00,9/11/1996 0:00,Venezuela,Gudbrandsdalsost,26
+69,1,0,9/18/1996 0:00,9/24/1996 0:00,Mexico,Gudbrandsdalsost,26
+51,7,0,9/20/1996 0:00,9/26/1996 0:00,France,Gudbrandsdalsost,26
+37,18,0.1,11/11/1996 0:00,12/3/1996 0:00,France,Gudbrandsdalsost,26
+56,20,0,11/18/1996 0:00,11/27/1996 0:00,Germany,Gudbrandsdalsost,26
+62,30,0,11/26/1996 0:00,12/4/1996 0:00,UK,Gudbrandsdalsost,26
+19,50,0,12/24/1996 0:00,1/1/1997 0:00,Austria,Gudbrandsdalsost,26
+49,8,0,12/26/1996 0:00,1/3/1997 0:00,Venezuela,Gudbrandsdalsost,26
+12,15,0,1/7/1997 0:00,1/30/1997 0:00,Germany,Gudbrandsdalsost,26
+24,20,0.05,1/20/1997 0:00,1/30/1997 0:00,Switzerland,Gudbrandsdalsost,26
+64,10,0.1,4/2/1997 0:00,4/10/1997 0:00,France,Gudbrandsdalsost,26
+46,10,0,5/7/1997 0:00,5/9/1997 0:00,Belgium,Gudbrandsdalsost,26
+52,18,0,5/29/1997 0:00,6/5/1997 0:00,Venezuela,Gudbrandsdalsost,26
+29,10,0.15000001,6/30/1997 0:00,7/4/1997 0:00,Finland,Gudbrandsdalsost,26
+17,20,0.2,7/9/1997 0:00,8/13/1997 0:00,Germany,Gudbrandsdalsost,26
+33,65,0.25,7/10/1997 0:00,7/14/1997 0:00,Austria,Gudbrandsdalsost,26
+26,20,0.25,8/21/1997 0:00,8/28/1997 0:00,Germany,Gudbrandsdalsost,26
+41,45,0.2,9/12/1997 0:00,9/19/1997 0:00,Austria,Gudbrandsdalsost,26
+75,30,0.15000001,10/6/1997 0:00,10/10/1997 0:00,USA,Gudbrandsdalsost,26
+63,25,0.05,10/24/1997 0:00,10/29/1997 0:00,Germany,Gudbrandsdalsost,26
+8,40,0,11/19/1997 0:00,11/21/1997 0:00,Switzerland,Gudbrandsdalsost,26
+75,30,0,11/19/1997 0:00,11/26/1997 0:00,Austria,Gudbrandsdalsost,26
+28,3,0,11/24/1997 0:00,11/28/1997 0:00,UK,Gudbrandsdalsost,26
+39,25,0.25,11/26/1997 0:00,11/28/1997 0:00,France,Gudbrandsdalsost,26
+47,20,0.2,11/27/1997 0:00,12/2/1997 0:00,USA,Gudbrandsdalsost,26
+51,24,0.2,12/25/1997 0:00,1/14/1998 0:00,Venezuela,Gudbrandsdalsost,26
+63,50,0.05,2/18/1998 0:00,2/20/1998 0:00,USA,Gudbrandsdalsost,26
+8,9,0,3/19/1998 0:00,3/23/1998 0:00,Germany,Gudbrandsdalsost,26
+21,10,0,3/20/1998 0:00,3/24/1998 0:00,France,Gudbrandsdalsost,26
+40,30,0,4/14/1998 0:00,5/4/1998 0:00,Brazil,Gudbrandsdalsost,26
+44,36,0.1,4/17/1998 0:00,4/23/1998 0:00,Switzerland,Gudbrandsdalsost,26
+7,21,0.25,7/19/1996 0:00,7/29/1996 0:00,Germany,Outback Lager,15
+12,20,0,7/25/1996 0:00,8/12/1996 0:00,France,Outback Lager,15
+24,20,0,9/6/1996 0:00,9/13/1996 0:00,Brazil,Outback Lager,15
+27,5,0,9/18/1996 0:00,9/24/1996 0:00,Mexico,Outback Lager,15
+31,30,0,9/26/1996 0:00,10/3/1996 0:00,UK,Outback Lager,15
+63,30,0,12/12/1996 0:00,1/16/1997 0:00,Ireland,Outback Lager,15
+75,30,0,12/20/1996 0:00,12/24/1996 0:00,Canada,Outback Lager,15
+38,8,0.1,1/21/1997 0:00,1/27/1997 0:00,Brazil,Outback Lager,15
+7,25,0.1,2/21/1997 0:00,2/26/1997 0:00,UK,Outback Lager,15
+43,12,0,3/17/1997 0:00,3/24/1997 0:00,Venezuela,Outback Lager,15
+13,60,0.1,3/25/1997 0:00,3/31/1997 0:00,Venezuela,Outback Lager,15
+57,14,0.1,4/15/1997 0:00,5/2/1997 0:00,Germany,Outback Lager,15
+16,6,0,4/24/1997 0:00,4/29/1997 0:00,UK,Outback Lager,15
+24,7,0,5/15/1997 0:00,5/16/1997 0:00,UK,Outback Lager,15
+36,15,0.05,7/31/1997 0:00,8/5/1997 0:00,USA,Outback Lager,15
+16,20,0,8/5/1997 0:00,8/11/1997 0:00,UK,Outback Lager,15
+18,15,0.25,8/21/1997 0:00,8/28/1997 0:00,Germany,Outback Lager,15
+32,40,0.05,9/5/1997 0:00,9/10/1997 0:00,Brazil,Outback Lager,15
+11,50,0,10/6/1997 0:00,10/9/1997 0:00,Germany,Outback Lager,15
+20,30,0.25,10/8/1997 0:00,10/14/1997 0:00,Venezuela,Outback Lager,15
+76,8,0.05,10/9/1997 0:00,10/17/1997 0:00,Austria,Outback Lager,15
+77,28,0.15000001,10/16/1997 0:00,10/23/1997 0:00,UK,Outback Lager,15
+7,40,0,11/28/1997 0:00,12/4/1997 0:00,Switzerland,Outback Lager,15
+43,35,0,12/16/1997 0:00,12/25/1997 0:00,Venezuela,Outback Lager,15
+72,5,0,1/1/1998 0:00,1/7/1998 0:00,Canada,Outback Lager,15
+7,6,0,1/8/1998 0:00,1/16/1998 0:00,USA,Outback Lager,15
+62,9,0,1/9/1998 0:00,1/30/1998 0:00,Sweden,Outback Lager,15
+6,12,0,1/20/1998 0:00,1/29/1998 0:00,Mexico,Outback Lager,15
+11,30,0,1/22/1998 0:00,1/23/1998 0:00,Belgium,Outback Lager,15
+41,30,0.15000001,1/23/1998 0:00,1/30/1998 0:00,France,Outback Lager,15
+21,4,0,1/29/1998 0:00,2/3/1998 0:00,France,Outback Lager,15
+34,50,0.2,2/10/1998 0:00,2/18/1998 0:00,Sweden,Outback Lager,15
+55,30,0,2/12/1998 0:00,2/18/1998 0:00,Belgium,Outback Lager,15
+61,3,0.25,2/20/1998 0:00,3/4/1998 0:00,Brazil,Outback Lager,15
+2,20,0.2,4/1/1998 0:00,4/7/1998 0:00,Germany,Outback Lager,15
+70,30,0,4/13/1998 0:00,4/20/1998 0:00,Austria,Outback Lager,15
+76,4,0,4/21/1998 0:00,4/27/1998 0:00,Spain,Outback Lager,15
+72,3,0,4/29/1998 0:00,5/1/1998 0:00,UK,Outback Lager,15
+29,12,0.2,4/30/1998 0:00,0000-00-00 00:00:00,Italy,Outback Lager,15
+41,20,0,8/6/1996 0:00,8/16/1996 0:00,France,Flotemysost,26
+59,2,0,9/12/1996 0:00,9/17/1996 0:00,Mexico,Flotemysost,26
+51,3,0,9/19/1996 0:00,10/23/1996 0:00,Ireland,Flotemysost,26
+60,30,0,10/3/1996 0:00,10/18/1996 0:00,Finland,Flotemysost,26
+42,40,0.1,10/18/1996 0:00,10/25/1996 0:00,Finland,Flotemysost,26
+32,5,0,11/26/1996 0:00,12/4/1996 0:00,UK,Flotemysost,26
+46,50,0.2,12/5/1996 0:00,12/11/1996 0:00,Ireland,Flotemysost,26
+52,6,0,12/10/1996 0:00,12/19/1996 0:00,Sweden,Flotemysost,26
+24,15,0,12/18/1996 0:00,12/20/1996 0:00,Norway,Flotemysost,26
+61,60,0,12/27/1996 0:00,1/6/1997 0:00,Germany,Flotemysost,26
+74,30,0,12/31/1996 0:00,1/8/1997 0:00,Denmark,Flotemysost,26
+75,60,0,1/1/1997 0:00,1/10/1997 0:00,USA,Flotemysost,26
+41,15,0,1/7/1997 0:00,1/30/1997 0:00,Germany,Flotemysost,26
+51,2,0,2/14/1997 0:00,3/7/1997 0:00,Brazil,Flotemysost,26
+77,30,0,2/24/1997 0:00,3/3/1997 0:00,Finland,Flotemysost,26
+4,50,0,2/26/1997 0:00,3/4/1997 0:00,Belgium,Flotemysost,26
+24,12,0,3/13/1997 0:00,3/21/1997 0:00,UK,Flotemysost,26
+77,9,0.1,5/19/1997 0:00,5/29/1997 0:00,Brazil,Flotemysost,26
+7,9,0,7/14/1997 0:00,7/18/1997 0:00,USA,Flotemysost,26
+22,15,0.05,7/21/1997 0:00,7/29/1997 0:00,Canada,Flotemysost,26
+46,15,0.05,7/31/1997 0:00,8/5/1997 0:00,USA,Flotemysost,26
+55,15,0,8/5/1997 0:00,8/11/1997 0:00,UK,Flotemysost,26
+13,20,0,8/11/1997 0:00,8/20/1997 0:00,Sweden,Flotemysost,26
+35,30,0.25,8/27/1997 0:00,9/3/1997 0:00,Ireland,Flotemysost,26
+42,14,0.2,9/12/1997 0:00,9/19/1997 0:00,Austria,Flotemysost,26
+55,12,0,9/17/1997 0:00,9/26/1997 0:00,Sweden,Flotemysost,26
+1,60,0.2,10/10/1997 0:00,10/16/1997 0:00,USA,Flotemysost,26
+40,20,0.15000001,10/13/1997 0:00,10/15/1997 0:00,Ireland,Flotemysost,26
+52,30,0,10/23/1997 0:00,10/29/1997 0:00,France,Flotemysost,26
+26,8,0,10/28/1997 0:00,11/5/1997 0:00,Brazil,Flotemysost,26
+76,12,0,12/8/1997 0:00,12/15/1997 0:00,UK,Flotemysost,26
+1,16,0,12/10/1997 0:00,1/2/1998 0:00,Austria,Flotemysost,26
+59,55,0.2,1/22/1998 0:00,2/10/1998 0:00,USA,Flotemysost,26
+1,30,0,2/23/1998 0:00,2/26/1998 0:00,Venezuela,Flotemysost,26
+29,25,0,2/27/1998 0:00,3/2/1998 0:00,Brazil,Flotemysost,26
+8,35,0.25,3/10/1998 0:00,3/16/1998 0:00,Germany,Flotemysost,26
+29,21,0,4/8/1998 0:00,0000-00-00 00:00:00,Austria,Flotemysost,26
+42,20,0,4/9/1998 0:00,4/13/1998 0:00,Germany,Flotemysost,26
+28,60,0.05,4/9/1998 0:00,4/17/1998 0:00,Germany,Flotemysost,26
+34,50,0,4/15/1998 0:00,4/20/1998 0:00,UK,Flotemysost,26
+71,16,0,4/17/1998 0:00,4/24/1998 0:00,USA,Flotemysost,26
+24,30,0,4/21/1998 0:00,4/30/1998 0:00,Belgium,Flotemysost,26
+36,5,0,7/4/1996 0:00,7/16/1996 0:00,France,Mozzarella di Giovanni,14
+60,4,0,7/30/1996 0:00,8/2/1996 0:00,Venezuela,Mozzarella di Giovanni,14
+7,20,0.05,7/31/1996 0:00,8/9/1996 0:00,USA,Mozzarella di Giovanni,14
+24,24,0,8/2/1996 0:00,8/6/1996 0:00,USA,Mozzarella di Giovanni,14
+58,7,0,8/6/1996 0:00,8/16/1996 0:00,France,Mozzarella di Giovanni,14
+71,3,0,8/16/1996 0:00,8/23/1996 0:00,Venezuela,Mozzarella di Giovanni,14
+19,20,0,9/4/1996 0:00,9/10/1996 0:00,France,Mozzarella di Giovanni,14
+60,40,0,10/9/1996 0:00,10/14/1996 0:00,Germany,Mozzarella di Giovanni,14
+71,25,0.15000001,10/16/1996 0:00,10/28/1996 0:00,Venezuela,Mozzarella di Giovanni,14
+23,25,0,10/24/1996 0:00,10/29/1996 0:00,Germany,Mozzarella di Giovanni,14
+42,42,0.25,12/4/1996 0:00,12/9/1996 0:00,Brazil,Mozzarella di Giovanni,14
+45,24,0.1,12/23/1996 0:00,12/26/1996 0:00,Austria,Mozzarella di Giovanni,14
+68,21,0,12/27/1996 0:00,1/6/1997 0:00,Germany,Mozzarella di Giovanni,14
+41,10,0,2/4/1997 0:00,2/7/1997 0:00,UK,Mozzarella di Giovanni,14
+30,40,0,2/27/1997 0:00,2/28/1997 0:00,France,Mozzarella di Giovanni,14
+77,25,0,4/4/1997 0:00,4/7/1997 0:00,Germany,Mozzarella di Giovanni,14
+31,9,0,5/6/1997 0:00,5/9/1997 0:00,USA,Mozzarella di Giovanni,14
+36,24,0,5/12/1997 0:00,5/22/1997 0:00,Sweden,Mozzarella di Giovanni,14
+3,21,0,5/14/1997 0:00,5/19/1997 0:00,Switzerland,Mozzarella di Giovanni,14
+59,1,0,5/15/1997 0:00,5/16/1997 0:00,UK,Mozzarella di Giovanni,14
+70,24,0,6/3/1997 0:00,6/13/1997 0:00,Denmark,Mozzarella di Giovanni,14
+12,30,0,6/20/1997 0:00,6/30/1997 0:00,Germany,Mozzarella di Giovanni,14
+18,12,0,7/22/1997 0:00,7/25/1997 0:00,USA,Mozzarella di Giovanni,14
+56,60,0,8/20/1997 0:00,9/1/1997 0:00,Venezuela,Mozzarella di Giovanni,14
+46,15,0,8/28/1997 0:00,8/29/1997 0:00,Belgium,Mozzarella di Giovanni,14
+49,35,0,11/14/1997 0:00,11/18/1997 0:00,Canada,Mozzarella di Giovanni,14
+10,7,0,11/18/1997 0:00,11/27/1997 0:00,Germany,Mozzarella di Giovanni,14
+2,30,0.15000001,12/18/1997 0:00,12/22/1997 0:00,Italy,Mozzarella di Giovanni,14
+20,10,0,12/26/1997 0:00,1/5/1998 0:00,UK,Mozzarella di Giovanni,14
+26,40,0.1,1/2/1998 0:00,1/12/1998 0:00,Italy,Mozzarella di Giovanni,14
+51,15,0.1,1/19/1998 0:00,1/22/1998 0:00,Brazil,Mozzarella di Giovanni,14
+72,10,0,3/4/1998 0:00,3/11/1998 0:00,Mexico,Mozzarella di Giovanni,14
+19,16,0,3/6/1998 0:00,3/24/1998 0:00,France,Mozzarella di Giovanni,14
+69,50,0,3/11/1998 0:00,3/20/1998 0:00,USA,Mozzarella di Giovanni,14
+7,5,0,3/18/1998 0:00,3/27/1998 0:00,Argentina,Mozzarella di Giovanni,14
+43,20,0,3/31/1998 0:00,4/6/1998 0:00,UK,Mozzarella di Giovanni,14
+26,2,0,4/1/1998 0:00,4/3/1998 0:00,USA,Mozzarella di Giovanni,14
+33,35,0,4/14/1998 0:00,4/21/1998 0:00,Germany,Mozzarella di Giovanni,14
+65,25,0,8/12/1996 0:00,8/16/1996 0:00,Sweden,R�d Kaviar,101
+71,20,0.1,1/21/1997 0:00,1/27/1997 0:00,Brazil,R�d Kaviar,101
+1,20,0.2,3/27/1997 0:00,4/2/1997 0:00,Germany,R�d Kaviar,101
+13,24,0.05,5/12/1997 0:00,5/22/1997 0:00,Sweden,R�d Kaviar,101
+18,9,0,5/14/1997 0:00,5/19/1997 0:00,Switzerland,R�d Kaviar,101
+51,3,0,6/4/1997 0:00,6/10/1997 0:00,UK,R�d Kaviar,101
+24,30,0,7/16/1997 0:00,7/21/1997 0:00,USA,R�d Kaviar,101
+62,35,0.15000001,8/11/1997 0:00,8/21/1997 0:00,USA,R�d Kaviar,101
+55,50,0,9/16/1997 0:00,9/18/1997 0:00,Germany,R�d Kaviar,101
+59,15,0.15000001,10/6/1997 0:00,10/10/1997 0:00,USA,R�d Kaviar,101
+56,35,0,10/14/1997 0:00,10/20/1997 0:00,Sweden,R�d Kaviar,101
+63,15,0,11/24/1997 0:00,12/3/1997 0:00,Switzerland,R�d Kaviar,101
+2,10,0,2/11/1998 0:00,2/18/1998 0:00,Argentina,R�d Kaviar,101
+5,2,0.01,5/6/1998 0:00,0000-00-00 00:00:00,USA,R�d Kaviar,101
+29,21,0,7/11/1996 0:00,7/23/1996 0:00,Switzerland,Longlife Tofu,4
+59,36,0.25,7/23/1996 0:00,7/31/1996 0:00,Austria,Longlife Tofu,4
+1,20,0.15000001,12/3/1996 0:00,12/27/1996 0:00,Switzerland,Longlife Tofu,4
+13,14,0,12/12/1996 0:00,12/13/1996 0:00,Venezuela,Longlife Tofu,4
+24,50,0,12/13/1996 0:00,12/16/1996 0:00,Austria,Longlife Tofu,4
+64,15,0,1/17/1997 0:00,1/24/1997 0:00,Germany,Longlife Tofu,4
+71,30,0,2/7/1997 0:00,2/10/1997 0:00,Canada,Longlife Tofu,4
+36,16,0,3/26/1997 0:00,4/2/1997 0:00,Venezuela,Longlife Tofu,4
+38,5,0,11/25/1997 0:00,11/27/1997 0:00,Italy,Longlife Tofu,4
+59,35,0,12/17/1997 0:00,12/19/1997 0:00,Finland,Longlife Tofu,4
+53,15,0.25,12/31/1997 0:00,1/5/1998 0:00,France,Longlife Tofu,4
+69,20,0,1/22/1998 0:00,1/23/1998 0:00,Belgium,Longlife Tofu,4
+21,20,0,4/3/1998 0:00,4/17/1998 0:00,Poland,Longlife Tofu,4
+44,30,0,8/14/1996 0:00,9/12/1996 0:00,Sweden,Rh�nbr�u Klosterbier,125
+61,6,0,8/29/1996 0:00,9/11/1996 0:00,Mexico,Rh�nbr�u Klosterbier,125
+1,6,0,8/30/1996 0:00,9/5/1996 0:00,USA,Rh�nbr�u Klosterbier,125
+35,10,0,9/23/1996 0:00,10/3/1996 0:00,Germany,Rh�nbr�u Klosterbier,125
+42,50,0,10/10/1996 0:00,10/14/1996 0:00,Spain,Rh�nbr�u Klosterbier,125
+54,6,0.15000001,11/6/1996 0:00,11/8/1996 0:00,Brazil,Rh�nbr�u Klosterbier,125
+13,12,0,11/26/1996 0:00,12/4/1996 0:00,Germany,Rh�nbr�u Klosterbier,125
+59,24,0.1,2/5/1997 0:00,2/11/1997 0:00,France,Rh�nbr�u Klosterbier,125
+70,4,0.25,2/28/1997 0:00,3/3/1997 0:00,Sweden,Rh�nbr�u Klosterbier,125
+40,10,0,3/13/1997 0:00,3/21/1997 0:00,Mexico,Rh�nbr�u Klosterbier,125
+52,36,0,3/31/1997 0:00,4/3/1997 0:00,Venezuela,Rh�nbr�u Klosterbier,125
+71,36,0.1,4/18/1997 0:00,4/28/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+28,50,0,4/22/1997 0:00,5/16/1997 0:00,Austria,Rh�nbr�u Klosterbier,125
+35,30,0,5/29/1997 0:00,6/5/1997 0:00,Venezuela,Rh�nbr�u Klosterbier,125
+49,20,0,6/3/1997 0:00,6/6/1997 0:00,Germany,Rh�nbr�u Klosterbier,125
+57,15,0.1,6/18/1997 0:00,6/25/1997 0:00,Sweden,Rh�nbr�u Klosterbier,125
+21,20,0,6/23/1997 0:00,6/30/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+2,21,0,6/25/1997 0:00,7/4/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+63,50,0.2,6/26/1997 0:00,7/2/1997 0:00,Brazil,Rh�nbr�u Klosterbier,125
+44,30,0.2,7/11/1997 0:00,8/12/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+61,40,0,7/29/1997 0:00,8/1/1997 0:00,Venezuela,Rh�nbr�u Klosterbier,125
+11,8,0.1,8/14/1997 0:00,8/15/1997 0:00,France,Rh�nbr�u Klosterbier,125
+62,2,0,8/15/1997 0:00,8/21/1997 0:00,France,Rh�nbr�u Klosterbier,125
+33,25,0,9/16/1997 0:00,9/18/1997 0:00,Germany,Rh�nbr�u Klosterbier,125
+51,30,0,9/25/1997 0:00,10/1/1997 0:00,Mexico,Rh�nbr�u Klosterbier,125
+12,42,0,10/29/1997 0:00,11/4/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+32,20,0,11/11/1997 0:00,11/21/1997 0:00,Ireland,Rh�nbr�u Klosterbier,125
+35,18,0,12/2/1997 0:00,12/8/1997 0:00,USA,Rh�nbr�u Klosterbier,125
+1,7,0.2,12/11/1997 0:00,12/16/1997 0:00,Austria,Rh�nbr�u Klosterbier,125
+5,10,0,12/18/1997 0:00,12/24/1997 0:00,Venezuela,Rh�nbr�u Klosterbier,125
+68,42,0.2,12/19/1997 0:00,12/23/1997 0:00,Brazil,Rh�nbr�u Klosterbier,125
+2,40,0.05,12/22/1997 0:00,1/19/1998 0:00,Germany,Rh�nbr�u Klosterbier,125
+12,20,0,1/7/1998 0:00,1/16/1998 0:00,Argentina,Rh�nbr�u Klosterbier,125
+76,120,0.05,2/18/1998 0:00,2/20/1998 0:00,USA,Rh�nbr�u Klosterbier,125
+24,14,0,2/25/1998 0:00,2/27/1998 0:00,France,Rh�nbr�u Klosterbier,125
+43,6,0,3/4/1998 0:00,4/8/1998 0:00,Sweden,Rh�nbr�u Klosterbier,125
+61,49,0,3/5/1998 0:00,3/12/1998 0:00,Germany,Rh�nbr�u Klosterbier,125
+18,20,0.1,3/6/1998 0:00,3/24/1998 0:00,France,Rh�nbr�u Klosterbier,125
+32,50,0.05,3/16/1998 0:00,4/7/1998 0:00,Switzerland,Rh�nbr�u Klosterbier,125
+64,12,0.2,3/17/1998 0:00,3/20/1998 0:00,Sweden,Rh�nbr�u Klosterbier,125
+33,20,0.15000001,3/18/1998 0:00,3/23/1998 0:00,Brazil,Rh�nbr�u Klosterbier,125
+67,10,0,3/24/1998 0:00,3/27/1998 0:00,France,Rh�nbr�u Klosterbier,125
+24,10,0,3/25/1998 0:00,3/27/1998 0:00,Canada,Rh�nbr�u Klosterbier,125
+25,40,0.2,3/27/1998 0:00,4/17/1998 0:00,Sweden,Rh�nbr�u Klosterbier,125
+51,30,0,4/3/1998 0:00,4/17/1998 0:00,Poland,Rh�nbr�u Klosterbier,125
+57,4,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Rh�nbr�u Klosterbier,125
+7,15,0.15000001,7/29/1996 0:00,8/6/1996 0:00,Germany,Lakkalik��ri,57
+55,33,0.05,8/5/1996 0:00,8/12/1996 0:00,Germany,Lakkalik��ri,57
+60,6,0,10/1/1996 0:00,10/4/1996 0:00,UK,Lakkalik��ri,57
+70,30,0,10/2/1996 0:00,10/11/1996 0:00,Mexico,Lakkalik��ri,57
+21,15,0,10/31/1996 0:00,11/6/1996 0:00,Germany,Lakkalik��ri,57
+60,12,0,11/26/1996 0:00,12/4/1996 0:00,Germany,Lakkalik��ri,57
+61,35,0,12/31/1996 0:00,1/8/1997 0:00,Denmark,Lakkalik��ri,57
+13,14,0,1/14/1997 0:00,1/16/1997 0:00,France,Lakkalik��ri,57
+17,20,0.25,1/24/1997 0:00,2/14/1997 0:00,France,Lakkalik��ri,57
+60,18,0.15000001,2/3/1997 0:00,2/13/1997 0:00,Sweden,Lakkalik��ri,57
+60,42,0.15000001,3/14/1997 0:00,4/4/1997 0:00,Belgium,Lakkalik��ri,57
+77,50,0,5/8/1997 0:00,5/12/1997 0:00,Austria,Lakkalik��ri,57
+60,10,0,6/12/1997 0:00,6/18/1997 0:00,France,Lakkalik��ri,57
+53,30,0,6/16/1997 0:00,7/11/1997 0:00,USA,Lakkalik��ri,57
+70,10,0,6/20/1997 0:00,6/30/1997 0:00,Germany,Lakkalik��ri,57
+34,14,0,6/27/1997 0:00,7/14/1997 0:00,Germany,Lakkalik��ri,57
+40,4,0.2,7/9/1997 0:00,8/13/1997 0:00,Germany,Lakkalik��ri,57
+41,10,0.1,7/18/1997 0:00,7/29/1997 0:00,Portugal,Lakkalik��ri,57
+17,80,0,7/28/1997 0:00,8/1/1997 0:00,USA,Lakkalik��ri,57
+41,35,0,8/13/1997 0:00,8/19/1997 0:00,Germany,Lakkalik��ri,57
+53,10,0,9/11/1997 0:00,9/17/1997 0:00,USA,Lakkalik��ri,57
+55,35,0.15000001,10/13/1997 0:00,10/15/1997 0:00,Ireland,Lakkalik��ri,57
+68,15,0,10/13/1997 0:00,10/21/1997 0:00,Germany,Lakkalik��ri,57
+30,20,0,11/6/1997 0:00,11/7/1997 0:00,France,Lakkalik��ri,57
+54,20,0,11/7/1997 0:00,11/12/1997 0:00,Brazil,Lakkalik��ri,57
+16,10,0,11/20/1997 0:00,12/19/1997 0:00,UK,Lakkalik��ri,57
+19,50,0.15000001,1/1/1998 0:00,1/9/1998 0:00,USA,Lakkalik��ri,57
+34,21,0.25,1/16/1998 0:00,1/23/1998 0:00,Sweden,Lakkalik��ri,57
+41,20,0,1/29/1998 0:00,2/4/1998 0:00,France,Lakkalik��ri,57
+28,10,0,2/10/1998 0:00,2/12/1998 0:00,Finland,Lakkalik��ri,57
+43,20,0,3/5/1998 0:00,4/8/1998 0:00,France,Lakkalik��ri,57
+77,5,0,3/5/1998 0:00,3/18/1998 0:00,Spain,Lakkalik��ri,57
+39,60,0,3/19/1998 0:00,3/30/1998 0:00,Brazil,Lakkalik��ri,57
+1,44,0,3/19/1998 0:00,3/23/1998 0:00,Germany,Lakkalik��ri,57
+2,10,0,3/30/1998 0:00,4/21/1998 0:00,Argentina,Lakkalik��ri,57
+16,90,0.2,4/1/1998 0:00,4/7/1998 0:00,Germany,Lakkalik��ri,57
+31,6,0,4/7/1998 0:00,4/20/1998 0:00,Belgium,Lakkalik��ri,57
+7,50,0.1,4/27/1998 0:00,5/5/1998 0:00,Sweden,Lakkalik��ri,57
+13,2,0.15000001,5/6/1998 0:00,0000-00-00 00:00:00,Switzerland,Lakkalik��ri,57
+2,12,0,7/15/1996 0:00,7/17/1996 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+41,15,0,7/16/1996 0:00,7/22/1996 0:00,Venezuela,Original Frankfurter gr�ne So�e,32
+50,10,0,8/27/1996 0:00,9/3/1996 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+64,5,0,11/28/1996 0:00,12/30/1996 0:00,Spain,Original Frankfurter gr�ne So�e,32
+11,7,0,11/28/1996 0:00,12/2/1996 0:00,Denmark,Original Frankfurter gr�ne So�e,32
+24,14,0,12/31/1996 0:00,1/8/1997 0:00,Denmark,Original Frankfurter gr�ne So�e,32
+16,35,0,1/16/1997 0:00,1/28/1997 0:00,Denmark,Original Frankfurter gr�ne So�e,32
+2,10,0.15000001,1/21/1997 0:00,1/27/1997 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+46,55,0.1,2/19/1997 0:00,3/12/1997 0:00,Germany,Original Frankfurter gr�ne So�e,32
+76,30,0.05,3/24/1997 0:00,4/25/1997 0:00,USA,Original Frankfurter gr�ne So�e,32
+6,7,0.15000001,3/31/1997 0:00,4/8/1997 0:00,Portugal,Original Frankfurter gr�ne So�e,32
+14,5,0,4/3/1997 0:00,4/11/1997 0:00,Canada,Original Frankfurter gr�ne So�e,32
+19,25,0,4/4/1997 0:00,4/7/1997 0:00,Germany,Original Frankfurter gr�ne So�e,32
+2,10,0.05,5/30/1997 0:00,6/5/1997 0:00,Germany,Original Frankfurter gr�ne So�e,32
+3,18,0,6/23/1997 0:00,6/30/1997 0:00,USA,Original Frankfurter gr�ne So�e,32
+4,20,0,7/2/1997 0:00,7/9/1997 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+6,60,0.05,7/7/1997 0:00,7/14/1997 0:00,Canada,Original Frankfurter gr�ne So�e,32
+7,5,0.25,7/17/1997 0:00,7/22/1997 0:00,Denmark,Original Frankfurter gr�ne So�e,32
+8,35,0.25,8/27/1997 0:00,9/3/1997 0:00,Ireland,Original Frankfurter gr�ne So�e,32
+10,70,0.05,9/5/1997 0:00,9/8/1997 0:00,Germany,Original Frankfurter gr�ne So�e,32
+12,30,0.25,10/2/1997 0:00,10/3/1997 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+13,2,0.1,11/10/1997 0:00,11/21/1997 0:00,USA,Original Frankfurter gr�ne So�e,32
+14,15,0,12/16/1997 0:00,12/25/1997 0:00,Venezuela,Original Frankfurter gr�ne So�e,32
+16,20,0,1/2/1998 0:00,1/12/1998 0:00,Italy,Original Frankfurter gr�ne So�e,32
+20,15,0.1,1/9/1998 0:00,1/13/1998 0:00,Venezuela,Original Frankfurter gr�ne So�e,32
+23,2,0.2,1/15/1998 0:00,1/21/1998 0:00,Germany,Original Frankfurter gr�ne So�e,32
+32,15,0,1/20/1998 0:00,1/29/1998 0:00,Belgium,Original Frankfurter gr�ne So�e,32
+39,25,0,2/12/1998 0:00,2/18/1998 0:00,Belgium,Original Frankfurter gr�ne So�e,32
+41,40,0,2/13/1998 0:00,3/2/1998 0:00,Brazil,Original Frankfurter gr�ne So�e,32
+46,15,0,3/5/1998 0:00,3/12/1998 0:00,Germany,Original Frankfurter gr�ne So�e,32
+52,40,0,3/12/1998 0:00,3/19/1998 0:00,Denmark,Original Frankfurter gr�ne So�e,32
+55,15,0,3/30/1998 0:00,4/21/1998 0:00,Argentina,Original Frankfurter gr�ne So�e,32
+60,21,0.05,4/3/1998 0:00,4/10/1998 0:00,Germany,Original Frankfurter gr�ne So�e,32
+64,30,0,4/6/1998 0:00,4/14/1998 0:00,USA,Original Frankfurter gr�ne So�e,32
+66,18,0,4/10/1998 0:00,4/20/1998 0:00,Norway,Original Frankfurter gr�ne So�e,32
+73,10,0,4/30/1998 0:00,5/4/1998 0:00,Italy,Original Frankfurter gr�ne So�e,32
+75,28,0.15000001,5/4/1998 0:00,0000-00-00 00:00:00,Brazil,Original Frankfurter gr�ne So�e,32
+77,2,0,5/6/1998 0:00,0000-00-00 00:00:00,USA,Original Frankfurter gr�ne So�e,32

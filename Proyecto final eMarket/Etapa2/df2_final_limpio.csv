@@ -1,0 +1,2156 @@
+ProductoID,Cantidad,Descuento,FechaFactura,FechaEnvio,PaisEnvio,ProductoNombre,UnidadesStock,dias
+11,45,0.2,1996-08-20,1996-08-26,Germany,Chai,39,6.0
+42,18,0.0,1996-08-30,1996-09-05,USA,Chai,39,6.0
+72,20,0.0,1996-09-30,1996-10-10,USA,Chai,39,10.0
+14,15,0.15000001,1996-11-07,1996-11-15,Germany,Chai,39,8.0
+51,12,0.0,1996-11-14,1996-11-20,Mexico,Chai,39,6.0
+41,15,0.15000001,1996-12-03,1996-12-27,Switzerland,Chai,39,24.0
+51,10,0.0,1997-01-07,1997-01-13,Brazil,Chai,39,6.0
+65,24,0.0,1997-01-14,1997-01-16,France,Chai,39,2.0
+22,15,0.0,1997-03-17,1997-03-25,Portugal,Chai,39,8.0
+57,40,0.2,1997-04-30,1997-05-06,Germany,Chai,39,6.0
+65,8,0.15000001,1997-05-05,1997-05-15,Finland,Chai,39,10.0
+20,10,0.0,1997-06-23,1997-06-30,Mexico,Chai,39,7.0
+33,20,0.0,1997-07-07,1997-07-14,Canada,Chai,39,7.0
+60,3,0.0,1997-07-24,1997-07-30,France,Chai,39,6.0
+31,6,0.0,1997-07-25,1997-08-01,Poland,Chai,39,7.0
+39,25,0.0,1997-08-12,1997-08-20,France,Chai,39,8.0
+49,15,0.25,1997-08-27,1997-09-03,Ireland,Chai,39,7.0
+24,35,0.25,1997-10-01,1997-10-07,Sweden,Chai,39,6.0
+55,30,0.0,1997-10-03,1997-10-22,Germany,Chai,39,19.0
+74,5,0.2,1997-10-10,1997-10-16,USA,Chai,39,6.0
+2,50,0.0,1997-11-04,1997-11-14,Venezuela,Chai,39,10.0
+16,8,0.0,1997-11-24,1997-11-28,UK,Chai,39,4.0
+36,4,0.25,1998-01-19,1998-01-23,Venezuela,Chai,39,4.0
+59,80,0.2,1998-01-22,1998-02-10,USA,Chai,39,19.0
+53,20,0.15000001,1998-02-02,1998-02-17,Venezuela,Chai,39,15.0
+77,40,0.0,1998-02-04,1998-02-09,UK,Chai,39,5.0
+27,20,0.05,1998-02-24,1998-03-06,Brazil,Chai,39,10.0
+39,10,0.0,1998-02-26,1998-03-05,Spain,Chai,39,7.0
+77,60,0.25,1998-03-02,1998-03-11,Canada,Chai,39,9.0
+2,21,0.0,1998-03-09,1998-03-18,Brazil,Chai,39,9.0
+5,4,0.0,1998-04-06,1998-04-08,USA,Chai,39,2.0
+32,2,0.0,1998-04-07,1998-04-10,Finland,Chai,39,3.0
+21,8,0.0,1998-04-07,1998-04-15,USA,Chai,39,8.0
+37,10,0.1,1998-04-15,1998-04-24,Finland,Chai,39,9.0
+41,45,0.0,1998-04-17,1998-04-24,USA,Chai,39,7.0
+57,10,0.0,1998-04-20,1998-04-24,Belgium,Chai,39,4.0
+62,25,0.25,1998-04-24,1998-05-01,UK,Chai,39,7.0
+70,40,0.15000001,1998-05-05,,Germany,Chai,39,
+21,20,0.0,1996-07-12,1996-07-15,Switzerland,Chang,17,3.0
+35,50,0.2,1996-07-17,1996-07-23,Austria,Chang,17,6.0
+5,35,0.0,1996-07-24,1996-08-23,Sweden,Chang,17,30.0
+7,40,0.0,1996-09-05,1996-09-11,Ireland,Chang,17,6.0
+56,25,0.2,1996-10-11,1996-10-14,Sweden,Chang,17,3.0
+16,7,0.2,1996-10-22,1996-10-24,Ireland,Chang,17,2.0
+24,24,0.2,1996-10-30,1996-11-04,Germany,Chang,17,5.0
+30,25,0.25,1996-12-25,1997-01-03,USA,Chang,17,9.0
+74,60,0.0,1997-01-17,1997-01-24,Germany,Chang,17,7.0
+2,10,0.0,1997-02-04,1997-02-07,UK,Chang,17,3.0
+41,45,0.15000001,1997-02-10,1997-02-28,USA,Chang,17,18.0
+17,40,0.15000001,1997-03-10,1997-03-14,USA,Chang,17,4.0
+70,20,0.1,1997-03-25,1997-03-31,Venezuela,Chang,17,6.0
+12,12,0.0,1997-04-11,1997-04-18,USA,Chang,17,7.0
+40,10,0.0,1997-07-25,1997-08-01,Poland,Chang,17,7.0
+59,20,0.0,1997-08-06,1997-08-11,Brazil,Chang,17,5.0
+76,30,0.05,1997-08-14,1997-08-19,Germany,Chang,17,5.0
+29,50,0.0,1997-08-22,1997-08-26,Venezuela,Chang,17,4.0
+72,5,0.0,1997-10-14,1997-10-20,Sweden,Chang,17,6.0
+33,30,0.25,1997-10-22,1997-10-27,USA,Chang,17,5.0
+72,3,0.0,1997-10-29,1997-11-04,USA,Chang,17,6.0
+36,15,0.2,1997-11-14,1997-11-18,UK,Chang,17,4.0
+43,40,0.0,1997-12-05,1997-12-09,Germany,Chang,17,4.0
+33,15,0.05,1997-12-19,1997-12-26,France,Chang,17,7.0
+20,10,0.0,1997-12-23,1997-12-31,Poland,Chang,17,8.0
+31,20,0.25,1997-12-31,1998-01-05,France,Chang,17,5.0
+72,12,0.2,1998-01-05,1998-01-09,Brazil,Chang,17,4.0
+10,10,0.0,1998-01-13,1998-01-23,UK,Chang,17,10.0
+31,5,0.05,1998-01-26,1998-02-02,Brazil,Chang,17,7.0
+33,15,0.0,1998-01-26,1998-01-30,USA,Chang,17,4.0
+40,20,0.0,1998-01-28,1998-02-10,Mexico,Chang,17,13.0
+76,21,0.25,1998-02-03,1998-02-12,Sweden,Chang,17,9.0
+71,20,0.0,1998-02-12,1998-02-18,Belgium,Chang,17,6.0
+72,20,0.0,1998-02-16,1998-02-23,Spain,Chang,17,7.0
+24,10,0.15000001,1998-03-10,1998-03-13,Italy,Chang,17,3.0
+59,50,0.2,1998-04-01,1998-04-07,Germany,Chang,17,6.0
+10,11,0.25,1998-04-14,1998-04-21,Germany,Chang,17,7.0
+13,100,0.25,1998-04-17,1998-04-27,USA,Chang,17,10.0
+28,30,0.2,1998-04-22,1998-04-28,Switzerland,Chang,17,6.0
+62,10,0.2,1998-04-24,1998-05-04,Brazil,Chang,17,10.0
+44,20,0.15000001,1998-05-05,,Germany,Chang,17,
+59,8,0.0,1998-05-05,,Austria,Chang,17,
+63,10,0.15000001,1998-05-06,,Switzerland,Chang,17,
+73,24,0.2,1998-05-06,,USA,Chang,17,
+17,30,0.0,1996-08-26,1996-08-28,UK,Aniseed Syrup,13,2.0
+24,50,0.0,1997-01-06,1997-01-22,Venezuela,Aniseed Syrup,13,16.0
+55,20,0.1,1997-03-25,1997-03-31,Venezuela,Aniseed Syrup,13,6.0
+75,60,0.0,1997-05-19,1997-06-13,Germany,Aniseed Syrup,13,25.0
+19,14,0.0,1997-07-07,1997-07-16,Denmark,Aniseed Syrup,13,9.0
+24,6,0.0,1997-10-13,1997-10-21,Germany,Aniseed Syrup,13,8.0
+35,20,0.0,1997-11-14,1997-11-18,Canada,Aniseed Syrup,13,4.0
+30,20,0.1,1997-12-03,1997-12-08,Austria,Aniseed Syrup,13,5.0
+57,49,0.0,1998-01-23,1998-01-30,Germany,Aniseed Syrup,13,7.0
+15,30,0.0,1998-01-28,1998-02-06,Sweden,Aniseed Syrup,13,9.0
+19,25,0.0,1998-04-13,1998-04-20,Austria,Aniseed Syrup,13,7.0
+60,4,0.0,1998-05-06,,USA,Aniseed Syrup,13,
+72,20,0.0,1996-09-19,1996-10-23,Ireland,Chef Anton's Cajun Seasoning,53,34.0
+27,24,0.0,1996-10-10,1996-10-14,Spain,Chef Anton's Cajun Seasoning,53,4.0
+44,18,0.1,1996-10-23,1996-10-25,Portugal,Chef Anton's Cajun Seasoning,53,2.0
+60,10,0.0,1996-10-28,1996-11-04,Canada,Chef Anton's Cajun Seasoning,53,7.0
+67,35,0.0,1996-11-01,1996-11-05,USA,Chef Anton's Cajun Seasoning,53,4.0
+1,16,0.2,1997-03-04,1997-03-14,Portugal,Chef Anton's Cajun Seasoning,53,10.0
+40,50,0.15000001,1997-04-18,1997-04-21,France,Chef Anton's Cajun Seasoning,53,3.0
+53,50,0.1,1997-05-05,1997-05-07,Germany,Chef Anton's Cajun Seasoning,53,2.0
+35,50,0.05,1997-05-12,1997-05-22,Sweden,Chef Anton's Cajun Seasoning,53,10.0
+62,20,0.2,1997-07-22,1997-07-31,Brazil,Chef Anton's Cajun Seasoning,53,9.0
+16,10,0.1,1997-08-18,1997-08-21,Italy,Chef Anton's Cajun Seasoning,53,3.0
+34,25,0.0,1997-08-19,1997-08-26,Finland,Chef Anton's Cajun Seasoning,53,7.0
+46,12,0.1,1997-09-02,1997-09-11,Sweden,Chef Anton's Cajun Seasoning,53,9.0
+54,6,0.0,1997-10-14,1997-11-07,Brazil,Chef Anton's Cajun Seasoning,53,24.0
+68,25,0.0,1997-11-03,1997-12-05,UK,Chef Anton's Cajun Seasoning,53,32.0
+3,21,0.0,1998-01-22,1998-01-23,Belgium,Chef Anton's Cajun Seasoning,53,1.0
+64,30,0.25,1998-02-26,1998-03-04,Brazil,Chef Anton's Cajun Seasoning,53,6.0
+5,5,0.0,1998-03-16,1998-03-23,Italy,Chef Anton's Cajun Seasoning,53,7.0
+29,25,0.25,1998-04-06,1998-04-14,USA,Chef Anton's Cajun Seasoning,53,8.0
+49,1,0.0,1998-05-06,,USA,Chef Anton's Cajun Seasoning,53,
+77,65,0.2,1996-07-17,1996-07-23,Austria,Chef Anton's Gumbo Mix,0,6.0
+13,12,0.2,1996-07-22,1996-07-25,USA,Chef Anton's Gumbo Mix,0,3.0
+44,20,0.0,1996-08-27,1996-09-03,Brazil,Chef Anton's Gumbo Mix,0,7.0
+51,32,0.0,1996-12-13,1996-12-16,Austria,Chef Anton's Gumbo Mix,0,3.0
+20,15,0.1,1997-08-18,1997-08-21,Italy,Chef Anton's Gumbo Mix,0,3.0
+18,4,0.0,1997-10-17,1997-11-05,USA,Chef Anton's Gumbo Mix,0,19.0
+24,30,0.0,1998-01-23,1998-01-29,UK,Chef Anton's Gumbo Mix,0,6.0
+63,20,0.0,1998-03-18,1998-03-27,Argentina,Chef Anton's Gumbo Mix,0,9.0
+75,70,0.0,1998-04-17,1998-04-27,USA,Chef Anton's Gumbo Mix,0,10.0
+1,30,0.25,1998-04-24,1998-05-01,UK,Chef Anton's Gumbo Mix,0,7.0
+17,30,0.0,1996-09-19,1996-10-23,Ireland,Grandma's Boysenberry Spread,120,34.0
+43,6,0.0,1996-10-09,1996-10-14,Germany,Grandma's Boysenberry Spread,120,5.0
+60,70,0.0,1997-08-01,1997-08-08,Canada,Grandma's Boysenberry Spread,120,7.0
+75,30,0.0,1997-11-07,1997-11-12,Brazil,Grandma's Boysenberry Spread,120,5.0
+56,6,0.0,1998-01-13,1998-01-21,Brazil,Grandma's Boysenberry Spread,120,8.0
+11,50,0.05,1998-02-05,1998-02-10,France,Grandma's Boysenberry Spread,120,5.0
+16,20,0.0,1998-03-09,1998-03-12,Germany,Grandma's Boysenberry Spread,120,3.0
+69,12,0.0,1998-03-13,1998-03-17,Canada,Grandma's Boysenberry Spread,120,4.0
+39,16,0.05,1998-03-16,1998-03-24,Germany,Grandma's Boysenberry Spread,120,8.0
+72,40,0.0,1998-03-31,1998-04-02,Brazil,Grandma's Boysenberry Spread,120,2.0
+2,20,0.25,1998-05-06,,France,Grandma's Boysenberry Spread,120,
+36,1,0.02,1998-05-06,,USA,Grandma's Boysenberry Spread,120,
+59,15,0.0,1996-07-22,1996-07-25,USA,Uncle Bob's Organic Dried Pears,15,3.0
+62,10,0.2,1996-12-17,1996-12-23,USA,Uncle Bob's Organic Dried Pears,15,6.0
+19,16,0.05,1997-02-27,1997-02-28,France,Uncle Bob's Organic Dried Pears,15,1.0
+70,30,0.0,1997-03-11,1997-03-18,UK,Uncle Bob's Organic Dried Pears,15,7.0
+66,50,0.15000001,1997-04-18,1997-04-21,France,Uncle Bob's Organic Dried Pears,15,3.0
+68,10,0.0,1997-05-23,1997-05-27,France,Uncle Bob's Organic Dried Pears,15,4.0
+40,10,0.0,1997-07-07,1997-07-16,Denmark,Uncle Bob's Organic Dried Pears,15,9.0
+56,45,0.0,1997-07-22,1997-07-25,USA,Uncle Bob's Organic Dried Pears,15,3.0
+17,35,0.0,1997-08-15,1997-08-21,France,Uncle Bob's Organic Dried Pears,15,6.0
+28,90,0.0,1997-10-06,1997-10-09,Germany,Uncle Bob's Organic Dried Pears,15,3.0
+43,35,0.0,1997-12-05,1997-12-09,Germany,Uncle Bob's Organic Dried Pears,15,4.0
+40,3,0.15000001,1997-12-22,1997-12-26,Brazil,Uncle Bob's Organic Dried Pears,15,4.0
+65,20,0.1,1998-01-15,1998-01-23,Germany,Uncle Bob's Organic Dried Pears,15,8.0
+68,5,0.0,1998-01-29,1998-02-03,France,Uncle Bob's Organic Dried Pears,15,5.0
+49,20,0.05,1998-02-26,1998-03-06,Italy,Uncle Bob's Organic Dried Pears,15,8.0
+59,12,0.0,1998-02-26,1998-03-10,Norway,Uncle Bob's Organic Dried Pears,15,12.0
+71,8,0.0,1998-03-11,1998-03-23,France,Uncle Bob's Organic Dried Pears,15,12.0
+18,6,0.0,1998-03-18,1998-03-27,Argentina,Uncle Bob's Organic Dried Pears,15,9.0
+29,45,0.0,1998-03-19,1998-03-23,Germany,Uncle Bob's Organic Dried Pears,15,4.0
+39,18,0.0,1998-03-26,1998-03-31,Austria,Uncle Bob's Organic Dried Pears,15,5.0
+30,20,0.0,1998-03-27,1998-04-08,Canada,Uncle Bob's Organic Dried Pears,15,12.0
+53,60,0.0,1998-03-31,1998-04-06,UK,Uncle Bob's Organic Dried Pears,15,6.0
+54,60,0.0,1998-03-31,1998-04-10,USA,Uncle Bob's Organic Dried Pears,15,10.0
+62,60,0.0,1998-04-06,1998-04-14,Sweden,Uncle Bob's Organic Dried Pears,15,8.0
+68,20,0.0,1998-04-09,1998-04-21,Italy,Uncle Bob's Organic Dried Pears,15,12.0
+69,4,0.0,1998-04-14,1998-04-24,UK,Uncle Bob's Organic Dried Pears,15,10.0
+70,40,0.0,1998-04-28,1998-05-01,UK,Uncle Bob's Organic Dried Pears,15,3.0
+4,15,0.05,1998-05-05,,Venezuela,Uncle Bob's Organic Dried Pears,15,
+6,1,0.05,1998-05-06,,USA,Uncle Bob's Organic Dried Pears,15,
+42,70,0.25,1996-11-01,1996-11-05,USA,Northwoods Cranberry Sauce,6,4.0
+43,70,0.0,1996-11-04,1996-11-11,Germany,Northwoods Cranberry Sauce,6,7.0
+71,10,0.15000001,1997-04-18,1997-04-21,France,Northwoods Cranberry Sauce,6,3.0
+16,24,0.0,1997-04-30,1997-05-06,Germany,Northwoods Cranberry Sauce,6,6.0
+62,10,0.0,1997-10-07,1997-10-14,Finland,Northwoods Cranberry Sauce,6,7.0
+42,40,0.0,1997-10-17,1997-11-20,Brazil,Northwoods Cranberry Sauce,6,34.0
+69,30,0.2,1997-12-19,1997-12-23,Brazil,Northwoods Cranberry Sauce,6,4.0
+28,20,0.0,1998-01-13,1998-01-23,UK,Northwoods Cranberry Sauce,6,10.0
+43,30,0.0,1998-02-18,1998-02-20,Germany,Northwoods Cranberry Sauce,6,2.0
+53,16,0.0,1998-03-25,1998-03-27,Canada,Northwoods Cranberry Sauce,6,2.0
+75,20,0.15000001,1998-03-26,1998-04-23,Belgium,Northwoods Cranberry Sauce,6,28.0
+36,30,0.0,1998-04-08,1998-04-13,Portugal,Northwoods Cranberry Sauce,6,5.0
+32,2,0.1,1998-05-06,,USA,Northwoods Cranberry Sauce,6,
+58,20,0.1,1997-01-21,1997-01-27,Brazil,Mishi Kobe Niku,29,6.0
+62,16,0.15000001,1997-04-23,1997-05-23,Germany,Mishi Kobe Niku,29,30.0
+34,50,0.25,1997-09-30,1997-10-30,Ireland,Mishi Kobe Niku,29,30.0
+70,6,0.0,1997-10-06,1997-10-10,USA,Mishi Kobe Niku,29,4.0
+41,3,0.0,1998-01-23,1998-01-29,UK,Mishi Kobe Niku,29,6.0
+62,24,0.05,1996-08-05,1996-08-12,Germany,Ikura,31,7.0
+1,15,0.0,1996-08-08,1996-08-14,Mexico,Ikura,31,6.0
+41,30,0.2,1996-11-19,1996-12-02,Venezuela,Ikura,31,13.0
+76,16,0.0,1996-12-20,1996-12-24,Canada,Ikura,31,4.0
+17,14,0.0,1997-02-18,1997-02-27,France,Ikura,31,9.0
+28,20,0.2,1997-02-19,1997-03-11,France,Ikura,31,20.0
+76,20,0.05,1997-03-18,1997-03-26,France,Ikura,31,8.0
+71,16,0.05,1997-04-28,1997-05-01,Switzerland,Ikura,31,3.0
+35,2,0.0,1997-05-01,1997-05-07,Sweden,Ikura,31,6.0
+52,5,0.0,1997-06-13,1997-07-09,Spain,Ikura,31,26.0
+15,10,0.0,1997-07-24,1997-07-30,France,Ikura,31,6.0
+25,70,0.0,1997-07-28,1997-08-01,USA,Ikura,31,4.0
+39,18,0.25,1997-08-27,1997-09-03,Ireland,Ikura,31,7.0
+16,24,0.15000001,1997-09-10,1997-09-19,Portugal,Ikura,31,9.0
+35,2,0.0,1997-09-22,1997-09-29,Mexico,Ikura,31,7.0
+46,20,0.0,1997-09-29,1997-10-03,Brazil,Ikura,31,4.0
+59,18,0.1,1997-10-01,1997-10-07,Denmark,Ikura,31,6.0
+63,18,0.0,1997-10-22,1997-10-24,USA,Ikura,31,2.0
+6,21,0.0,1997-10-23,1997-10-29,France,Ikura,31,6.0
+13,16,0.0,1997-10-30,1997-11-05,Canada,Ikura,31,6.0
+14,6,0.0,1997-12-12,1997-12-26,USA,Ikura,31,14.0
+31,10,0.0,1997-12-18,1997-12-24,Venezuela,Ikura,31,6.0
+72,36,0.0,1997-12-30,1998-01-07,UK,Ikura,31,8.0
+4,15,0.0,1998-01-12,1998-02-06,France,Ikura,31,25.0
+57,16,0.0,1998-01-20,1998-01-29,Belgium,Ikura,31,9.0
+75,100,0.15000001,1998-01-27,1998-02-05,Austria,Ikura,31,9.0
+2,10,0.0,1998-02-06,1998-02-11,Spain,Ikura,31,5.0
+11,70,0.0,1998-02-13,1998-03-02,Brazil,Ikura,31,17.0
+30,20,0.1,1998-03-04,1998-04-08,Sweden,Ikura,31,35.0
+58,25,0.0,1998-03-12,1998-03-19,Denmark,Ikura,31,7.0
+59,30,0.0,1998-03-13,1998-03-17,Canada,Ikura,31,4.0
+65,24,0.15000001,1998-04-14,1998-04-16,Germany,Ikura,31,2.0
+68,1,0.0,1998-05-06,,USA,Ikura,31,
+19,12,0.0,1996-07-04,1996-07-16,France,Queso Cabrales,22,12.0
+30,12,0.0,1996-09-03,1996-09-11,Venezuela,Queso Cabrales,22,8.0
+38,50,0.2,1996-10-11,1996-10-14,Sweden,Queso Cabrales,22,3.0
+56,12,0.2,1996-11-13,1996-11-25,Austria,Queso Cabrales,22,12.0
+26,24,0.0,1996-11-27,1996-12-02,Mexico,Queso Cabrales,22,5.0
+72,30,0.0,1997-01-07,1997-01-30,Germany,Queso Cabrales,22,23.0
+54,6,0.0,1997-02-03,1997-02-13,Sweden,Queso Cabrales,22,10.0
+18,30,0.0,1997-02-11,1997-02-18,Austria,Queso Cabrales,22,7.0
+42,6,0.2,1997-02-12,1997-02-14,Italy,Queso Cabrales,22,2.0
+47,10,0.0,1997-03-06,1997-03-13,Brazil,Queso Cabrales,22,7.0
+14,5,0.0,1997-03-26,1997-04-02,Venezuela,Queso Cabrales,22,7.0
+21,15,0.25,1997-03-28,1997-04-09,Austria,Queso Cabrales,22,12.0
+71,3,0.0,1997-05-06,1997-05-09,USA,Queso Cabrales,22,3.0
+52,50,0.1,1997-05-13,1997-05-21,Mexico,Queso Cabrales,22,8.0
+68,15,0.05,1997-05-20,1997-05-26,Germany,Queso Cabrales,22,6.0
+2,10,0.0,1997-05-22,1997-06-26,USA,Queso Cabrales,22,35.0
+31,15,0.0,1997-05-30,1997-06-03,Finland,Queso Cabrales,22,4.0
+32,35,0.15000001,1997-06-12,1997-06-18,France,Queso Cabrales,22,6.0
+51,15,0.05,1997-06-17,1997-06-19,Canada,Queso Cabrales,22,2.0
+4,14,0.0,1997-07-29,1997-08-01,Germany,Queso Cabrales,22,3.0
+23,10,0.0,1997-08-19,1997-08-26,Brazil,Queso Cabrales,22,7.0
+26,15,0.0,1997-10-09,1997-10-17,Austria,Queso Cabrales,22,8.0
+36,5,0.0,1997-11-03,1997-12-05,UK,Queso Cabrales,22,32.0
+37,15,0.25,1997-12-09,1997-12-17,Brazil,Queso Cabrales,22,8.0
+72,20,0.0,1997-12-25,1998-01-05,Germany,Queso Cabrales,22,11.0
+17,50,0.1,1997-12-26,1998-01-05,UK,Queso Cabrales,22,10.0
+30,20,0.1,1998-01-09,1998-01-13,Venezuela,Queso Cabrales,22,4.0
+4,15,0.0,1998-01-20,1998-01-29,Mexico,Queso Cabrales,22,9.0
+17,25,0.0,1998-01-30,1998-02-02,Germany,Queso Cabrales,22,3.0
+62,10,0.0,1998-02-04,1998-02-09,UK,Queso Cabrales,22,5.0
+18,40,0.0,1998-02-16,1998-02-23,USA,Queso Cabrales,22,7.0
+41,40,0.25,1998-02-26,1998-03-18,Ireland,Queso Cabrales,22,20.0
+43,2,0.0,1998-03-04,1998-03-11,Mexico,Queso Cabrales,22,7.0
+33,5,0.25,1998-03-12,1998-03-13,Canada,Queso Cabrales,22,1.0
+59,30,0.0,1998-03-30,1998-04-21,Argentina,Queso Cabrales,22,22.0
+2,15,0.0,1998-03-31,1998-04-02,Brazil,Queso Cabrales,22,2.0
+31,10,0.0,1998-04-22,1998-04-29,France,Queso Cabrales,22,7.0
+36,10,0.0,1998-05-05,,Mexico,Queso Cabrales,22,
+55,12,0.05,1996-07-26,1996-07-31,Finland,Queso Manchego La Pastora,86,5.0
+64,15,0.0,1997-02-07,1997-02-10,Canada,Queso Manchego La Pastora,86,3.0
+68,15,0.25,1997-05-14,1997-06-06,Germany,Queso Manchego La Pastora,86,23.0
+76,30,0.15000001,1997-05-21,1997-05-23,Venezuela,Queso Manchego La Pastora,86,2.0
+4,36,0.15000001,1997-08-15,1997-08-18,Austria,Queso Manchego La Pastora,86,3.0
+8,100,0.0,1997-09-23,1997-10-16,USA,Queso Manchego La Pastora,86,23.0
+8,4,0.0,1997-10-07,1997-10-14,Finland,Queso Manchego La Pastora,86,7.0
+19,36,0.0,1997-10-27,1997-10-29,Germany,Queso Manchego La Pastora,86,2.0
+42,30,0.0,1998-03-23,1998-04-01,Austria,Queso Manchego La Pastora,86,9.0
+17,20,0.0,1998-03-26,1998-03-31,Austria,Queso Manchego La Pastora,86,5.0
+56,20,0.0,1998-04-13,1998-04-16,USA,Queso Manchego La Pastora,86,3.0
+25,20,0.05,1998-04-23,1998-04-24,Germany,Queso Manchego La Pastora,86,1.0
+39,4,0.2,1998-04-24,1998-05-04,Brazil,Queso Manchego La Pastora,86,10.0
+40,2,0.05,1998-05-06,,USA,Queso Manchego La Pastora,86,
+75,10,0.0,1996-08-08,1996-08-14,Mexico,Konbu,24,6.0
+1,20,0.1,1996-08-27,1996-09-04,Brazil,Konbu,24,8.0
+23,12,0.0,1996-10-09,1996-10-14,Germany,Konbu,24,5.0
+54,20,0.0,1996-12-16,1996-12-18,UK,Konbu,24,2.0
+50,18,0.0,1996-12-23,1996-12-31,Germany,Konbu,24,8.0
+69,10,0.0,1996-12-25,1997-01-03,USA,Konbu,24,9.0
+38,2,0.1,1997-01-21,1997-01-27,Brazil,Konbu,24,6.0
+41,1,0.0,1997-03-03,1997-03-18,UK,Konbu,24,15.0
+44,10,0.0,1997-04-16,1997-05-13,Germany,Konbu,24,27.0
+65,10,0.0,1997-05-05,1997-05-15,Finland,Konbu,24,10.0
+24,8,0.0,1997-05-16,1997-05-23,UK,Konbu,24,7.0
+54,60,0.0,1997-07-16,1997-07-22,Venezuela,Konbu,24,6.0
+11,8,0.1,1997-07-29,1997-08-01,Venezuela,Konbu,24,3.0
+38,13,0.15000001,1997-08-15,1997-08-18,Austria,Konbu,24,3.0
+1,4,0.0,1997-11-11,1997-11-18,France,Konbu,24,7.0
+29,6,0.0,1997-11-19,1997-11-21,Switzerland,Konbu,24,2.0
+24,20,0.15000001,1997-12-26,1998-01-05,Germany,Konbu,24,10.0
+57,7,0.0,1998-01-01,1998-01-07,Canada,Konbu,24,6.0
+31,10,0.0,1998-01-13,1998-01-23,UK,Konbu,24,10.0
+55,3,0.2,1998-01-14,1998-01-19,France,Konbu,24,5.0
+69,6,0.0,1998-01-16,1998-01-23,Sweden,Konbu,24,7.0
+10,65,0.15000001,1998-01-27,1998-02-05,Austria,Konbu,24,9.0
+26,28,0.05,1998-02-18,1998-02-20,USA,Konbu,24,2.0
+60,5,0.0,1998-02-20,1998-03-06,Argentina,Konbu,24,14.0
+24,40,0.0,1998-02-24,1998-03-04,Brazil,Konbu,24,8.0
+34,10,0.0,1998-03-04,1998-03-11,Mexico,Konbu,24,7.0
+36,42,0.15000001,1998-03-06,1998-03-19,Switzerland,Konbu,24,13.0
+16,20,0.25,1998-03-10,1998-03-16,Germany,Konbu,24,6.0
+31,20,0.0,1998-03-11,1998-03-23,France,Konbu,24,12.0
+60,15,0.0,1998-03-11,1998-03-19,UK,Konbu,24,8.0
+28,20,0.0,1998-03-12,1998-03-18,Germany,Konbu,24,6.0
+29,77,0.0,1998-03-19,1998-03-23,Germany,Konbu,24,4.0
+38,84,0.15000001,1998-03-27,1998-04-06,USA,Konbu,24,10.0
+49,56,0.0,1998-04-06,1998-04-16,USA,Konbu,24,10.0
+54,20,0.1,1998-04-15,1998-04-24,Finland,Konbu,24,9.0
+39,80,0.0,1998-04-17,1998-04-24,USA,Konbu,24,7.0
+60,7,0.0,1998-04-20,1998-04-22,Germany,Konbu,24,2.0
+25,30,0.0,1998-04-29,,Brazil,Konbu,24,
+51,10,0.05,1998-05-05,,Venezuela,Konbu,24,
+54,4,0.0,1998-05-06,,USA,Konbu,24,
+31,9,0.0,1996-07-05,1996-07-10,Germany,Tofu,35,5.0
+75,9,0.0,1996-10-09,1996-10-14,Germany,Tofu,35,5.0
+76,10,0.0,1996-10-18,1996-10-25,Finland,Tofu,35,7.0
+69,15,0.0,1996-12-06,1996-12-09,USA,Tofu,35,3.0
+71,42,0.25,1996-12-25,1997-01-03,USA,Tofu,35,9.0
+11,12,0.0,1997-01-09,1997-01-14,Argentina,Tofu,35,5.0
+65,20,0.1,1997-01-13,1997-01-15,Finland,Tofu,35,2.0
+77,35,0.0,1997-01-27,1997-03-03,Austria,Tofu,35,35.0
+34,12,0.0,1997-03-13,1997-03-21,Mexico,Tofu,35,8.0
+54,70,0.0,1997-04-11,1997-04-16,Ireland,Tofu,35,5.0
+65,30,0.2,1997-06-02,1997-06-04,USA,Tofu,35,2.0
+77,11,0.15000001,1997-06-17,1997-07-04,Austria,Tofu,35,17.0
+21,15,0.05,1997-06-26,1997-07-01,Germany,Tofu,35,5.0
+28,21,0.0,1997-08-07,1997-08-12,Germany,Tofu,35,5.0
+57,3,0.0,1997-08-08,1997-08-14,Mexico,Tofu,35,6.0
+64,3,0.1,1997-09-04,1997-09-10,USA,Tofu,35,6.0
+29,30,0.0,1997-09-19,1997-09-23,Germany,Tofu,35,4.0
+56,16,0.0,1997-11-07,1997-11-10,Sweden,Tofu,35,3.0
+1,5,0.15000001,1997-11-21,1997-11-24,Finland,Tofu,35,3.0
+64,15,0.2,1997-12-24,1998-01-02,Brazil,Tofu,35,9.0
+74,20,0.25,1998-05-06,,France,Tofu,35,
+36,1,0.03,1998-05-06,,USA,Tofu,35,
+20,20,0.0,1996-08-16,1996-08-23,Venezuela,Genen Shouyu,39,7.0
+38,5,0.0,1996-10-07,1996-10-14,Germany,Genen Shouyu,39,7.0
+60,12,0.05,1997-04-09,1997-04-17,France,Genen Shouyu,39,8.0
+72,10,0.0,1997-06-25,1997-07-04,USA,Genen Shouyu,39,9.0
+58,25,0.05,1997-07-08,1997-07-16,Germany,Genen Shouyu,39,8.0
+71,50,0.0,1997-09-04,1997-09-15,USA,Genen Shouyu,39,11.0
+31,35,0.0,1996-07-12,1996-07-15,Switzerland,Pavlova,29,3.0
+58,60,0.25,1996-07-23,1996-07-31,Austria,Pavlova,29,8.0
+14,40,0.15000001,1996-08-22,1996-08-28,Brazil,Pavlova,29,6.0
+54,30,0.0,1996-09-03,1996-09-11,Venezuela,Pavlova,29,8.0
+31,10,0.0,1996-09-20,1996-09-27,USA,Pavlova,29,7.0
+28,21,0.15000001,1996-10-08,1996-10-10,USA,Pavlova,29,2.0
+39,56,0.05,1996-11-21,1996-11-26,UK,Pavlova,29,5.0
+71,21,0.15000001,1997-01-03,1997-01-09,Austria,Pavlova,29,6.0
+41,16,0.0,1997-02-07,1997-02-10,Canada,Pavlova,29,3.0
+63,49,0.15000001,1997-02-10,1997-02-28,USA,Pavlova,29,18.0
+65,20,0.2,1997-02-21,1997-02-25,France,Pavlova,29,4.0
+30,35,0.15000001,1997-03-10,1997-03-14,USA,Pavlova,29,4.0
+53,18,0.0,1997-03-28,1997-04-09,Austria,Pavlova,29,12.0
+60,50,0.0,1997-04-23,1997-05-23,Germany,Pavlova,29,30.0
+70,40,0.15000001,1997-05-28,1997-06-06,Portugal,Pavlova,29,9.0
+74,14,0.0,1997-05-30,1997-06-03,Finland,Pavlova,29,4.0
+5,30,0.05,1997-05-30,1997-06-05,Germany,Pavlova,29,6.0
+18,12,0.1,1997-06-18,1997-06-25,Sweden,Pavlova,29,7.0
+29,30,0.05,1997-07-21,1997-07-29,Canada,Pavlova,29,8.0
+33,30,0.1,1997-09-02,1997-09-19,Germany,Pavlova,29,17.0
+74,10,0.0,1997-09-17,1997-09-24,France,Pavlova,29,7.0
+13,3,0.0,1997-09-18,1997-09-19,Finland,Pavlova,29,1.0
+50,50,0.25,1997-09-24,1997-09-26,USA,Pavlova,29,2.0
+56,20,0.0,1997-10-16,1997-10-21,USA,Pavlova,29,5.0
+20,20,0.0,1997-10-27,1997-10-29,Germany,Pavlova,29,2.0
+60,15,0.05,1997-11-05,1997-11-14,France,Pavlova,29,9.0
+7,3,0.0,1997-11-12,1997-11-18,France,Pavlova,29,6.0
+60,20,0.0,1997-12-16,1998-01-14,Germany,Pavlova,29,29.0
+68,65,0.0,1997-12-24,1998-01-20,Austria,Pavlova,29,27.0
+24,50,0.0,1998-01-27,1998-02-04,USA,Pavlova,29,8.0
+34,12,0.05,1998-02-05,1998-02-10,France,Pavlova,29,5.0
+24,30,0.25,1998-02-09,1998-02-19,Brazil,Pavlova,29,10.0
+28,15,0.0,1998-02-26,1998-03-10,Norway,Pavlova,29,12.0
+59,6,0.0,1998-02-27,1998-03-09,Argentina,Pavlova,29,10.0
+71,24,0.0,1998-03-02,1998-03-04,Venezuela,Pavlova,29,2.0
+45,30,0.1,1998-03-06,1998-03-24,France,Pavlova,29,18.0
+52,28,0.15000001,1998-03-17,1998-03-20,Venezuela,Pavlova,29,3.0
+53,55,0.0,1998-03-30,1998-04-03,USA,Pavlova,29,4.0
+10,36,0.1,1998-03-30,1998-04-02,Ireland,Pavlova,29,3.0
+55,3,0.0,1998-05-01,1998-05-04,USA,Pavlova,29,3.0
+62,30,0.15000001,1998-05-05,,Germany,Pavlova,29,
+70,14,0.05,1998-05-06,,Denmark,Pavlova,29,
+31,2,0.03,1998-05-06,,USA,Pavlova,29,
+35,30,0.0,1996-07-25,1996-08-12,France,Alice Mutton,0,18.0
+46,15,0.25,1996-08-13,1996-08-16,Germany,Alice Mutton,0,3.0
+72,15,0.0,1996-08-30,1996-09-05,USA,Alice Mutton,0,6.0
+13,40,0.0,1996-09-10,1996-10-09,Belgium,Alice Mutton,0,29.0
+69,8,0.0,1996-10-02,1996-10-11,Mexico,Alice Mutton,0,9.0
+2,20,0.0,1996-10-25,1996-10-29,USA,Alice Mutton,0,4.0
+14,70,0.05,1996-10-28,1996-11-04,Canada,Alice Mutton,0,7.0
+25,36,0.1,1996-11-05,1996-11-08,USA,Alice Mutton,0,3.0
+26,2,0.0,1997-01-15,1997-01-24,USA,Alice Mutton,0,9.0
+31,45,0.2,1997-01-30,1997-02-03,Austria,Alice Mutton,0,4.0
+13,50,0.25,1997-01-30,1997-02-07,Canada,Alice Mutton,0,8.0
+62,10,0.0,1997-02-12,1997-02-21,Sweden,Alice Mutton,0,9.0
+46,25,0.1,1997-05-01,1997-05-30,UK,Alice Mutton,0,29.0
+53,40,0.0,1997-05-08,1997-05-12,Austria,Alice Mutton,0,4.0
+69,8,0.1,1997-05-28,1997-06-06,Spain,Alice Mutton,0,9.0
+23,16,0.05,1997-06-10,1997-06-16,USA,Alice Mutton,0,6.0
+71,18,0.0,1997-06-19,1997-06-20,Mexico,Alice Mutton,0,1.0
+72,100,0.0,1997-07-22,1997-07-25,USA,Alice Mutton,0,3.0
+21,30,0.2,1997-09-30,1997-10-08,Austria,Alice Mutton,0,8.0
+51,20,0.0,1997-10-08,1997-10-14,USA,Alice Mutton,0,6.0
+35,8,0.05,1997-10-09,1997-10-17,Austria,Alice Mutton,0,8.0
+55,27,0.25,1997-10-22,1997-10-27,USA,Alice Mutton,0,5.0
+68,20,0.05,1997-11-03,1997-12-05,Italy,Alice Mutton,0,32.0
+71,33,0.0,1997-12-11,1997-12-16,Austria,Alice Mutton,0,5.0
+76,35,0.25,1997-12-24,1998-01-20,Austria,Alice Mutton,0,27.0
+77,40,0.25,1997-12-29,1997-12-31,Spain,Alice Mutton,0,2.0
+29,6,0.0,1998-01-26,1998-01-30,USA,Alice Mutton,0,4.0
+35,42,0.0,1998-01-30,1998-02-17,USA,Alice Mutton,0,18.0
+49,16,0.05,1998-02-05,1998-02-10,France,Alice Mutton,0,5.0
+30,15,0.0,1998-02-16,1998-02-18,France,Alice Mutton,0,2.0
+56,12,0.0,1998-02-26,1998-03-05,Spain,Alice Mutton,0,7.0
+65,10,0.0,1998-02-27,1998-03-02,Mexico,Alice Mutton,0,3.0
+71,15,0.0,1998-03-03,1998-03-05,Brazil,Alice Mutton,0,2.0
+23,6,0.0,1998-03-13,1998-03-17,Canada,Alice Mutton,0,4.0
+63,6,0.0,1998-03-24,1998-03-26,France,Alice Mutton,0,2.0
+16,12,0.0,1998-04-29,,Brazil,Alice Mutton,0,
+48,77,0.1,1998-05-01,1998-05-04,USA,Alice Mutton,0,3.0
+26,12,0.0,1996-08-29,1996-09-11,Mexico,Carnarvon Tigers,42,13.0
+42,25,0.1,1996-09-13,1996-10-09,USA,Carnarvon Tigers,42,26.0
+49,40,0.2,1996-10-17,1996-10-21,Canada,Carnarvon Tigers,42,4.0
+3,20,0.05,1996-10-29,1996-11-08,France,Carnarvon Tigers,42,10.0
+1,9,0.0,1996-12-13,1996-12-16,Austria,Carnarvon Tigers,42,3.0
+21,30,0.0,1997-03-11,1997-03-14,France,Carnarvon Tigers,42,3.0
+28,25,0.1,1997-04-24,1997-05-01,Ireland,Carnarvon Tigers,42,7.0
+36,18,0.15000001,1997-06-12,1997-06-18,France,Carnarvon Tigers,42,6.0
+40,40,0.2,1997-07-03,1997-07-10,Germany,Carnarvon Tigers,42,7.0
+11,50,0.0,1997-08-15,1997-08-21,France,Carnarvon Tigers,42,6.0
+69,8,0.0,1997-08-20,1997-08-27,Norway,Carnarvon Tigers,42,7.0
+71,4,0.1,1997-08-25,1997-09-01,Brazil,Carnarvon Tigers,42,7.0
+37,20,0.0,1997-08-26,1997-09-02,Brazil,Carnarvon Tigers,42,7.0
+54,12,0.25,1997-10-27,1997-11-05,USA,Carnarvon Tigers,42,9.0
+62,24,0.0,1997-11-18,1997-11-27,Germany,Carnarvon Tigers,42,9.0
+14,21,0.2,1997-11-27,1997-12-02,USA,Carnarvon Tigers,42,5.0
+21,30,0.0,1997-12-22,1997-12-31,France,Carnarvon Tigers,42,9.0
+33,25,0.25,1998-01-19,1998-01-23,Venezuela,Carnarvon Tigers,42,4.0
+59,10,0.0,1998-01-27,1998-02-03,Germany,Carnarvon Tigers,42,7.0
+41,20,0.0,1998-01-30,1998-02-17,USA,Carnarvon Tigers,42,18.0
+44,25,0.0,1998-02-09,1998-02-19,Brazil,Carnarvon Tigers,42,10.0
+59,4,0.25,1998-03-09,1998-03-18,Brazil,Carnarvon Tigers,42,9.0
+14,6,0.0,1998-03-20,1998-03-24,France,Carnarvon Tigers,42,4.0
+1,8,0.1,1998-03-30,1998-04-02,Ireland,Carnarvon Tigers,42,3.0
+62,10,0.0,1998-04-13,1998-04-16,USA,Carnarvon Tigers,42,3.0
+76,8,0.0,1998-04-15,1998-04-28,Italy,Carnarvon Tigers,42,13.0
+19,35,0.2,1998-04-27,1998-04-29,Austria,Carnarvon Tigers,42,2.0
+33,1,0.0,1996-08-14,1996-08-21,Spain,Teatime Chocolate Biscuits,25,7.0
+17,18,0.0,1996-08-16,1996-08-23,Venezuela,Teatime Chocolate Biscuits,25,7.0
+33,15,0.0,1996-09-06,1996-09-13,Brazil,Teatime Chocolate Biscuits,25,7.0
+19,10,0.05,1996-10-15,1996-10-23,USA,Teatime Chocolate Biscuits,25,8.0
+53,80,0.0,1996-11-04,1996-11-11,Germany,Teatime Chocolate Biscuits,25,7.0
+57,18,0.05,1997-01-14,1997-01-17,Brazil,Teatime Chocolate Biscuits,25,3.0
+38,20,0.0,1997-01-16,1997-01-27,Finland,Teatime Chocolate Biscuits,25,11.0
+46,4,0.15000001,1997-01-21,1997-01-27,Brazil,Teatime Chocolate Biscuits,25,6.0
+68,15,0.2,1997-02-06,1997-02-14,Germany,Teatime Chocolate Biscuits,25,8.0
+77,12,0.1,1997-02-14,1997-02-19,Germany,Teatime Chocolate Biscuits,25,5.0
+2,40,0.0,1997-02-14,1997-03-07,Brazil,Teatime Chocolate Biscuits,25,21.0
+47,21,0.0,1997-03-04,1997-03-06,Belgium,Teatime Chocolate Biscuits,25,2.0
+61,5,0.0,1997-03-26,1997-03-28,Brazil,Teatime Chocolate Biscuits,25,2.0
+74,10,0.0,1997-05-28,1997-06-06,Spain,Teatime Chocolate Biscuits,25,9.0
+60,35,0.2,1997-06-02,1997-06-04,USA,Teatime Chocolate Biscuits,25,2.0
+69,5,0.0,1997-08-05,1997-08-11,UK,Teatime Chocolate Biscuits,25,6.0
+9,15,0.1,1997-08-07,1997-08-12,Germany,Teatime Chocolate Biscuits,25,5.0
+13,30,0.0,1997-08-27,1997-09-03,Brazil,Teatime Chocolate Biscuits,25,7.0
+70,12,0.25,1997-09-01,1997-09-11,Germany,Teatime Chocolate Biscuits,25,10.0
+73,7,0.0,1997-09-22,1997-09-29,Mexico,Teatime Chocolate Biscuits,25,7.0
+19,30,0.1,1997-09-25,1997-09-30,USA,Teatime Chocolate Biscuits,25,5.0
+26,7,0.25,1997-10-08,1997-10-14,Venezuela,Teatime Chocolate Biscuits,25,6.0
+53,5,0.0,1997-10-20,1997-10-23,Italy,Teatime Chocolate Biscuits,25,3.0
+77,12,0.0,1997-10-21,1997-10-29,USA,Teatime Chocolate Biscuits,25,8.0
+26,50,0.05,1997-12-22,1998-01-19,Germany,Teatime Chocolate Biscuits,25,28.0
+31,24,0.05,1997-12-30,1998-01-06,Brazil,Teatime Chocolate Biscuits,25,7.0
+59,15,0.0,1998-01-02,1998-01-08,Venezuela,Teatime Chocolate Biscuits,25,6.0
+35,2,0.0,1998-01-14,1998-01-23,Norway,Teatime Chocolate Biscuits,25,9.0
+38,12,0.2,1998-01-22,1998-02-10,USA,Teatime Chocolate Biscuits,25,19.0
+68,25,0.0,1998-02-06,1998-03-03,Sweden,Teatime Chocolate Biscuits,25,25.0
+55,12,0.0,1998-02-26,1998-03-04,Finland,Teatime Chocolate Biscuits,25,6.0
+76,7,0.0,1998-03-04,1998-03-11,Mexico,Teatime Chocolate Biscuits,25,7.0
+56,12,0.0,1998-03-23,1998-04-02,Germany,Teatime Chocolate Biscuits,25,10.0
+64,50,0.05,1998-04-09,1998-04-17,Germany,Teatime Chocolate Biscuits,25,8.0
+14,35,0.0,1998-04-14,1998-05-04,Brazil,Teatime Chocolate Biscuits,25,20.0
+46,42,0.0,1998-05-01,1998-05-04,USA,Teatime Chocolate Biscuits,25,3.0
+50,10,0.25,1998-05-06,,France,Teatime Chocolate Biscuits,25,
+63,40,0.05,1996-07-09,1996-07-11,Belgium,Sir Rodney's Marmalade,40,2.0
+17,6,0.0,1996-08-02,1996-08-06,USA,Sir Rodney's Marmalade,40,4.0
+21,20,0.0,1996-08-28,1996-09-02,Brazil,Sir Rodney's Marmalade,40,5.0
+56,12,0.25,1996-12-04,1996-12-09,Brazil,Sir Rodney's Marmalade,40,5.0
+59,28,0.0,1996-12-16,1996-12-20,Sweden,Sir Rodney's Marmalade,40,4.0
+17,39,0.0,1997-04-22,1997-05-16,Austria,Sir Rodney's Marmalade,40,24.0
+40,15,0.1,1997-05-01,1997-05-30,UK,Sir Rodney's Marmalade,40,29.0
+47,21,0.2,1997-07-09,1997-08-13,Germany,Sir Rodney's Marmalade,40,35.0
+26,21,0.0,1997-09-08,1997-10-15,USA,Sir Rodney's Marmalade,40,37.0
+54,5,0.0,1998-01-13,1998-02-04,Argentina,Sir Rodney's Marmalade,40,22.0
+56,20,0.05,1998-02-10,1998-02-12,Germany,Sir Rodney's Marmalade,40,2.0
+11,5,0.0,1998-03-05,1998-04-08,France,Sir Rodney's Marmalade,40,34.0
+76,50,0.05,1998-03-16,1998-03-25,UK,Sir Rodney's Marmalade,40,9.0
+2,15,0.0,1998-03-30,1998-04-21,Argentina,Sir Rodney's Marmalade,40,22.0
+22,15,0.0,1998-04-14,1998-04-21,Germany,Sir Rodney's Marmalade,40,7.0
+72,1,0.04,1998-05-06,,USA,Sir Rodney's Marmalade,40,
+46,10,0.0,1996-07-18,1996-07-25,Mexico,Sir Rodney's Scones,3,7.0
+56,20,0.0,1996-07-19,1996-07-30,Brazil,Sir Rodney's Scones,3,11.0
+64,10,0.1,1996-10-18,1996-10-25,Finland,Sir Rodney's Scones,3,7.0
+75,5,0.1,1996-11-29,1996-12-02,Austria,Sir Rodney's Scones,3,3.0
+53,10,0.15000001,1996-12-27,1997-01-02,Portugal,Sir Rodney's Scones,3,6.0
+19,30,0.1,1997-01-07,1997-01-13,Brazil,Sir Rodney's Scones,3,6.0
+34,12,0.0,1997-01-09,1997-01-14,Argentina,Sir Rodney's Scones,3,5.0
+57,50,0.0,1997-01-30,1997-02-03,Austria,Sir Rodney's Scones,3,4.0
+12,40,0.15000001,1997-02-25,1997-02-28,Germany,Sir Rodney's Scones,3,3.0
+16,40,0.25,1997-02-28,1997-03-05,Venezuela,Sir Rodney's Scones,3,5.0
+64,21,0.25,1997-03-17,1997-03-25,Portugal,Sir Rodney's Scones,3,8.0
+74,14,0.0,1997-03-24,1997-04-01,UK,Sir Rodney's Scones,3,8.0
+2,12,0.0,1997-04-11,1997-04-18,USA,Sir Rodney's Scones,3,7.0
+16,40,0.2,1997-04-22,1997-04-28,Germany,Sir Rodney's Scones,3,6.0
+29,15,0.0,1997-05-16,1997-05-23,UK,Sir Rodney's Scones,3,7.0
+61,6,0.1,1997-05-28,1997-06-06,Spain,Sir Rodney's Scones,3,9.0
+27,6,0.0,1997-07-24,1997-07-30,France,Sir Rodney's Scones,3,6.0
+11,8,0.0,1997-07-29,1997-08-01,Germany,Sir Rodney's Scones,3,3.0
+54,42,0.0,1997-08-04,1997-08-07,Canada,Sir Rodney's Scones,3,3.0
+66,25,0.1,1997-08-07,1997-08-12,Germany,Sir Rodney's Scones,3,5.0
+11,30,0.2,1997-08-22,1997-09-05,Denmark,Sir Rodney's Scones,3,14.0
+28,60,0.0,1997-09-05,1997-09-08,Germany,Sir Rodney's Scones,3,3.0
+17,12,0.1,1997-09-25,1997-09-30,USA,Sir Rodney's Scones,3,5.0
+26,5,0.0,1997-10-24,1997-10-27,Argentina,Sir Rodney's Scones,3,3.0
+35,32,0.05,1997-10-24,1997-10-29,Germany,Sir Rodney's Scones,3,5.0
+41,30,0.0,1997-11-04,1997-11-14,Venezuela,Sir Rodney's Scones,3,10.0
+39,40,0.05,1997-11-06,1997-11-14,Switzerland,Sir Rodney's Scones,3,8.0
+54,40,0.0,1997-12-03,1997-12-08,France,Sir Rodney's Scones,3,5.0
+19,40,0.0,1998-01-30,1998-02-17,USA,Sir Rodney's Scones,3,18.0
+24,20,0.0,1998-02-06,1998-02-09,Finland,Sir Rodney's Scones,3,3.0
+31,40,0.05,1998-02-12,1998-02-13,USA,Sir Rodney's Scones,3,1.0
+52,60,0.0,1998-03-05,1998-03-12,Germany,Sir Rodney's Scones,3,7.0
+19,36,0.0,1998-03-06,1998-03-18,Belgium,Sir Rodney's Scones,3,12.0
+65,12,0.0,1998-03-17,1998-03-20,Germany,Sir Rodney's Scones,3,3.0
+71,40,0.15000001,1998-03-26,1998-04-23,Belgium,Sir Rodney's Scones,3,28.0
+26,65,0.0,1998-04-01,1998-04-07,Austria,Sir Rodney's Scones,3,6.0
+40,15,0.1,1998-04-20,1998-04-27,USA,Sir Rodney's Scones,3,7.0
+10,20,0.0,1998-04-22,,USA,Sir Rodney's Scones,3,
+52,3,0.0,1998-04-29,,Germany,Sir Rodney's Scones,3,
+62,6,0.05,1996-07-08,1996-07-15,France,Gustaf’s Knäckebröd,104,7.0
+10,12,0.0,1997-02-04,1997-02-07,UK,Gustaf’s Knäckebröd,104,3.0
+54,24,0.0,1997-05-30,1997-06-03,Finland,Gustaf’s Knäckebröd,104,4.0
+55,48,0.0,1997-07-18,1997-08-08,USA,Gustaf’s Knäckebröd,104,21.0
+64,40,0.0,1997-08-04,1997-08-07,Canada,Gustaf’s Knäckebröd,104,3.0
+65,40,0.0,1997-08-18,1997-08-21,Italy,Gustaf’s Knäckebröd,104,3.0
+77,15,0.0,1997-08-28,1997-09-09,Brazil,Gustaf’s Knäckebröd,104,12.0
+28,20,0.25,1997-09-01,1997-09-11,Germany,Gustaf’s Knäckebröd,104,10.0
+44,6,0.0,1997-12-03,1997-12-08,France,Gustaf’s Knäckebröd,104,5.0
+48,4,0.0,1997-12-08,1997-12-15,UK,Gustaf’s Knäckebröd,104,7.0
+70,52,0.0,1998-01-16,1998-01-21,Austria,Gustaf’s Knäckebröd,104,5.0
+16,35,0.0,1998-01-21,1998-01-26,Austria,Gustaf’s Knäckebröd,104,5.0
+33,21,0.0,1998-03-11,1998-03-19,UK,Gustaf’s Knäckebröd,104,8.0
+46,25,0.0,1998-04-06,1998-04-14,Sweden,Gustaf’s Knäckebröd,104,8.0
+39,40,0.0,1996-10-24,1996-10-29,Germany,Tunnbröd,61,5.0
+53,25,0.0,1996-11-07,1996-11-15,Germany,Tunnbröd,61,8.0
+61,40,0.0,1996-12-27,1997-01-06,Germany,Tunnbröd,61,10.0
+71,60,0.0,1997-01-02,1997-01-10,Austria,Tunnbröd,61,8.0
+21,21,0.0,1997-03-03,1997-03-18,UK,Tunnbröd,61,15.0
+49,15,0.0,1997-03-11,1997-03-14,France,Tunnbröd,61,3.0
+59,10,0.0,1997-04-03,1997-04-11,Canada,Tunnbröd,61,8.0
+26,70,0.15000001,1997-05-21,1997-05-23,Venezuela,Tunnbröd,61,2.0
+28,20,0.05,1997-05-30,1997-06-05,Germany,Tunnbröd,61,6.0
+43,10,0.0,1997-08-05,1997-08-11,UK,Tunnbröd,61,6.0
+56,32,0.0,1997-09-16,1997-09-18,Germany,Tunnbröd,61,2.0
+71,5,0.0,1997-09-18,1997-09-30,UK,Tunnbröd,61,12.0
+7,44,0.0,1997-11-20,1997-11-28,USA,Tunnbröd,61,8.0
+46,18,0.0,1998-01-02,1998-01-08,Venezuela,Tunnbröd,61,6.0
+72,70,0.1,1998-01-21,1998-01-30,Germany,Tunnbröd,61,9.0
+68,50,0.0,1998-02-04,1998-02-09,UK,Tunnbröd,61,5.0
+75,30,0.2,1998-02-10,1998-02-18,Sweden,Tunnbröd,61,8.0
+21,8,0.25,1998-03-09,1998-03-18,Brazil,Tunnbröd,61,9.0
+30,10,0.0,1998-04-09,1998-04-10,Spain,Tunnbröd,61,1.0
+55,2,0.0,1998-05-06,,USA,Tunnbröd,61,
+13,15,0.15000001,1996-07-11,1996-07-23,Switzerland,Guaraná Fantástica,20,12.0
+23,28,0.0,1996-07-23,1996-07-31,Austria,Guaraná Fantástica,20,8.0
+19,12,0.05,1996-08-07,1996-08-09,Italy,Guaraná Fantástica,20,2.0
+42,12,0.0,1996-08-14,1996-09-12,Sweden,Guaraná Fantástica,20,29.0
+4,6,0.0,1996-08-14,1996-08-21,Spain,Guaraná Fantástica,20,7.0
+43,10,0.0,1996-08-29,1996-09-11,Mexico,Guaraná Fantástica,20,13.0
+56,10,0.0,1996-11-12,1996-11-18,Portugal,Guaraná Fantástica,20,6.0
+60,25,0.0,1996-11-15,1996-11-20,UK,Guaraná Fantástica,20,5.0
+24,10,0.05,1996-11-20,1996-11-27,France,Guaraná Fantástica,20,7.0
+29,15,0.0,1996-12-18,1996-12-25,Brazil,Guaraná Fantástica,20,7.0
+40,15,0.0,1996-12-18,1996-12-20,Norway,Guaraná Fantástica,20,2.0
+45,20,0.1,1997-02-14,1997-02-19,Germany,Guaraná Fantástica,20,5.0
+50,25,0.0,1997-03-05,1997-03-14,Denmark,Guaraná Fantástica,20,9.0
+11,28,0.0,1997-03-06,1997-03-11,Italy,Guaraná Fantástica,20,5.0
+46,80,0.05,1997-03-12,1997-03-19,UK,Guaraná Fantástica,20,7.0
+24,14,0.0,1997-04-07,1997-04-11,Venezuela,Guaraná Fantástica,20,4.0
+25,10,0.15000001,1997-04-21,1997-04-24,Brazil,Guaraná Fantástica,20,3.0
+30,5,0.0,1997-04-25,1997-05-05,Mexico,Guaraná Fantástica,20,10.0
+43,8,0.0,1997-04-29,1997-05-01,Norway,Guaraná Fantástica,20,2.0
+2,35,0.1,1997-05-19,1997-05-29,Brazil,Guaraná Fantástica,20,10.0
+16,18,0.2,1997-06-02,1997-06-04,USA,Guaraná Fantástica,20,2.0
+44,25,0.1,1997-06-11,1997-06-18,Canada,Guaraná Fantástica,20,7.0
+18,35,0.2,1997-07-11,1997-07-18,Austria,Guaraná Fantástica,20,7.0
+23,5,0.0,1997-08-05,1997-08-14,Canada,Guaraná Fantástica,20,9.0
+64,3,0.0,1997-08-07,1997-08-12,Germany,Guaraná Fantástica,20,5.0
+7,15,0.15000001,1997-08-28,1997-09-09,Brazil,Guaraná Fantástica,20,12.0
+56,20,0.0,1997-10-07,1997-10-14,Finland,Guaraná Fantástica,20,7.0
+24,35,0.0,1997-10-14,1997-11-07,Brazil,Guaraná Fantástica,20,24.0
+51,20,0.0,1997-12-03,1997-12-08,France,Guaraná Fantástica,20,5.0
+33,20,0.15000001,1997-12-26,1998-01-05,Germany,Guaraná Fantástica,20,10.0
+71,40,0.25,1998-01-29,1998-02-02,Germany,Guaraná Fantástica,20,4.0
+14,6,0.25,1998-02-03,1998-02-12,Sweden,Guaraná Fantástica,20,9.0
+28,8,0.0,1998-02-12,1998-02-20,USA,Guaraná Fantástica,20,8.0
+40,12,0.0,1998-02-12,1998-02-18,Belgium,Guaraná Fantástica,20,6.0
+75,10,0.0,1998-02-18,1998-02-20,Germany,Guaraná Fantástica,20,2.0
+31,110,0.0,1998-02-18,1998-02-23,Austria,Guaraná Fantástica,20,5.0
+66,35,0.0,1998-03-03,1998-03-05,Brazil,Guaraná Fantástica,20,2.0
+76,25,0.0,1998-03-12,1998-03-19,Denmark,Guaraná Fantástica,20,7.0
+55,10,0.25,1998-03-19,1998-04-08,Venezuela,Guaraná Fantástica,20,20.0
+70,30,0.0,1998-03-23,1998-04-01,Austria,Guaraná Fantástica,20,9.0
+1,80,0.0,1998-03-26,1998-03-31,Austria,Guaraná Fantástica,20,5.0
+21,20,0.0,1998-03-30,1998-04-03,USA,Guaraná Fantástica,20,4.0
+39,12,0.0,1998-04-03,1998-04-17,Poland,Guaraná Fantástica,20,14.0
+10,30,0.25,1998-04-06,1998-04-14,USA,Guaraná Fantástica,20,8.0
+38,12,0.0,1998-04-08,1998-04-10,Spain,Guaraná Fantástica,20,2.0
+53,10,0.0,1998-04-09,1998-04-21,Italy,Guaraná Fantástica,20,12.0
+59,30,0.25,1998-04-16,1998-04-20,Canada,Guaraná Fantástica,20,4.0
+64,21,0.0,1998-04-17,1998-04-24,USA,Guaraná Fantástica,20,7.0
+47,10,0.2,1998-04-27,,France,Guaraná Fantástica,20,
+59,15,0.0,1998-04-28,1998-05-05,Venezuela,Guaraná Fantástica,20,7.0
+49,20,0.0,1998-05-05,,Mexico,Guaraná Fantástica,20,
+60,4,0.0,1996-10-07,1996-10-14,Germany,NuNuCa Nu�-Nougat-Creme,76,7.0
+40,10,0.0,1996-11-06,1996-11-08,Brazil,NuNuCa Nu�-Nougat-Creme,76,2.0
+34,50,0.0,1996-11-25,1996-11-28,France,NuNuCa Nu�-Nougat-Creme,76,3.0
+77,7,0.25,1996-12-25,1997-01-03,USA,NuNuCa Nu�-Nougat-Creme,76,9.0
+21,12,0.0,1997-03-06,1997-03-11,Italy,NuNuCa Nu�-Nougat-Creme,76,5.0
+40,60,0.05,1997-04-01,1997-04-11,Canada,NuNuCa Nu�-Nougat-Creme,76,10.0
+51,18,0.1,1997-04-15,1997-05-02,Germany,NuNuCa Nu�-Nougat-Creme,76,17.0
+2,12,0.25,1997-12-01,1997-12-10,Belgium,NuNuCa Nu�-Nougat-Creme,76,9.0
+3,35,0.25,1997-12-02,1997-12-08,USA,NuNuCa Nu�-Nougat-Creme,76,6.0
+55,15,0.05,1997-12-30,1998-01-06,Brazil,NuNuCa Nu�-Nougat-Creme,76,7.0
+70,5,0.0,1998-01-01,1998-01-07,Canada,NuNuCa Nu�-Nougat-Creme,76,6.0
+11,10,0.2,1998-01-14,1998-01-19,France,NuNuCa Nu�-Nougat-Creme,76,5.0
+51,6,0.2,1998-01-19,1998-02-16,Venezuela,NuNuCa Nu�-Nougat-Creme,76,28.0
+74,20,0.15000001,1998-01-23,1998-01-30,France,NuNuCa Nu�-Nougat-Creme,76,7.0
+19,10,0.05,1998-01-26,1998-02-02,Brazil,NuNuCa Nu�-Nougat-Creme,76,7.0
+26,5,0.0,1998-02-13,1998-02-16,Spain,NuNuCa Nu�-Nougat-Creme,76,3.0
+54,24,0.0,1998-03-02,1998-03-04,Venezuela,NuNuCa Nu�-Nougat-Creme,76,2.0
+59,15,0.0,1998-04-28,1998-05-05,Venezuela,NuNuCa Nu�-Nougat-Creme,76,7.0
+73,50,0.15000001,1996-10-16,1996-10-28,Venezuela,Gumb�r Gummib�rchen,15,12.0
+11,24,0.0,1996-10-24,1996-10-29,Germany,Gumb�r Gummib�rchen,15,5.0
+16,16,0.0,1996-11-19,1996-12-02,Venezuela,Gumb�r Gummib�rchen,15,13.0
+59,70,0.25,1996-12-25,1997-01-03,USA,Gumb�r Gummib�rchen,15,9.0
+68,30,0.05,1997-01-03,1997-01-08,Italy,Gumb�r Gummib�rchen,15,5.0
+75,30,0.0,1997-01-21,1997-01-27,Brazil,Gumb�r Gummib�rchen,15,6.0
+44,2,0.0,1997-01-22,1997-01-31,Italy,Gumb�r Gummib�rchen,15,9.0
+77,10,0.0,1997-01-31,1997-02-07,USA,Gumb�r Gummib�rchen,15,7.0
+25,15,0.0,1997-02-12,1997-02-21,Sweden,Gumb�r Gummib�rchen,15,9.0
+42,6,0.0,1997-02-17,1997-02-24,Argentina,Gumb�r Gummib�rchen,15,7.0
+65,30,0.0,1997-02-26,1997-03-04,Belgium,Gumb�r Gummib�rchen,15,6.0
+66,30,0.0,1997-03-26,1997-03-28,Brazil,Gumb�r Gummib�rchen,15,2.0
+69,40,0.0,1997-05-19,1997-06-13,Germany,Gumb�r Gummib�rchen,15,25.0
+56,6,0.0,1997-07-02,1997-07-09,Brazil,Gumb�r Gummib�rchen,15,7.0
+23,5,0.05,1997-07-08,1997-07-16,Germany,Gumb�r Gummib�rchen,15,8.0
+41,35,0.15000001,1997-08-15,1997-08-18,Austria,Gumb�r Gummib�rchen,15,3.0
+77,30,0.15000001,1997-09-22,1997-09-26,Mexico,Gumb�r Gummib�rchen,15,4.0
+31,15,0.0,1997-09-30,1997-10-08,Austria,Gumb�r Gummib�rchen,15,8.0
+56,30,0.0,1997-10-22,1997-10-24,USA,Gumb�r Gummib�rchen,15,2.0
+72,15,0.0,1997-10-30,1997-11-25,USA,Gumb�r Gummib�rchen,15,26.0
+77,12,0.1,1997-11-24,1997-12-03,Switzerland,Gumb�r Gummib�rchen,15,9.0
+24,20,0.0,1997-11-28,1997-12-04,Switzerland,Gumb�r Gummib�rchen,15,6.0
+40,21,0.2,1997-12-25,1998-01-14,Venezuela,Gumb�r Gummib�rchen,15,20.0
+42,40,0.15000001,1998-01-06,1998-01-13,Germany,Gumb�r Gummib�rchen,15,7.0
+28,12,0.0,1998-01-09,1998-01-14,Germany,Gumb�r Gummib�rchen,15,5.0
+49,18,0.15000001,1998-01-23,1998-01-30,Germany,Gumb�r Gummib�rchen,15,7.0
+15,35,0.25,1998-01-28,1998-02-06,Sweden,Gumb�r Gummib�rchen,15,9.0
+28,20,0.0,1998-02-04,1998-02-23,Brazil,Gumb�r Gummib�rchen,15,19.0
+54,5,0.0,1998-03-24,1998-03-27,France,Gumb�r Gummib�rchen,15,3.0
+45,6,0.0,1998-04-07,1998-04-20,Belgium,Gumb�r Gummib�rchen,15,13.0
+53,63,0.0,1998-04-14,1998-04-21,Germany,Gumb�r Gummib�rchen,15,7.0
+67,12,0.0,1998-04-15,1998-04-20,UK,Gumb�r Gummib�rchen,15,5.0
+14,25,0.0,1996-07-16,1996-07-22,Venezuela,Schoggi Schokolade,49,6.0
+65,15,0.25,1996-08-19,1996-08-27,Germany,Schoggi Schokolade,49,8.0
+2,50,0.0,1997-02-10,1997-03-14,USA,Schoggi Schokolade,49,32.0
+21,120,0.0,1997-04-23,1997-05-23,Germany,Schoggi Schokolade,49,30.0
+53,50,0.0,1997-07-14,1997-07-18,USA,Schoggi Schokolade,49,4.0
+61,40,0.0,1997-12-01,1997-12-10,Belgium,Schoggi Schokolade,49,9.0
+62,10,0.0,1998-01-29,1998-02-03,France,Schoggi Schokolade,49,5.0
+25,25,0.0,1998-03-06,1998-03-18,Belgium,Schoggi Schokolade,49,12.0
+70,30,0.0,1998-03-26,1998-03-31,Austria,Schoggi Schokolade,49,5.0
+43,20,0.0,1996-08-09,1996-08-13,Germany,Rössle Sauerkraut,26,4.0
+48,28,0.0,1996-09-10,1996-10-09,Belgium,Rössle Sauerkraut,26,29.0
+13,4,0.0,1996-09-23,1996-10-03,Germany,Rössle Sauerkraut,26,10.0
+39,14,0.0,1996-10-02,1996-10-11,Mexico,Rössle Sauerkraut,26,9.0
+28,30,0.0,1996-11-22,1996-12-02,France,Rössle Sauerkraut,26,10.0
+29,13,0.1,1996-11-29,1996-12-02,Austria,Rössle Sauerkraut,26,3.0
+75,20,0.15000001,1996-12-09,1996-12-13,UK,Rössle Sauerkraut,26,4.0
+4,6,0.0,1996-12-18,1996-12-20,Norway,Rössle Sauerkraut,26,2.0
+7,42,0.1,1997-01-07,1997-01-13,Brazil,Rössle Sauerkraut,26,6.0
+8,12,0.0,1997-02-12,1997-02-14,Italy,Rössle Sauerkraut,26,2.0
+24,15,0.0,1997-02-20,1997-02-26,USA,Rössle Sauerkraut,26,6.0
+46,30,0.0,1997-02-26,1997-03-04,Belgium,Rössle Sauerkraut,26,6.0
+47,18,0.0,1997-03-13,1997-03-21,Mexico,Rössle Sauerkraut,26,8.0
+60,20,0.0,1997-04-08,1997-04-16,Venezuela,Rössle Sauerkraut,26,8.0
+21,8,0.05,1997-04-09,1997-04-17,France,Rössle Sauerkraut,26,8.0
+32,3,0.0,1997-04-17,1997-04-29,Germany,Rössle Sauerkraut,26,12.0
+61,35,0.0,1997-04-22,1997-05-16,Austria,Rössle Sauerkraut,26,24.0
+20,7,0.0,1997-05-21,1997-05-30,USA,Rössle Sauerkraut,26,9.0
+28,10,0.0,1997-08-07,1997-08-19,USA,Rössle Sauerkraut,26,12.0
+56,15,0.25,1997-08-25,1997-09-02,Germany,Rössle Sauerkraut,26,8.0
+65,20,0.0,1997-08-28,1997-08-29,Belgium,Rössle Sauerkraut,26,1.0
+75,60,0.1,1997-10-01,1997-10-07,Denmark,Rössle Sauerkraut,26,6.0
+9,20,0.0,1997-11-07,1997-11-10,Sweden,Rössle Sauerkraut,26,3.0
+16,5,0.2,1997-11-13,1997-11-25,USA,Rössle Sauerkraut,26,12.0
+27,24,0.0,1997-12-30,1998-01-07,UK,Rössle Sauerkraut,26,8.0
+33,3,0.0,1998-02-06,1998-02-09,Finland,Rössle Sauerkraut,26,3.0
+60,30,0.1,1998-03-04,1998-04-08,Sweden,Rössle Sauerkraut,26,35.0
+18,8,0.0,1998-03-10,1998-03-13,Argentina,Rössle Sauerkraut,26,3.0
+41,2,0.0,1998-03-16,1998-03-24,Germany,Rössle Sauerkraut,26,8.0
+42,20,0.0,1998-03-25,1998-04-03,Venezuela,Rössle Sauerkraut,26,9.0
+52,70,0.05,1998-04-08,,Austria,Rössle Sauerkraut,26,
+59,20,0.0,1998-04-21,,Venezuela,Rössle Sauerkraut,26,
+70,8,0.15000001,1998-05-04,,Brazil,Rössle Sauerkraut,26,
+24,10,0.0,1996-07-30,1996-08-02,Venezuela,Thüringer Rostbratwurst,0,3.0
+38,15,0.0,1996-08-27,1996-09-03,Brazil,Thüringer Rostbratwurst,0,7.0
+44,25,0.1,1996-09-13,1996-10-09,USA,Thüringer Rostbratwurst,0,26.0
+10,4,0.0,1996-11-14,1996-11-20,Mexico,Thüringer Rostbratwurst,0,6.0
+56,35,0.0,1996-11-22,1996-12-02,France,Thüringer Rostbratwurst,0,10.0
+60,20,0.0,1996-12-02,1996-12-09,USA,Thüringer Rostbratwurst,0,7.0
+24,14,0.0,1996-12-13,1996-12-16,Austria,Thüringer Rostbratwurst,0,3.0
+53,21,0.0,1997-01-01,1997-01-16,UK,Thüringer Rostbratwurst,0,15.0
+35,24,0.15000001,1997-02-10,1997-02-28,USA,Thüringer Rostbratwurst,0,18.0
+41,18,0.1,1997-03-05,1997-03-14,Denmark,Thüringer Rostbratwurst,0,9.0
+68,36,0.0,1997-04-18,1997-04-28,USA,Thüringer Rostbratwurst,0,10.0
+1,10,0.0,1997-06-30,1997-07-04,Finland,Thüringer Rostbratwurst,0,4.0
+8,6,0.0,1997-08-07,1997-08-19,USA,Thüringer Rostbratwurst,0,12.0
+30,20,0.0,1997-08-12,1997-08-20,Spain,Thüringer Rostbratwurst,0,8.0
+40,36,0.0,1997-09-12,1997-09-22,Switzerland,Thüringer Rostbratwurst,0,10.0
+17,10,0.0,1997-09-30,1997-10-30,Ireland,Thüringer Rostbratwurst,0,30.0
+20,40,0.0,1997-10-03,1997-10-22,Germany,Thüringer Rostbratwurst,0,19.0
+37,12,0.05,1997-10-09,1997-10-17,Austria,Thüringer Rostbratwurst,0,8.0
+41,18,0.0,1997-12-10,1997-12-19,Germany,Thüringer Rostbratwurst,0,9.0
+10,20,0.05,1997-12-19,1997-12-26,France,Thüringer Rostbratwurst,0,7.0
+30,14,0.05,1997-12-23,1998-01-01,Germany,Thüringer Rostbratwurst,0,9.0
+43,20,0.25,1997-12-29,1997-12-31,Spain,Thüringer Rostbratwurst,0,2.0
+54,8,0.05,1998-01-15,1998-01-19,Brazil,Thüringer Rostbratwurst,0,4.0
+36,10,0.25,1998-01-28,1998-02-06,Sweden,Thüringer Rostbratwurst,0,9.0
+40,24,0.0,1998-02-18,1998-02-20,Germany,Thüringer Rostbratwurst,0,2.0
+1,80,0.0,1998-02-19,1998-02-25,Ireland,Thüringer Rostbratwurst,0,6.0
+13,60,0.25,1998-02-26,1998-03-18,Ireland,Thüringer Rostbratwurst,0,20.0
+56,14,0.0,1998-03-24,1998-04-02,France,Thüringer Rostbratwurst,0,9.0
+4,50,0.25,1998-04-01,1998-04-10,Sweden,Thüringer Rostbratwurst,0,9.0
+36,2,0.25,1998-04-07,1998-04-15,USA,Thüringer Rostbratwurst,0,8.0
+11,10,0.0,1998-04-08,1998-04-13,Portugal,Thüringer Rostbratwurst,0,5.0
+33,60,0.25,1998-04-17,1998-04-27,USA,Thüringer Rostbratwurst,0,10.0
+72,60,0.25,1996-07-23,1996-07-31,Austria,Nord-Ost Matjeshering,10,8.0
+55,6,0.0,1996-08-15,1996-08-21,Spain,Nord-Ost Matjeshering,10,6.0
+68,10,0.0,1996-09-16,1996-09-23,Spain,Nord-Ost Matjeshering,10,7.0
+69,35,0.2,1996-10-11,1996-10-14,Sweden,Nord-Ost Matjeshering,10,3.0
+17,8,0.05,1996-10-15,1996-10-23,USA,Nord-Ost Matjeshering,10,8.0
+43,15,0.0,1996-10-25,1996-10-29,USA,Nord-Ost Matjeshering,10,4.0
+61,18,0.1,1996-12-12,1997-01-16,Ireland,Nord-Ost Matjeshering,10,35.0
+76,18,0.0,1997-01-01,1997-01-10,USA,Nord-Ost Matjeshering,10,9.0
+59,28,0.25,1997-02-28,1997-03-05,Venezuela,Nord-Ost Matjeshering,10,5.0
+30,8,0.0,1997-03-07,1997-03-12,Germany,Nord-Ost Matjeshering,10,5.0
+66,20,0.2,1997-04-30,1997-05-06,Germany,Nord-Ost Matjeshering,10,6.0
+4,10,0.0,1997-05-01,1997-05-07,Sweden,Nord-Ost Matjeshering,10,6.0
+72,15,0.0,1997-05-09,1997-05-12,UK,Nord-Ost Matjeshering,10,3.0
+73,10,0.0,1997-05-12,1997-05-14,Germany,Nord-Ost Matjeshering,10,2.0
+30,20,0.0,1997-06-06,1997-06-09,Germany,Nord-Ost Matjeshering,10,3.0
+40,30,0.0,1997-08-29,1997-09-03,Brazil,Nord-Ost Matjeshering,10,5.0
+54,2,0.25,1997-09-01,1997-09-08,Brazil,Nord-Ost Matjeshering,10,7.0
+11,3,0.25,1997-10-27,1997-11-05,USA,Nord-Ost Matjeshering,10,9.0
+40,15,0.0,1997-11-04,1997-11-11,Brazil,Nord-Ost Matjeshering,10,7.0
+57,15,0.0,1997-11-07,1997-11-12,Brazil,Nord-Ost Matjeshering,10,5.0
+59,30,0.0,1997-11-24,1997-12-03,Switzerland,Nord-Ost Matjeshering,10,9.0
+12,15,0.2,1997-12-19,1997-12-23,Brazil,Nord-Ost Matjeshering,10,4.0
+31,25,0.25,1997-12-29,1998-01-02,Denmark,Nord-Ost Matjeshering,10,4.0
+33,20,0.05,1998-01-15,1998-01-19,Brazil,Nord-Ost Matjeshering,10,4.0
+60,40,0.25,1998-02-03,1998-02-12,Sweden,Nord-Ost Matjeshering,10,9.0
+31,15,0.05,1998-02-17,1998-02-19,Germany,Nord-Ost Matjeshering,10,2.0
+51,35,0.0,1998-02-18,1998-02-20,Germany,Nord-Ost Matjeshering,10,2.0
+58,36,0.0,1998-02-19,1998-02-25,Ireland,Nord-Ost Matjeshering,10,6.0
+72,1,0.0,1998-03-02,1998-03-11,Spain,Nord-Ost Matjeshering,10,9.0
+73,30,0.0,1998-03-18,1998-03-27,Venezuela,Nord-Ost Matjeshering,10,9.0
+70,15,0.0,1998-04-10,1998-04-20,Norway,Nord-Ost Matjeshering,10,10.0
+72,4,0.25,1998-05-01,,Venezuela,Nord-Ost Matjeshering,10,
+13,20,0.0,1996-07-10,1996-07-16,Brazil,Gorgonzola Telino,0,6.0
+21,40,0.0,1996-08-02,1996-08-06,USA,Gorgonzola Telino,0,4.0
+33,15,0.05,1996-08-05,1996-08-12,Germany,Gorgonzola Telino,0,7.0
+49,4,0.0,1996-10-09,1996-10-14,Germany,Gorgonzola Telino,0,5.0
+3,25,0.2,1996-10-22,1996-10-24,Ireland,Gorgonzola Telino,0,2.0
+26,56,0.2,1996-10-30,1996-11-04,Germany,Gorgonzola Telino,0,5.0
+38,30,0.0,1996-11-18,1996-11-27,Germany,Gorgonzola Telino,0,9.0
+68,70,0.05,1996-11-21,1996-11-26,UK,Gorgonzola Telino,0,5.0
+24,20,0.0,1996-11-26,1996-12-04,Germany,Gorgonzola Telino,0,8.0
+38,30,0.0,1996-12-05,1996-12-09,Poland,Gorgonzola Telino,0,4.0
+65,42,0.05,1996-12-09,1996-12-13,Canada,Gorgonzola Telino,0,4.0
+71,60,0.1,1996-12-23,1996-12-26,Austria,Gorgonzola Telino,0,3.0
+11,32,0.0,1996-12-25,1997-01-03,USA,Gorgonzola Telino,0,9.0
+54,14,0.0,1997-01-23,1997-02-24,Brazil,Gorgonzola Telino,0,32.0
+12,3,0.1,1997-02-14,1997-02-19,Germany,Gorgonzola Telino,0,5.0
+23,35,0.15000001,1997-03-14,1997-04-04,Belgium,Gorgonzola Telino,0,21.0
+28,20,0.05,1997-04-04,1997-04-07,Brazil,Gorgonzola Telino,0,3.0
+67,20,0.0,1997-05-14,1997-06-06,Germany,Gorgonzola Telino,0,23.0
+11,30,0.0,1997-05-14,1997-05-19,Switzerland,Gorgonzola Telino,0,5.0
+7,55,0.15000001,1997-05-27,1997-05-30,Germany,Gorgonzola Telino,0,3.0
+35,30,0.0,1997-05-30,1997-06-03,Finland,Gorgonzola Telino,0,4.0
+62,6,0.05,1997-06-10,1997-06-16,USA,Gorgonzola Telino,0,6.0
+32,60,0.2,1997-06-12,1997-06-17,Ireland,Gorgonzola Telino,0,5.0
+36,35,0.2,1997-06-16,1997-07-11,USA,Gorgonzola Telino,0,25.0
+34,20,0.0,1997-06-23,1997-06-30,Mexico,Gorgonzola Telino,0,7.0
+41,50,0.05,1997-06-30,1997-07-04,France,Gorgonzola Telino,0,4.0
+31,20,0.05,1997-09-05,1997-09-10,Brazil,Gorgonzola Telino,0,5.0
+45,8,0.1,1997-09-15,1997-09-23,Germany,Gorgonzola Telino,0,8.0
+51,20,0.25,1997-09-24,1997-09-26,USA,Gorgonzola Telino,0,2.0
+17,20,0.0,1997-10-15,1997-11-18,Venezuela,Gorgonzola Telino,0,34.0
+19,50,0.0,1997-10-29,1997-11-04,USA,Gorgonzola Telino,0,6.0
+21,3,0.05,1997-11-05,1997-11-14,France,Gorgonzola Telino,0,9.0
+61,8,0.0,1997-11-19,1997-11-26,Austria,Gorgonzola Telino,0,7.0
+16,50,0.0,1997-12-08,1997-12-15,UK,Gorgonzola Telino,0,7.0
+35,70,0.2,1997-12-11,1997-12-16,Austria,Gorgonzola Telino,0,5.0
+44,2,0.25,1997-12-11,1997-12-12,Sweden,Gorgonzola Telino,0,1.0
+69,16,0.05,1997-12-15,1997-12-18,Austria,Gorgonzola Telino,0,3.0
+75,1,0.0,1997-12-17,1997-12-22,Argentina,Gorgonzola Telino,0,5.0
+11,10,0.0,1997-12-18,1997-12-19,Brazil,Gorgonzola Telino,0,1.0
+16,16,0.1,1998-01-02,1998-01-12,Italy,Gorgonzola Telino,0,10.0
+22,35,0.0,1998-01-12,1998-02-06,France,Gorgonzola Telino,0,25.0
+31,9,0.1,1998-01-15,1998-01-23,Germany,Gorgonzola Telino,0,8.0
+35,14,0.0,1998-01-27,1998-02-04,USA,Gorgonzola Telino,0,8.0
+16,35,0.0,1998-02-13,1998-03-02,Brazil,Gorgonzola Telino,0,17.0
+23,44,0.25,1998-03-11,1998-03-20,USA,Gorgonzola Telino,0,9.0
+62,10,0.0,1998-03-12,1998-03-18,Germany,Gorgonzola Telino,0,6.0
+77,50,0.05,1998-03-16,1998-03-25,UK,Gorgonzola Telino,0,9.0
+14,25,0.15000001,1998-03-17,1998-03-20,Venezuela,Gorgonzola Telino,0,3.0
+19,24,0.0,1998-03-26,1998-03-31,Austria,Gorgonzola Telino,0,5.0
+24,15,0.0,1998-04-10,1998-04-13,UK,Gorgonzola Telino,0,3.0
+51,20,0.0,1998-05-05,,Germany,Gorgonzola Telino,0,
+56,6,0.2,1996-07-17,1996-07-23,Austria,Mascarpone Fabioli,9,6.0
+72,40,0.1,1996-09-25,1996-10-04,USA,Mascarpone Fabioli,9,9.0
+64,6,0.2,1996-10-22,1996-10-24,Ireland,Mascarpone Fabioli,9,2.0
+75,50,0.2,1997-04-22,1997-04-28,Germany,Mascarpone Fabioli,9,6.0
+47,24,0.15000001,1997-05-23,1997-06-02,UK,Mascarpone Fabioli,9,10.0
+51,10,0.1,1997-06-18,1997-06-25,Sweden,Mascarpone Fabioli,9,7.0
+52,4,0.0,1997-10-15,1997-11-18,Venezuela,Mascarpone Fabioli,9,34.0
+53,10,0.0,1997-11-28,1997-12-12,Mexico,Mascarpone Fabioli,9,14.0
+73,20,0.0,1998-01-07,1998-01-12,Italy,Mascarpone Fabioli,9,5.0
+41,6,0.0,1998-02-27,1998-03-09,Argentina,Mascarpone Fabioli,9,10.0
+55,35,0.1,1998-03-30,1998-04-02,Ireland,Mascarpone Fabioli,9,3.0
+30,50,0.0,1998-04-03,1998-04-13,Venezuela,Mascarpone Fabioli,9,10.0
+62,15,0.05,1998-04-23,1998-04-24,Germany,Mascarpone Fabioli,9,1.0
+44,20,0.0,1998-04-27,1998-04-29,Austria,Mascarpone Fabioli,9,2.0
+51,1,0.0,1998-05-06,,USA,Mascarpone Fabioli,9,
+33,25,0.05,1996-07-09,1996-07-11,Belgium,Geitost,112,2.0
+62,60,0.05,1996-07-31,1996-08-09,USA,Geitost,112,9.0
+36,24,0.0,1996-08-01,1996-08-30,USA,Geitost,112,29.0
+52,20,0.0,1996-08-05,1996-08-12,Germany,Geitost,112,7.0
+17,8,0.0,1996-10-29,1996-11-05,Denmark,Geitost,112,7.0
+31,60,0.0,1996-12-13,1996-12-16,Austria,Geitost,112,3.0
+55,49,0.0,1997-01-10,1997-01-15,Canada,Geitost,112,5.0
+24,50,0.0,1997-01-14,1997-01-17,Brazil,Geitost,112,3.0
+64,20,0.0,1997-01-15,1997-01-24,USA,Geitost,112,9.0
+11,20,0.2,1997-02-21,1997-02-25,France,Geitost,112,4.0
+18,12,0.0,1997-03-13,1997-03-21,UK,Geitost,112,8.0
+76,16,0.15000001,1997-04-23,1997-05-23,Germany,Geitost,112,30.0
+31,8,0.2,1997-05-06,1997-05-09,USA,Geitost,112,3.0
+51,30,0.0,1997-05-14,1997-06-06,Germany,Geitost,112,23.0
+59,15,0.0,1997-05-16,1997-05-23,UK,Geitost,112,7.0
+10,20,0.1,1997-06-09,1997-06-12,Italy,Geitost,112,3.0
+31,14,0.0,1997-06-19,1997-06-30,USA,Geitost,112,11.0
+76,14,0.0,1997-07-22,1997-07-25,USA,Geitost,112,3.0
+11,20,0.05,1997-08-14,1997-08-19,Germany,Geitost,112,5.0
+56,8,0.15000001,1997-09-22,1997-09-26,Mexico,Geitost,112,4.0
+14,30,0.0,1997-09-23,1997-10-16,USA,Geitost,112,23.0
+42,30,0.0,1997-09-25,1997-10-01,Mexico,Geitost,112,6.0
+16,16,0.0,1998-01-05,1998-01-14,USA,Geitost,112,9.0
+32,4,0.15000001,1998-01-23,1998-01-30,France,Geitost,112,7.0
+40,35,0.0,1998-01-30,1998-02-17,USA,Geitost,112,18.0
+75,40,0.25,1998-02-26,1998-03-04,Brazil,Geitost,112,6.0
+17,30,0.0,1998-02-27,1998-03-02,Mexico,Geitost,112,3.0
+34,15,0.05,1998-03-16,1998-04-07,Switzerland,Geitost,112,22.0
+53,7,0.0,1998-03-24,1998-03-26,France,Geitost,112,2.0
+33,30,0.0,1998-04-15,1998-04-20,UK,Geitost,112,5.0
+40,15,0.0,1998-04-23,,Canada,Geitost,112,
+62,10,0.0,1998-04-28,,Argentina,Geitost,112,
+64,20,0.0,1996-08-22,1996-08-28,Brazil,Sasquatch Ale,111,6.0
+59,14,0.0,1996-09-26,1996-10-03,UK,Sasquatch Ale,111,7.0
+63,10,0.05,1996-11-20,1996-11-27,France,Sasquatch Ale,111,7.0
+72,36,0.0,1996-11-28,1996-12-02,Denmark,Sasquatch Ale,111,4.0
+76,10,0.0,1996-12-18,1996-12-25,Brazil,Sasquatch Ale,111,7.0
+1,20,0.2,1997-02-06,1997-02-14,Germany,Sasquatch Ale,111,8.0
+31,35,0.05,1997-03-24,1997-04-25,USA,Sasquatch Ale,111,32.0
+44,10,0.25,1997-05-26,1997-06-02,Germany,Sasquatch Ale,111,7.0
+39,40,0.0,1997-06-19,1997-06-20,Mexico,Sasquatch Ale,111,1.0
+75,14,0.0,1997-10-01,1997-10-07,Denmark,Sasquatch Ale,111,6.0
+77,12,0.2,1997-10-10,1997-10-16,USA,Sasquatch Ale,111,6.0
+35,30,0.0,1997-11-27,1997-12-15,USA,Sasquatch Ale,111,18.0
+57,10,0.0,1997-12-30,1998-01-09,USA,Sasquatch Ale,111,10.0
+15,10,0.0,1998-02-16,1998-02-18,France,Sasquatch Ale,111,2.0
+75,20,0.0,1998-03-10,1998-03-13,Argentina,Sasquatch Ale,111,3.0
+14,60,0.15000001,1998-04-01,1998-04-07,Austria,Sasquatch Ale,111,6.0
+41,90,0.05,1998-04-08,,Austria,Sasquatch Ale,111,
+65,30,0.0,1998-04-30,1998-05-06,Ireland,Sasquatch Ale,111,6.0
+75,35,0.0,1998-05-01,1998-05-04,USA,Sasquatch Ale,111,3.0
+57,20,0.0,1996-07-19,1996-07-30,Brazil,Steeleye Stout,20,11.0
+76,4,0.0,1996-08-14,1996-08-21,Spain,Steeleye Stout,20,7.0
+29,100,0.0,1996-08-21,1996-08-30,Germany,Steeleye Stout,20,9.0
+60,10,0.0,1996-10-03,1996-10-11,UK,Steeleye Stout,20,8.0
+69,70,0.15000001,1996-10-08,1996-10-10,USA,Steeleye Stout,20,2.0
+31,40,0.1,1996-12-23,1996-12-26,Austria,Steeleye Stout,20,3.0
+47,30,0.0,1996-12-30,1997-01-09,USA,Steeleye Stout,20,10.0
+52,35,0.0,1997-01-01,1997-01-16,UK,Steeleye Stout,20,15.0
+26,60,0.2,1997-01-23,1997-01-27,Canada,Steeleye Stout,20,4.0
+35,8,0.0,1997-02-12,1997-02-21,Sweden,Steeleye Stout,20,9.0
+77,3,0.0,1997-04-29,1997-05-02,Argentina,Steeleye Stout,20,3.0
+18,30,0.0,1997-05-23,1997-05-27,France,Steeleye Stout,20,4.0
+42,20,0.15000001,1997-05-28,1997-06-06,Portugal,Steeleye Stout,20,9.0
+35,6,0.0,1997-05-30,1997-06-03,Finland,Steeleye Stout,20,4.0
+1,20,0.0,1997-06-24,1997-07-25,UK,Steeleye Stout,20,31.0
+77,20,0.0,1997-07-02,1997-07-09,Brazil,Steeleye Stout,20,7.0
+3,4,0.0,1997-07-04,1997-07-14,USA,Steeleye Stout,20,10.0
+7,30,0.25,1997-07-10,1997-07-14,Austria,Steeleye Stout,20,4.0
+54,30,0.1,1997-08-07,1997-08-12,Germany,Steeleye Stout,20,5.0
+15,9,0.25,1997-10-08,1997-10-14,Venezuela,Steeleye Stout,20,6.0
+26,21,0.0,1997-10-28,1997-11-05,Brazil,Steeleye Stout,20,8.0
+20,35,0.2,1997-11-13,1997-11-25,USA,Steeleye Stout,20,12.0
+69,15,0.0,1997-12-22,1997-12-31,France,Steeleye Stout,20,9.0
+76,20,0.0,1998-01-08,1998-01-15,USA,Steeleye Stout,20,7.0
+52,8,0.0,1998-01-14,1998-01-23,Norway,Steeleye Stout,20,9.0
+58,6,0.0,1998-01-16,1998-01-21,Austria,Steeleye Stout,20,5.0
+35,25,0.1,1998-01-21,1998-01-30,Germany,Steeleye Stout,20,9.0
+61,4,0.0,1998-02-02,1998-02-09,UK,Steeleye Stout,20,7.0
+69,30,0.0,1998-02-04,1998-02-23,Brazil,Steeleye Stout,20,19.0
+56,3,0.0,1998-02-04,1998-02-13,Poland,Steeleye Stout,20,9.0
+63,10,0.0,1998-03-03,1998-03-09,Denmark,Steeleye Stout,20,6.0
+75,40,0.0,1998-03-18,1998-03-27,Venezuela,Steeleye Stout,20,9.0
+24,15,0.15000001,1998-04-06,1998-04-16,USA,Steeleye Stout,20,10.0
+57,60,0.0,1998-04-20,1998-04-24,Belgium,Steeleye Stout,20,4.0
+65,24,0.0,1998-04-21,,Venezuela,Steeleye Stout,20,
+27,18,0.05,1998-04-23,1998-04-24,Germany,Steeleye Stout,20,1.0
+71,25,0.0,1996-07-12,1996-07-15,Switzerland,Inlagd Sill,112,3.0
+62,30,0.0,1996-08-01,1996-08-02,Finland,Inlagd Sill,112,1.0
+54,40,0.25,1996-09-05,1996-09-11,Ireland,Inlagd Sill,112,6.0
+73,12,0.0,1996-09-24,1996-10-04,Germany,Inlagd Sill,112,10.0
+13,20,0.0,1996-10-24,1996-10-29,Germany,Inlagd Sill,112,5.0
+59,40,0.2,1996-10-30,1996-11-04,Germany,Inlagd Sill,112,5.0
+77,20,0.05,1996-11-20,1996-11-27,France,Inlagd Sill,112,7.0
+22,6,0.2,1996-12-03,1996-12-24,France,Inlagd Sill,112,21.0
+49,5,0.1,1997-01-07,1997-01-13,Brazil,Inlagd Sill,112,6.0
+48,30,0.0,1997-05-02,1997-05-23,France,Inlagd Sill,112,21.0
+76,30,0.1,1997-05-05,1997-05-07,Germany,Inlagd Sill,112,2.0
+16,60,0.0,1997-05-23,1997-06-02,UK,Inlagd Sill,112,10.0
+59,25,0.0,1997-06-10,1997-06-24,Brazil,Inlagd Sill,112,14.0
+60,21,0.25,1997-07-25,1997-08-06,France,Inlagd Sill,112,12.0
+71,55,0.0,1997-07-28,1997-08-01,USA,Inlagd Sill,112,4.0
+4,15,0.0,1997-08-26,1997-09-02,Brazil,Inlagd Sill,112,7.0
+55,30,0.0,1997-09-15,1997-09-22,Denmark,Inlagd Sill,112,7.0
+62,6,0.25,1997-09-30,1997-10-30,Ireland,Inlagd Sill,112,30.0
+7,5,0.0,1997-10-17,1997-11-05,USA,Inlagd Sill,112,19.0
+17,40,0.0,1997-10-27,1997-10-29,Germany,Inlagd Sill,112,2.0
+33,6,0.0,1997-11-12,1997-11-17,France,Inlagd Sill,112,5.0
+40,20,0.2,1997-11-27,1997-12-02,USA,Inlagd Sill,112,5.0
+72,30,0.0,1997-12-18,1997-12-22,Italy,Inlagd Sill,112,4.0
+56,50,0.25,1998-01-19,1998-01-23,Venezuela,Inlagd Sill,112,4.0
+1,20,0.0,1998-02-18,1998-02-20,Germany,Inlagd Sill,112,2.0
+10,25,0.15000001,1998-03-04,1998-03-13,Brazil,Inlagd Sill,112,9.0
+21,30,0.2,1998-03-09,1998-03-18,USA,Inlagd Sill,112,9.0
+36,40,0.0,1998-03-30,1998-04-03,USA,Inlagd Sill,112,4.0
+1,18,0.25,1998-04-08,1998-04-10,Spain,Inlagd Sill,112,2.0
+2,16,0.0,1998-04-10,1998-04-13,UK,Inlagd Sill,112,3.0
+60,35,0.0,1998-04-17,1998-04-23,USA,Inlagd Sill,112,6.0
+10,1,0.0,1996-07-18,1996-07-25,Mexico,Gravad lax,11,7.0
+36,28,0.0,1996-10-24,1996-10-29,Germany,Gravad lax,11,5.0
+49,10,0.0,1997-01-08,1997-01-14,France,Gravad lax,11,6.0
+60,18,0.1,1997-05-01,1997-05-30,UK,Gravad lax,11,29.0
+76,60,0.2,1998-01-22,1998-02-10,USA,Gravad lax,11,19.0
+13,8,0.0,1998-03-20,1998-04-08,Switzerland,Gravad lax,11,19.0
+75,20,0.05,1996-10-15,1996-10-23,USA,C�te de Blaye,17,8.0
+11,20,0.05,1996-11-11,1996-11-20,Austria,C�te de Blaye,17,9.0
+21,50,0.2,1996-11-13,1996-11-25,Austria,C�te de Blaye,17,12.0
+39,10,0.0,1996-11-22,1996-12-02,France,C�te de Blaye,17,10.0
+55,40,0.25,1996-12-04,1996-12-09,Brazil,C�te de Blaye,17,5.0
+38,50,0.0,1997-01-16,1997-01-28,Denmark,C�te de Blaye,17,12.0
+56,49,0.2,1997-01-23,1997-01-27,Canada,C�te de Blaye,17,4.0
+70,30,0.0,1997-03-19,1997-03-21,USA,C�te de Blaye,17,2.0
+71,15,0.0,1997-04-25,1997-05-05,Mexico,C�te de Blaye,17,10.0
+59,30,0.0,1997-05-19,1997-06-13,Germany,C�te de Blaye,17,25.0
+6,4,0.1,1997-05-19,1997-05-29,Brazil,C�te de Blaye,17,10.0
+56,15,0.05,1997-07-31,1997-08-05,USA,C�te de Blaye,17,5.0
+68,15,0.1,1997-09-17,1997-09-26,Sweden,C�te de Blaye,17,9.0
+21,5,0.0,1997-12-18,1997-12-19,Brazil,C�te de Blaye,17,1.0
+22,10,0.0,1997-12-30,1998-01-09,USA,C�te de Blaye,17,10.0
+24,30,0.05,1998-01-06,1998-02-04,USA,C�te de Blaye,17,29.0
+52,30,0.0,1998-01-06,1998-01-13,Germany,C�te de Blaye,17,7.0
+19,2,0.0,1998-01-13,1998-02-04,Argentina,C�te de Blaye,17,22.0
+23,8,0.0,1998-01-14,1998-01-23,Norway,C�te de Blaye,17,9.0
+70,60,0.05,1998-02-02,1998-02-12,Germany,C�te de Blaye,17,10.0
+71,40,0.0,1998-02-16,1998-02-23,USA,C�te de Blaye,17,7.0
+2,5,0.0,1998-03-20,1998-03-24,France,C�te de Blaye,17,4.0
+68,60,0.0,1998-03-27,1998-04-02,Brazil,C�te de Blaye,17,6.0
+14,25,0.0,1998-04-17,1998-04-23,USA,C�te de Blaye,17,6.0
+19,42,0.0,1996-07-10,1996-07-16,Brazil,Chartreuse verte,69,6.0
+21,6,0.0,1996-07-16,1996-07-22,Venezuela,Chartreuse verte,69,6.0
+24,60,0.0,1996-09-04,1996-09-10,France,Chartreuse verte,69,6.0
+35,30,0.1,1996-09-13,1996-10-09,USA,Chartreuse verte,69,26.0
+28,4,0.0,1996-10-07,1996-10-14,Germany,Chartreuse verte,69,7.0
+29,50,0.15000001,1996-11-06,1996-11-08,Brazil,Chartreuse verte,69,2.0
+44,54,0.1,1996-11-22,1996-12-03,Germany,Chartreuse verte,69,11.0
+14,20,0.15000001,1996-12-09,1996-12-13,UK,Chartreuse verte,69,4.0
+42,6,0.0,1997-02-13,1997-02-20,Sweden,Chartreuse verte,69,7.0
+60,20,0.0,1997-02-24,1997-03-03,Finland,Chartreuse verte,69,7.0
+53,20,0.25,1997-03-17,1997-03-25,Portugal,Chartreuse verte,69,8.0
+60,10,0.0,1997-04-16,1997-05-13,Germany,Chartreuse verte,69,27.0
+71,10,0.0,1997-06-23,1997-06-30,USA,Chartreuse verte,69,7.0
+62,5,0.0,1997-07-29,1997-08-01,Germany,Chartreuse verte,69,3.0
+73,21,0.25,1997-08-25,1997-09-02,Germany,Chartreuse verte,69,8.0
+1,20,0.0,1997-08-27,1997-09-03,Brazil,Chartreuse verte,69,7.0
+29,20,0.1,1997-09-02,1997-09-11,Sweden,Chartreuse verte,69,9.0
+64,3,0.2,1997-09-09,1997-09-15,Ireland,Chartreuse verte,69,6.0
+55,16,0.0,1997-12-02,1997-12-09,Sweden,Chartreuse verte,69,7.0
+76,130,0.1,1997-12-03,1997-12-08,Austria,Chartreuse verte,69,5.0
+75,2,0.15000001,1997-12-18,1997-12-22,Italy,Chartreuse verte,69,4.0
+2,21,0.0,1998-01-12,1998-02-06,France,Chartreuse verte,69,25.0
+33,28,0.0,1998-01-13,1998-01-21,Brazil,Chartreuse verte,69,8.0
+12,10,0.2,1998-01-19,1998-02-16,Venezuela,Chartreuse verte,69,28.0
+13,80,0.05,1998-02-02,1998-02-12,Germany,Chartreuse verte,69,10.0
+26,45,0.0,1998-02-18,1998-02-23,Austria,Chartreuse verte,69,5.0
+62,8,0.15000001,1998-02-20,1998-02-26,Venezuela,Chartreuse verte,69,6.0
+7,30,0.0,1998-03-26,1998-04-10,Sweden,Chartreuse verte,69,15.0
+18,20,0.0,1998-05-04,1998-05-06,Mexico,Chartreuse verte,69,2.0
+51,2,0.05,1998-05-06,,USA,Chartreuse verte,69,
+75,50,0.0,1996-07-29,1996-08-06,Germany,Boston Crab Meat,123,8.0
+4,60,0.05,1996-08-05,1996-08-12,Germany,Boston Crab Meat,123,7.0
+5,40,0.2,1996-08-20,1996-08-26,Germany,Boston Crab Meat,123,6.0
+22,10,0.0,1996-09-09,1996-09-17,Germany,Boston Crab Meat,123,8.0
+4,40,0.1,1996-09-11,1996-09-18,Spain,Boston Crab Meat,123,7.0
+58,4,0.0,1996-11-06,1996-11-08,Brazil,Boston Crab Meat,123,2.0
+11,2,0.1,1997-01-07,1997-01-13,Brazil,Boston Crab Meat,123,6.0
+50,50,0.25,1997-01-30,1997-02-07,Canada,Boston Crab Meat,123,8.0
+56,20,0.0,1997-02-17,1997-02-24,Argentina,Boston Crab Meat,123,7.0
+45,20,0.0,1997-03-05,1997-03-14,Denmark,Boston Crab Meat,123,9.0
+65,21,0.0,1997-03-13,1997-03-21,Mexico,Boston Crab Meat,123,8.0
+72,10,0.0,1997-03-21,1997-04-10,USA,Boston Crab Meat,123,20.0
+18,10,0.0,1997-03-24,1997-04-01,UK,Boston Crab Meat,123,8.0
+69,5,0.0,1997-04-07,1997-04-11,Venezuela,Boston Crab Meat,123,4.0
+70,25,0.2,1997-04-30,1997-05-06,Germany,Boston Crab Meat,123,6.0
+2,15,0.1,1997-05-02,1997-05-23,France,Boston Crab Meat,123,21.0
+40,10,0.2,1997-05-12,1997-05-14,Germany,Boston Crab Meat,123,2.0
+21,10,0.1,1997-05-13,1997-05-21,Mexico,Boston Crab Meat,123,8.0
+61,50,0.0,1997-06-18,1997-06-25,Sweden,Boston Crab Meat,123,7.0
+28,2,0.0,1997-06-19,1997-06-30,USA,Boston Crab Meat,123,11.0
+39,42,0.0,1997-07-22,1997-07-25,USA,Boston Crab Meat,123,3.0
+46,60,0.0,1997-08-22,1997-08-26,Venezuela,Boston Crab Meat,123,4.0
+18,70,0.05,1997-09-05,1997-09-08,Germany,Boston Crab Meat,123,3.0
+43,24,0.05,1997-09-05,1997-09-10,Brazil,Boston Crab Meat,123,5.0
+46,30,0.05,1997-09-10,1997-10-03,France,Boston Crab Meat,123,23.0
+18,20,0.0,1997-09-26,1997-09-30,Germany,Boston Crab Meat,123,4.0
+36,6,0.0,1997-11-04,1997-11-11,Brazil,Boston Crab Meat,123,7.0
+1,50,0.2,1997-11-17,1997-11-24,Denmark,Boston Crab Meat,123,7.0
+10,40,0.0,1997-11-20,1997-11-28,USA,Boston Crab Meat,123,8.0
+71,3,0.0,1997-11-25,1997-11-27,Italy,Boston Crab Meat,123,2.0
+77,1,0.0,1997-12-31,1998-01-30,Italy,Boston Crab Meat,123,30.0
+19,30,0.0,1998-01-02,1998-01-08,Venezuela,Boston Crab Meat,123,6.0
+39,60,0.15000001,1998-01-06,1998-01-13,Germany,Boston Crab Meat,123,7.0
+22,25,0.0,1998-01-16,1998-01-23,Sweden,Boston Crab Meat,123,7.0
+24,12,0.0,1998-02-10,1998-02-12,Finland,Boston Crab Meat,123,2.0
+28,91,0.0,1998-02-18,1998-02-23,Austria,Boston Crab Meat,123,5.0
+72,20,0.0,1998-03-02,1998-03-04,Venezuela,Boston Crab Meat,123,2.0
+30,10,0.0,1998-03-26,1998-04-23,Belgium,Boston Crab Meat,123,28.0
+53,10,0.0,1998-04-06,1998-04-08,USA,Boston Crab Meat,123,2.0
+54,5,0.2,1998-04-21,1998-04-30,Belgium,Boston Crab Meat,123,9.0
+19,40,0.1,1998-04-30,1998-05-06,Ireland,Boston Crab Meat,123,6.0
+22,10,0.0,1996-07-08,1996-07-12,Brazil,Jack's New England Clam Chowder,85,4.0
+30,16,0.25,1996-07-19,1996-07-29,Germany,Jack's New England Clam Chowder,85,10.0
+42,25,0.15000001,1996-07-24,1996-08-23,Sweden,Jack's New England Clam Chowder,85,30.0
+16,10,0.0,1996-09-27,1996-10-08,USA,Jack's New England Clam Chowder,85,11.0
+60,20,0.0,1996-10-01,1996-10-04,UK,Jack's New England Clam Chowder,85,3.0
+4,12,0.05,1996-10-29,1996-11-08,France,Jack's New England Clam Chowder,85,10.0
+39,13,0.0,1996-11-11,1996-11-20,Austria,Jack's New England Clam Chowder,85,9.0
+54,8,0.1,1996-12-11,1996-12-13,Brazil,Jack's New England Clam Chowder,85,2.0
+41,25,0.2,1997-01-10,1997-01-21,Canada,Jack's New England Clam Chowder,85,11.0
+14,30,0.0,1997-02-12,1997-02-21,Sweden,Jack's New England Clam Chowder,85,9.0
+44,20,0.0,1997-04-03,1997-04-11,Canada,Jack's New England Clam Chowder,85,8.0
+47,80,0.1,1997-04-24,1997-05-01,Ireland,Jack's New England Clam Chowder,85,7.0
+15,10,0.0,1997-04-29,1997-05-02,Argentina,Jack's New England Clam Chowder,85,3.0
+41,6,0.1,1997-05-01,1997-05-30,UK,Jack's New England Clam Chowder,85,29.0
+46,14,0.0,1997-05-26,1997-06-02,Germany,Jack's New England Clam Chowder,85,7.0
+47,12,0.05,1997-06-05,1997-06-13,France,Jack's New England Clam Chowder,85,8.0
+56,9,0.05,1997-06-26,1997-07-01,Germany,Jack's New England Clam Chowder,85,5.0
+60,20,0.2,1997-09-03,1997-09-11,Italy,Jack's New England Clam Chowder,85,8.0
+21,24,0.0,1997-09-04,1997-09-15,USA,Jack's New England Clam Chowder,85,11.0
+40,120,0.0,1997-09-23,1997-10-16,USA,Jack's New England Clam Chowder,85,23.0
+60,4,0.0,1997-09-29,1997-10-03,Brazil,Jack's New England Clam Chowder,85,4.0
+77,42,0.0,1997-10-21,1997-10-29,USA,Jack's New England Clam Chowder,85,8.0
+31,12,0.0,1997-10-31,1997-11-05,Brazil,Jack's New England Clam Chowder,85,5.0
+40,12,0.0,1997-11-11,1997-11-18,France,Jack's New England Clam Chowder,85,7.0
+70,35,0.0,1997-11-19,1997-11-26,Austria,Jack's New England Clam Chowder,85,7.0
+20,30,0.05,1997-12-08,1997-12-12,Denmark,Jack's New England Clam Chowder,85,4.0
+39,10,0.0,1997-12-16,1997-12-24,Sweden,Jack's New England Clam Chowder,85,8.0
+58,20,0.05,1997-12-23,1998-01-01,Germany,Jack's New England Clam Chowder,85,9.0
+68,14,0.0,1997-12-24,1998-01-08,UK,Jack's New England Clam Chowder,85,15.0
+40,20,0.0,1998-01-05,1998-01-14,France,Jack's New England Clam Chowder,85,9.0
+42,20,0.0,1998-01-07,1998-01-12,Italy,Jack's New England Clam Chowder,85,5.0
+51,12,0.0,1998-01-09,1998-01-30,Sweden,Jack's New England Clam Chowder,85,21.0
+10,14,0.0,1998-02-16,1998-02-18,France,Jack's New England Clam Chowder,85,2.0
+56,30,0.0,1998-02-23,1998-02-26,Venezuela,Jack's New England Clam Chowder,85,3.0
+65,5,0.0,1998-02-26,1998-03-10,Norway,Jack's New England Clam Chowder,85,12.0
+51,6,0.05,1998-03-16,1998-04-07,Switzerland,Jack's New England Clam Chowder,85,22.0
+59,24,0.0,1998-03-19,1998-04-08,Venezuela,Jack's New England Clam Chowder,85,20.0
+76,6,0.0,1998-03-24,1998-03-27,France,Jack's New England Clam Chowder,85,3.0
+29,4,0.0,1998-03-31,1998-04-02,Brazil,Jack's New England Clam Chowder,85,2.0
+65,35,0.25,1998-04-01,1998-04-10,Sweden,Jack's New England Clam Chowder,85,9.0
+69,20,0.05,1998-04-03,1998-04-10,Germany,Jack's New England Clam Chowder,85,7.0
+71,28,0.1,1998-04-10,1998-04-15,Venezuela,Jack's New England Clam Chowder,85,5.0
+31,30,0.1,1998-04-30,1998-05-06,Ireland,Jack's New England Clam Chowder,85,6.0
+55,12,0.0,1998-05-01,1998-05-04,USA,Jack's New England Clam Chowder,85,3.0
+64,9,0.0,1998-05-04,1998-05-06,Germany,Jack's New England Clam Chowder,85,2.0
+36,40,0.0,1998-05-05,,Austria,Jack's New England Clam Chowder,85,
+23,3,0.0,1998-05-06,,USA,Jack's New England Clam Chowder,85,
+46,10,0.0,1996-07-04,1996-07-16,France,Singaporean Hokkien Fried Mee,26,12.0
+67,2,0.0,1996-09-19,1996-10-23,Ireland,Singaporean Hokkien Fried Mee,26,34.0
+73,6,0.0,1996-09-20,1996-09-26,France,Singaporean Hokkien Fried Mee,26,6.0
+75,10,0.2,1996-10-17,1996-10-21,Canada,Singaporean Hokkien Fried Mee,26,4.0
+16,9,0.0,1996-11-04,1996-11-11,Germany,Singaporean Hokkien Fried Mee,26,7.0
+62,40,0.05,1997-01-03,1997-01-08,Italy,Singaporean Hokkien Fried Mee,26,5.0
+65,50,0.0,1997-03-04,1997-03-06,Belgium,Singaporean Hokkien Fried Mee,26,2.0
+38,20,0.05,1997-04-01,1997-04-11,Canada,Singaporean Hokkien Fried Mee,26,10.0
+71,30,0.0,1997-04-07,1997-04-11,Venezuela,Singaporean Hokkien Fried Mee,26,4.0
+16,20,0.0,1997-04-24,1997-05-01,Ireland,Singaporean Hokkien Fried Mee,26,7.0
+42,28,0.15000001,1997-06-17,1997-07-04,Austria,Singaporean Hokkien Fried Mee,26,17.0
+43,100,0.2,1997-07-03,1997-07-10,Germany,Singaporean Hokkien Fried Mee,26,7.0
+23,5,0.0,1997-08-08,1997-08-14,Mexico,Singaporean Hokkien Fried Mee,26,6.0
+14,20,0.0,1997-09-01,1997-09-08,Brazil,Singaporean Hokkien Fried Mee,26,7.0
+53,30,0.05,1997-09-10,1997-10-03,France,Singaporean Hokkien Fried Mee,26,23.0
+58,6,0.0,1997-09-18,1997-09-19,Finland,Singaporean Hokkien Fried Mee,26,1.0
+10,40,0.25,1997-09-24,1997-09-26,USA,Singaporean Hokkien Fried Mee,26,2.0
+19,28,0.0,1997-11-19,1997-11-21,Switzerland,Singaporean Hokkien Fried Mee,26,2.0
+44,2,0.0,1997-12-05,1997-12-15,Belgium,Singaporean Hokkien Fried Mee,26,10.0
+26,12,0.05,1997-12-15,1997-12-18,Austria,Singaporean Hokkien Fried Mee,26,3.0
+33,20,0.2,1997-12-15,1998-01-21,Brazil,Singaporean Hokkien Fried Mee,26,37.0
+12,42,0.1,1998-01-21,1998-01-30,Germany,Singaporean Hokkien Fried Mee,26,9.0
+33,20,0.0,1998-01-28,1998-02-10,Mexico,Singaporean Hokkien Fried Mee,26,13.0
+41,25,0.0,1998-02-11,1998-02-20,USA,Singaporean Hokkien Fried Mee,26,9.0
+54,10,0.2,1998-03-03,1998-03-13,France,Singaporean Hokkien Fried Mee,26,10.0
+59,40,0.0,1998-04-02,1998-04-10,Germany,Singaporean Hokkien Fried Mee,26,8.0
+16,24,0.15000001,1998-04-06,1998-04-16,USA,Singaporean Hokkien Fried Mee,26,10.0
+31,14,0.0,1998-04-08,1998-04-13,Portugal,Singaporean Hokkien Fried Mee,26,5.0
+42,4,0.0,1998-04-09,1998-04-10,Spain,Singaporean Hokkien Fried Mee,26,1.0
+19,30,0.0,1998-04-20,1998-04-24,Belgium,Singaporean Hokkien Fried Mee,26,4.0
+21,25,0.0,1996-08-01,1996-08-02,Finland,Ipoh Coffee,17,1.0
+64,15,0.0,1996-08-30,1996-09-05,USA,Ipoh Coffee,17,6.0
+33,12,0.0,1996-09-10,1996-10-09,Belgium,Ipoh Coffee,17,29.0
+66,20,0.0,1996-09-19,1996-10-23,Ireland,Ipoh Coffee,17,34.0
+75,24,0.0,1996-09-23,1996-10-03,Germany,Ipoh Coffee,17,10.0
+52,40,0.05,1996-10-29,1996-11-08,France,Ipoh Coffee,17,10.0
+40,20,0.0,1997-02-26,1997-03-04,Belgium,Ipoh Coffee,17,6.0
+47,3,0.0,1997-03-04,1997-03-14,Portugal,Ipoh Coffee,17,10.0
+60,15,0.0,1997-03-07,1997-03-12,Germany,Ipoh Coffee,17,5.0
+10,15,0.15000001,1997-04-15,1997-04-22,Mexico,Ipoh Coffee,17,7.0
+41,60,0.0,1997-05-01,1997-05-07,Sweden,Ipoh Coffee,17,6.0
+47,25,0.0,1997-05-08,1997-05-12,Austria,Ipoh Coffee,17,4.0
+17,20,0.0,1997-08-25,1997-09-01,Brazil,Ipoh Coffee,17,7.0
+26,6,0.0,1997-09-18,1997-09-19,Finland,Ipoh Coffee,17,1.0
+9,40,0.0,1997-10-03,1997-10-22,Germany,Ipoh Coffee,17,19.0
+29,24,0.0,1997-10-16,1997-10-21,USA,Ipoh Coffee,17,5.0
+36,30,0.25,1997-12-01,1997-12-10,Belgium,Ipoh Coffee,17,9.0
+10,20,0.15000001,1998-01-05,1998-01-14,France,Ipoh Coffee,17,9.0
+28,7,0.0,1998-01-07,1998-01-16,Argentina,Ipoh Coffee,17,9.0
+34,9,0.0,1998-01-14,1998-01-23,Norway,Ipoh Coffee,17,9.0
+1,5,0.0,1998-01-20,1998-01-29,Mexico,Ipoh Coffee,17,9.0
+56,10,0.2,1998-03-03,1998-03-13,France,Ipoh Coffee,17,10.0
+77,24,0.25,1998-03-10,1998-03-16,Germany,Ipoh Coffee,17,6.0
+1,9,0.0,1998-03-27,1998-04-08,Canada,Ipoh Coffee,17,12.0
+29,6,0.0,1998-03-31,1998-04-06,UK,Ipoh Coffee,17,6.0
+43,30,0.0,1998-04-14,1998-04-24,UK,Ipoh Coffee,17,10.0
+44,30,0.2,1998-04-27,1998-05-01,Brazil,Ipoh Coffee,17,4.0
+62,36,0.15000001,1998-05-04,,Brazil,Ipoh Coffee,17,
+63,16,0.0,1996-08-12,1996-08-16,Sweden,Gula Malacca,27,4.0
+9,21,0.0,1996-08-19,1996-08-27,Germany,Gula Malacca,27,8.0
+54,24,0.1,1996-08-27,1996-09-04,Brazil,Gula Malacca,27,8.0
+69,77,0.05,1996-11-11,1996-11-20,Austria,Gula Malacca,27,9.0
+73,40,0.2,1997-01-10,1997-01-21,Canada,Gula Malacca,27,11.0
+7,100,0.05,1997-02-20,1997-02-26,USA,Gula Malacca,27,6.0
+59,2,0.15000001,1997-03-10,1997-03-14,USA,Gula Malacca,27,4.0
+70,15,0.15000001,1997-03-31,1997-04-08,Portugal,Gula Malacca,27,8.0
+8,9,0.0,1997-04-25,1997-05-05,Mexico,Gula Malacca,27,10.0
+12,40,0.0,1997-05-28,1997-06-06,Portugal,Gula Malacca,27,9.0
+24,10,0.0,1997-06-06,1997-06-09,Sweden,Gula Malacca,27,3.0
+17,21,0.0,1997-06-23,1997-06-30,Mexico,Gula Malacca,27,7.0
+46,10,0.0,1997-08-07,1997-08-19,USA,Gula Malacca,27,12.0
+19,28,0.1,1997-09-04,1997-09-10,USA,Gula Malacca,27,6.0
+35,21,0.0,1997-09-22,1997-09-29,Mexico,Gula Malacca,27,7.0
+58,24,0.0,1997-10-03,1997-10-22,Germany,Gula Malacca,27,19.0
+70,50,0.05,1997-10-29,1997-10-31,Germany,Gula Malacca,27,2.0
+11,16,0.0,1997-11-18,1997-11-27,Germany,Gula Malacca,27,9.0
+17,10,0.0,1997-12-25,1998-01-14,Venezuela,Gula Malacca,27,20.0
+29,16,0.2,1998-01-14,1998-01-19,France,Gula Malacca,27,5.0
+65,18,0.25,1998-03-12,1998-03-13,Canada,Gula Malacca,27,1.0
+70,6,0.15000001,1998-03-26,1998-04-23,Belgium,Gula Malacca,27,28.0
+47,12,0.0,1998-04-20,1998-04-27,USA,Gula Malacca,27,7.0
+1,15,0.0,1998-04-22,1998-05-01,Brazil,Gula Malacca,27,9.0
+34,15,0.2,1996-12-19,1996-12-20,UK,Rogede sild,5,1.0
+68,30,0.1,1997-03-05,1997-03-14,Denmark,Rogede sild,5,9.0
+71,21,0.0,1997-04-10,1997-04-29,Mexico,Rogede sild,5,19.0
+59,100,0.15000001,1997-05-27,1997-05-30,Germany,Rogede sild,5,3.0
+71,20,0.0,1997-08-20,1997-09-01,Venezuela,Rogede sild,5,12.0
+76,110,0.0,1997-10-22,1997-10-24,USA,Rogede sild,5,2.0
+3,40,0.2,1997-11-13,1997-11-25,USA,Rogede sild,5,12.0
+76,40,0.15000001,1997-11-21,1997-11-24,Finland,Rogede sild,5,3.0
+2,4,0.0,1997-11-25,1997-11-27,Italy,Rogede sild,5,2.0
+59,27,0.05,1997-12-15,1997-12-18,Austria,Rogede sild,5,3.0
+73,36,0.2,1998-01-22,1998-02-10,USA,Rogede sild,5,19.0
+4,15,0.0,1998-02-19,1998-02-27,Belgium,Rogede sild,5,8.0
+24,30,0.0,1998-03-17,1998-03-20,Venezuela,Rogede sild,5,3.0
+48,20,0.0,1998-04-09,1998-04-10,Spain,Rogede sild,5,1.0
+31,15,0.15000001,1996-08-22,1996-08-28,Brazil,Spegesild,95,6.0
+32,30,0.0,1996-10-08,1996-10-10,USA,Spegesild,95,2.0
+16,45,0.0,1996-12-23,1996-12-26,Austria,Spegesild,95,3.0
+43,28,0.1,1996-12-26,1997-01-03,Venezuela,Spegesild,95,8.0
+59,2,0.25,1997-01-16,1997-01-28,Denmark,Spegesild,95,12.0
+55,20,0.0,1997-01-28,1997-02-04,Italy,Spegesild,95,7.0
+57,5,0.0,1997-02-05,1997-02-11,France,Spegesild,95,6.0
+70,10,0.2,1997-02-21,1997-02-25,France,Spegesild,95,4.0
+5,20,0.05,1997-02-27,1997-02-28,France,Spegesild,95,1.0
+36,5,0.0,1997-03-06,1997-03-13,Brazil,Spegesild,95,7.0
+8,9,0.15000001,1997-04-21,1997-04-24,Brazil,Spegesild,95,3.0
+51,2,0.25,1997-08-25,1997-09-02,Germany,Spegesild,95,8.0
+60,21,0.1,1997-08-25,1997-09-01,Brazil,Spegesild,95,7.0
+19,45,0.0,1997-09-04,1997-09-15,USA,Spegesild,95,11.0
+47,60,0.0,1997-09-16,1997-09-18,Germany,Spegesild,95,2.0
+19,18,0.0,1997-10-08,1997-10-14,USA,Spegesild,95,6.0
+41,24,0.0,1997-10-22,1997-10-24,USA,Spegesild,95,2.0
+53,28,0.05,1997-11-17,1997-11-21,UK,Spegesild,95,4.0
+53,35,0.0,1998-01-05,1998-01-09,Brazil,Spegesild,95,4.0
+56,21,0.0,1998-02-09,1998-02-12,France,Spegesild,95,3.0
+10,15,0.0,1998-03-11,1998-03-19,UK,Spegesild,95,8.0
+26,9,0.0,1998-03-23,1998-03-30,Brazil,Spegesild,95,7.0
+45,20,0.25,1998-04-03,1998-04-13,Venezuela,Spegesild,95,10.0
+46,25,0.0,1998-04-06,1998-04-14,Sweden,Spegesild,95,8.0
+2,3,0.0,1998-04-13,,Argentina,Spegesild,95,
+17,30,0.15000001,1998-05-06,,Switzerland,Spegesild,95,
+47,3,0.02,1998-05-06,,USA,Spegesild,95,
+56,16,0.2,1996-10-17,1996-10-21,Canada,Zaanse koeken,36,4.0
+58,55,0.0,1997-01-17,1997-01-24,Germany,Zaanse koeken,36,7.0
+10,30,0.25,1997-01-30,1997-02-07,Canada,Zaanse koeken,36,8.0
+71,30,0.0,1997-03-20,1997-03-24,France,Zaanse koeken,36,4.0
+21,6,0.15000001,1997-04-21,1997-04-24,Brazil,Zaanse koeken,36,3.0
+51,25,0.0,1997-06-04,1997-06-10,UK,Zaanse koeken,36,6.0
+61,15,0.0,1997-07-01,1997-07-10,Brazil,Zaanse koeken,36,9.0
+21,6,0.1,1997-09-04,1997-09-10,USA,Zaanse koeken,36,6.0
+54,10,0.0,1997-09-04,1997-09-15,USA,Zaanse koeken,36,11.0
+69,40,0.0,1997-09-26,1997-09-30,Germany,Zaanse koeken,36,4.0
+12,15,0.0,1997-09-29,1997-10-03,Brazil,Zaanse koeken,36,4.0
+16,12,0.0,1997-10-09,1997-10-13,Germany,Zaanse koeken,36,4.0
+36,5,0.0,1997-10-20,1997-10-23,Italy,Zaanse koeken,36,3.0
+62,50,0.25,1997-10-22,1997-10-27,USA,Zaanse koeken,36,5.0
+18,30,0.25,1997-11-26,1997-11-28,France,Zaanse koeken,36,2.0
+30,30,0.0,1997-12-02,1997-12-09,Sweden,Zaanse koeken,36,7.0
+54,40,0.25,1998-01-16,1998-01-23,Sweden,Zaanse koeken,36,7.0
+35,21,0.1,1998-02-06,1998-03-03,Sweden,Zaanse koeken,36,25.0
+71,5,0.0,1998-03-05,1998-03-18,Spain,Zaanse koeken,36,13.0
+44,14,0.0,1998-03-17,1998-03-20,Germany,Zaanse koeken,36,3.0
+2,30,0.0,1998-03-26,1998-04-10,Sweden,Zaanse koeken,36,15.0
+31,70,0.15000001,1997-01-03,1997-01-09,Austria,Chocolade,15,6.0
+68,15,0.1,1997-02-21,1997-02-26,UK,Chocolade,15,5.0
+75,15,0.15000001,1997-04-15,1997-04-22,Mexico,Chocolade,15,7.0
+26,6,0.1,1997-07-18,1997-07-29,Portugal,Chocolade,15,11.0
+10,24,0.0,1997-10-14,1997-11-07,Brazil,Chocolade,15,24.0
+61,8,0.15000001,1998-01-05,1998-01-14,France,Chocolade,15,9.0
+41,40,0.0,1996-07-10,1996-07-16,Brazil,Maxilaku,10,6.0
+52,15,0.0,1996-08-27,1996-09-03,Brazil,Maxilaku,10,7.0
+55,30,0.0,1996-09-12,1996-09-17,Mexico,Maxilaku,10,5.0
+4,35,0.0,1996-11-22,1996-12-02,France,Maxilaku,10,10.0
+11,30,0.0,1997-01-01,1997-01-16,UK,Maxilaku,10,15.0
+17,30,0.05,1997-01-03,1997-01-08,Italy,Maxilaku,10,5.0
+56,21,0.15000001,1997-02-25,1997-02-28,Germany,Maxilaku,10,3.0
+59,24,0.0,1997-03-20,1997-03-25,Brazil,Maxilaku,10,5.0
+30,25,0.0,1997-04-08,1997-04-16,Venezuela,Maxilaku,10,8.0
+40,6,0.0,1997-05-16,1997-05-23,UK,Maxilaku,10,7.0
+55,25,0.05,1997-07-18,1997-08-08,USA,Maxilaku,10,21.0
+60,18,0.0,1997-07-28,1997-08-01,USA,Maxilaku,10,4.0
+1,4,0.15000001,1997-12-30,1998-01-07,UK,Maxilaku,10,8.0
+21,42,0.1,1998-02-04,1998-02-23,Brazil,Maxilaku,10,19.0
+50,15,0.0,1998-02-06,1998-03-03,Sweden,Maxilaku,10,25.0
+16,20,0.15000001,1998-02-11,1998-02-20,USA,Maxilaku,10,9.0
+31,10,0.0,1998-02-26,1998-03-04,Finland,Maxilaku,10,6.0
+65,28,0.0,1998-03-11,1998-03-18,Italy,Maxilaku,10,7.0
+21,40,0.0,1998-03-23,1998-04-02,Germany,Maxilaku,10,10.0
+51,2,0.0,1998-04-13,,Argentina,Maxilaku,10,
+76,60,0.0,1998-04-21,,Venezuela,Maxilaku,10,
+14,15,0.1,1996-11-11,1996-12-03,France,Valkoinen suklaa,65,22.0
+28,15,0.0,1996-12-16,1996-12-18,UK,Valkoinen suklaa,65,2.0
+52,40,0.0,1997-01-29,1997-02-07,Ireland,Valkoinen suklaa,65,9.0
+6,25,0.0,1997-03-05,1997-03-14,Denmark,Valkoinen suklaa,65,9.0
+30,25,0.05,1997-08-19,1997-08-26,Brazil,Valkoinen suklaa,65,7.0
+76,40,0.0,1997-11-04,1997-11-14,Venezuela,Valkoinen suklaa,65,10.0
+61,20,0.1,1997-11-24,1997-12-03,Switzerland,Valkoinen suklaa,65,9.0
+77,24,0.0,1998-03-03,1998-03-09,UK,Valkoinen suklaa,65,6.0
+65,9,0.0,1998-03-13,1998-03-19,Spain,Valkoinen suklaa,65,6.0
+75,22,0.0,1998-05-05,,Austria,Valkoinen suklaa,65,
+13,40,0.0,1996-07-05,1996-07-10,Germany,Manjimup Dried Apples,20,5.0
+41,35,0.15000001,1996-07-08,1996-07-12,Brazil,Manjimup Dried Apples,20,4.0
+16,2,0.1,1996-08-27,1996-09-04,Brazil,Manjimup Dried Apples,20,8.0
+36,48,0.2,1996-10-22,1996-10-24,Ireland,Manjimup Dried Apples,20,2.0
+52,20,0.0,1996-11-25,1996-11-28,France,Manjimup Dried Apples,20,3.0
+28,18,0.15000001,1996-12-27,1997-01-02,Portugal,Manjimup Dried Apples,20,6.0
+35,18,0.0,1997-03-12,1997-03-19,UK,Manjimup Dried Apples,20,7.0
+45,3,0.0,1997-03-24,1997-04-01,UK,Manjimup Dried Apples,20,8.0
+56,25,0.0,1997-03-26,1997-04-02,Venezuela,Manjimup Dried Apples,20,7.0
+2,6,0.0,1997-05-14,1997-05-19,Switzerland,Manjimup Dried Apples,20,5.0
+3,48,0.15000001,1997-05-27,1997-05-30,Germany,Manjimup Dried Apples,20,3.0
+60,20,0.2,1997-06-02,1997-06-04,USA,Manjimup Dried Apples,20,2.0
+72,20,0.0,1997-06-04,1997-06-10,UK,Manjimup Dried Apples,20,6.0
+46,50,0.0,1997-06-06,1997-06-09,Sweden,Manjimup Dried Apples,20,3.0
+40,3,0.0,1997-06-12,1997-06-17,Ireland,Manjimup Dried Apples,20,5.0
+18,15,0.0,1997-08-15,1997-08-21,France,Manjimup Dried Apples,20,6.0
+44,20,0.05,1997-09-10,1997-10-03,France,Manjimup Dried Apples,20,23.0
+59,20,0.0,1997-09-11,1997-09-17,USA,Manjimup Dried Apples,20,6.0
+72,28,0.0,1997-10-17,1997-11-20,Brazil,Manjimup Dried Apples,20,34.0
+13,7,0.0,1997-10-24,1997-10-27,Argentina,Manjimup Dried Apples,20,3.0
+42,30,0.05,1997-11-06,1997-11-14,Switzerland,Manjimup Dried Apples,20,8.0
+62,28,0.0,1997-12-02,1997-12-09,Sweden,Manjimup Dried Apples,20,7.0
+69,120,0.05,1997-12-15,1997-12-18,Austria,Manjimup Dried Apples,20,3.0
+31,10,0.1,1997-12-26,1998-01-05,UK,Manjimup Dried Apples,20,10.0
+41,30,0.25,1997-12-29,1998-01-02,Denmark,Manjimup Dried Apples,20,4.0
+63,6,0.0,1998-01-08,1998-01-15,USA,Manjimup Dried Apples,20,7.0
+69,4,0.25,1998-01-21,1998-01-26,France,Manjimup Dried Apples,20,5.0
+23,3,0.0,1998-01-29,1998-02-04,France,Manjimup Dried Apples,20,6.0
+40,2,0.0,1998-02-04,1998-02-13,Poland,Manjimup Dried Apples,20,9.0
+56,40,0.0,1998-03-13,1998-03-19,Spain,Manjimup Dried Apples,20,6.0
+56,8,0.0,1998-03-17,1998-03-20,Germany,Manjimup Dried Apples,20,3.0
+59,16,0.0,1998-03-20,1998-03-30,USA,Manjimup Dried Apples,20,10.0
+76,10,0.0,1998-03-26,1998-04-10,Sweden,Manjimup Dried Apples,20,15.0
+14,20,0.0,1998-04-02,1998-04-06,Mexico,Manjimup Dried Apples,20,4.0
+45,15,0.05,1998-04-03,1998-04-10,Germany,Manjimup Dried Apples,20,7.0
+59,44,0.25,1998-04-14,1998-04-21,Germany,Manjimup Dried Apples,20,7.0
+26,10,0.0,1998-04-15,1998-04-28,Italy,Manjimup Dried Apples,20,13.0
+30,24,0.0,1998-04-23,,Canada,Manjimup Dried Apples,20,
+50,20,0.0,1998-04-28,1998-05-05,Venezuela,Manjimup Dried Apples,20,7.0
+73,20,0.0,1996-10-04,1996-10-23,Mexico,Filo Mix,38,19.0
+1,8,0.0,1996-10-21,1996-10-28,France,Filo Mix,38,7.0
+69,20,0.2,1996-12-19,1996-12-20,UK,Filo Mix,38,1.0
+45,15,0.1,1997-02-14,1997-02-19,Germany,Filo Mix,38,5.0
+74,20,0.0,1997-02-18,1997-02-27,France,Filo Mix,38,9.0
+40,6,0.0,1997-04-24,1997-04-29,UK,Filo Mix,38,5.0
+47,30,0.0,1997-06-04,1997-06-10,UK,Filo Mix,38,6.0
+56,70,0.0,1997-06-10,1997-06-24,Brazil,Filo Mix,38,14.0
+57,4,0.15000001,1997-07-02,1997-07-09,Italy,Filo Mix,38,7.0
+69,24,0.0,1997-07-09,1997-07-16,USA,Filo Mix,38,7.0
+18,5,0.0,1997-08-05,1997-08-14,Canada,Filo Mix,38,9.0
+36,9,0.0,1997-09-26,1997-10-01,France,Filo Mix,38,5.0
+68,4,0.0,1997-10-31,1997-11-05,Brazil,Filo Mix,38,5.0
+69,25,0.0,1997-11-07,1997-11-10,Sweden,Filo Mix,38,3.0
+34,18,0.0,1997-11-12,1997-11-17,France,Filo Mix,38,5.0
+59,60,0.0,1997-11-28,1997-12-04,Switzerland,Filo Mix,38,6.0
+62,15,0.05,1997-12-08,1997-12-12,Denmark,Filo Mix,38,4.0
+64,8,0.0,1997-12-24,1998-01-08,UK,Filo Mix,38,15.0
+26,20,0.0,1998-01-01,1998-01-07,Brazil,Filo Mix,38,6.0
+52,8,0.0,1998-01-30,1998-02-02,Germany,Filo Mix,38,3.0
+70,14,0.05,1998-02-26,1998-03-06,Italy,Filo Mix,38,8.0
+32,12,0.15000001,1998-03-04,1998-03-13,Brazil,Filo Mix,38,9.0
+25,5,0.0,1998-03-05,1998-04-08,France,Filo Mix,38,34.0
+27,6,0.05,1998-03-19,1998-03-30,Brazil,Filo Mix,38,11.0
+43,40,0.2,1998-03-24,1998-04-24,Spain,Filo Mix,38,31.0
+25,20,0.25,1998-04-03,1998-04-13,Venezuela,Filo Mix,38,10.0
+75,10,0.0,1998-04-06,1998-04-08,USA,Filo Mix,38,2.0
+39,2,0.0,1998-04-21,1998-04-30,Belgium,Filo Mix,38,9.0
+47,2,0.0,1998-05-06,,USA,Filo Mix,38,
+51,15,0.0,1996-07-15,1996-07-17,Brazil,Perth Pasties,0,2.0
+56,36,0.2,1996-08-20,1996-08-26,Germany,Perth Pasties,0,6.0
+21,10,0.0,1996-09-16,1996-09-23,Spain,Perth Pasties,0,7.0
+22,20,0.0,1996-09-23,1996-10-03,Germany,Perth Pasties,0,10.0
+24,20,0.1,1996-12-12,1997-01-16,Ireland,Perth Pasties,0,35.0
+3,40,0.0,1996-12-19,1996-12-20,UK,Perth Pasties,0,1.0
+39,70,0.1,1996-12-26,1997-01-03,Venezuela,Perth Pasties,0,8.0
+65,10,0.0,1997-01-16,1997-01-27,Finland,Perth Pasties,0,11.0
+2,15,0.15000001,1997-01-21,1997-01-27,Brazil,Perth Pasties,0,6.0
+7,15,0.0,1997-02-05,1997-02-12,Finland,Perth Pasties,0,7.0
+68,50,0.0,1997-02-24,1997-03-03,Finland,Perth Pasties,0,7.0
+42,28,0.0,1997-03-19,1997-03-21,USA,Perth Pasties,0,2.0
+22,6,0.0,1997-04-10,1997-04-29,Mexico,Perth Pasties,0,19.0
+31,10,0.0,1997-04-11,1997-04-18,USA,Perth Pasties,0,7.0
+60,5,0.0,1997-04-29,1997-05-01,Norway,Perth Pasties,0,2.0
+71,18,0.0,1997-06-04,1997-06-10,UK,Perth Pasties,0,6.0
+41,25,0.0,1997-06-19,1997-06-20,Mexico,Perth Pasties,0,1.0
+52,12,0.0,1997-08-11,1997-08-20,Sweden,Perth Pasties,0,9.0
+61,25,0.05,1997-08-29,1997-09-03,Brazil,Perth Pasties,0,5.0
+62,10,0.0,1997-09-19,1997-09-23,Germany,Perth Pasties,0,4.0
+11,120,0.0,1997-10-21,1997-10-29,USA,Perth Pasties,0,8.0
+71,3,0.05,1997-10-21,1997-10-31,Ireland,Perth Pasties,0,10.0
+29,20,0.0,1998-01-09,1998-01-14,Germany,Perth Pasties,0,5.0
+59,9,0.1,1998-01-15,1998-01-23,Germany,Perth Pasties,0,8.0
+17,3,0.0,1998-02-03,1998-02-11,USA,Perth Pasties,0,8.0
+31,2,0.0,1998-03-06,1998-03-16,UK,Perth Pasties,0,10.0
+75,20,0.0,1998-03-19,1998-03-23,Germany,Perth Pasties,0,4.0
+31,70,0.1,1998-04-17,1998-04-23,Switzerland,Perth Pasties,0,6.0
+66,10,0.2,1998-04-30,,Italy,Perth Pasties,0,
+10,25,0.1,1998-05-01,1998-05-04,USA,Perth Pasties,0,3.0
+67,10,0.1,1996-08-23,1996-09-03,Italy,Tourtière,21,11.0
+31,5,0.0,1996-09-16,1996-09-23,Spain,Tourtière,21,7.0
+42,15,0.0,1996-10-16,1996-10-21,France,Tourtière,21,5.0
+45,24,0.0,1996-11-08,1996-11-15,USA,Tourtière,21,7.0
+51,20,0.15000001,1996-11-12,1996-11-18,Portugal,Tourtière,21,6.0
+42,28,0.0,1996-11-22,1996-12-02,France,Tourtière,21,10.0
+41,24,0.0,1996-11-25,1996-11-28,France,Tourtière,21,3.0
+16,18,0.0,1996-11-28,1996-12-02,Denmark,Tourtière,21,4.0
+62,10,0.0,1996-12-06,1996-12-09,USA,Tourtière,21,3.0
+70,6,0.0,1997-01-08,1997-01-14,France,Tourtière,21,6.0
+77,40,0.0,1997-01-31,1997-02-07,USA,Tourtière,21,7.0
+54,80,0.0,1997-02-11,1997-02-18,Austria,Tourtière,21,7.0
+56,15,0.0,1997-02-13,1997-02-20,Sweden,Tourtière,21,7.0
+74,6,0.2,1997-02-19,1997-03-11,France,Tourtière,21,20.0
+31,24,0.25,1997-03-26,1997-03-28,Brazil,Tourtière,21,2.0
+31,20,0.0,1997-04-09,1997-04-16,Germany,Tourtière,21,7.0
+38,15,0.0,1997-05-01,1997-05-07,Sweden,Tourtière,21,6.0
+36,10,0.2,1997-05-12,1997-05-14,Germany,Tourtière,21,2.0
+39,24,0.05,1997-05-20,1997-05-26,Germany,Tourtière,21,6.0
+72,50,0.0,1997-07-07,1997-07-16,Denmark,Tourtière,21,9.0
+10,4,0.0,1997-07-16,1997-07-21,USA,Tourtière,21,5.0
+75,30,0.0,1997-08-29,1997-09-03,Brazil,Tourtière,21,5.0
+8,6,0.1,1997-09-02,1997-09-11,Sweden,Tourtière,21,9.0
+30,30,0.0,1997-09-23,1997-10-16,USA,Tourtière,21,23.0
+75,60,0.15000001,1997-10-06,1997-10-10,USA,Tourtière,21,4.0
+2,15,0.0,1997-10-24,1997-10-29,Germany,Tourtière,21,5.0
+29,40,0.25,1997-10-27,1997-11-05,USA,Tourtière,21,9.0
+19,3,0.2,1997-12-17,1997-12-19,Finland,Tourtière,21,2.0
+75,3,0.0,1997-12-23,1997-12-31,Poland,Tourtière,21,8.0
+18,6,0.2,1997-12-24,1998-01-02,Brazil,Tourtière,21,9.0
+35,7,0.1,1997-12-26,1998-01-05,UK,Tourtière,21,10.0
+63,35,0.25,1998-01-29,1998-02-02,Germany,Tourtière,21,4.0
+68,32,0.15000001,1998-02-11,1998-02-20,USA,Tourtière,21,9.0
+7,10,0.0,1998-02-27,1998-03-02,Mexico,Tourtière,21,3.0
+56,10,0.0,1998-04-20,1998-04-24,Belgium,Tourtière,21,4.0
+29,20,0.25,1998-05-01,,Venezuela,Tourtière,21,
+41,21,0.15000001,1996-07-11,1996-07-23,Switzerland,P�t� chinois,115,12.0
+2,20,0.0,1996-08-14,1996-09-12,Sweden,P�t� chinois,115,29.0
+54,40,0.2,1996-10-30,1996-11-04,Germany,P�t� chinois,115,5.0
+68,12,0.0,1996-11-18,1996-11-27,Germany,P�t� chinois,115,9.0
+41,15,0.0,1996-12-20,1996-12-24,Canada,P�t� chinois,115,4.0
+52,120,0.1,1996-12-30,1997-01-09,USA,P�t� chinois,115,10.0
+14,10,0.25,1997-01-24,1997-02-14,France,P�t� chinois,115,21.0
+54,120,0.1,1997-02-19,1997-03-12,Germany,P�t� chinois,115,21.0
+16,60,0.25,1997-02-28,1997-03-05,Venezuela,P�t� chinois,115,5.0
+17,2,0.05,1997-03-17,1997-03-24,Venezuela,P�t� chinois,115,7.0
+26,30,0.1,1997-03-25,1997-03-31,Venezuela,P�t� chinois,115,6.0
+44,14,0.0,1997-05-07,1997-05-09,Belgium,P�t� chinois,115,2.0
+64,18,0.05,1997-06-05,1997-06-13,France,P�t� chinois,115,8.0
+69,25,0.05,1997-06-10,1997-06-16,USA,P�t� chinois,115,6.0
+11,20,0.2,1997-07-22,1997-07-31,Brazil,P�t� chinois,115,9.0
+62,5,0.0,1997-07-30,1997-08-06,Finland,P�t� chinois,115,7.0
+72,12,0.05,1997-08-13,1997-08-19,Germany,P�t� chinois,115,6.0
+13,4,0.1,1997-09-15,1997-09-23,Germany,P�t� chinois,115,8.0
+24,21,0.0,1997-10-16,1997-10-23,UK,P�t� chinois,115,7.0
+59,6,0.0,1997-10-31,1997-11-05,Brazil,P�t� chinois,115,5.0
+11,12,0.0,1997-11-04,1997-11-11,Brazil,P�t� chinois,115,7.0
+51,60,0.25,1997-12-29,1998-01-02,Denmark,P�t� chinois,115,4.0
+54,10,0.05,1998-02-05,1998-02-09,Spain,P�t� chinois,115,4.0
+17,30,0.15000001,1998-02-23,1998-03-03,Sweden,P�t� chinois,115,8.0
+29,25,0.2,1998-03-06,1998-03-18,Belgium,P�t� chinois,115,12.0
+30,4,0.0,1998-03-13,1998-03-19,Spain,P�t� chinois,115,6.0
+51,65,0.15000001,1998-04-01,1998-04-07,Austria,P�t� chinois,115,6.0
+55,6,0.0,1998-04-06,1998-04-14,Sweden,P�t� chinois,115,8.0
+62,40,0.0,1998-04-06,1998-04-16,USA,P�t� chinois,115,10.0
+19,35,0.0,1998-04-16,1998-04-22,Germany,P�t� chinois,115,6.0
+25,35,0.0,1998-04-28,1998-05-01,UK,P�t� chinois,115,3.0
+59,4,0.1,1998-05-01,1998-05-04,USA,P�t� chinois,115,3.0
+10,2,0.0,1998-05-06,,USA,P�t� chinois,115,
+28,2,0.0,1996-07-22,1996-07-25,USA,Gnocchi di nonna Alice,21,3.0
+49,4,0.0,1996-09-02,1996-09-10,France,Gnocchi di nonna Alice,21,8.0
+34,20,0.0,1996-09-09,1996-09-17,Germany,Gnocchi di nonna Alice,21,8.0
+38,12,0.05,1996-10-15,1996-10-23,USA,Gnocchi di nonna Alice,21,8.0
+2,20,0.0,1996-11-05,1996-11-08,USA,Gnocchi di nonna Alice,21,3.0
+65,18,0.25,1996-12-02,1996-12-09,USA,Gnocchi di nonna Alice,21,7.0
+74,20,0.0,1996-12-16,1996-12-18,UK,Gnocchi di nonna Alice,21,2.0
+40,70,0.0,1997-01-01,1997-01-10,USA,Gnocchi di nonna Alice,21,9.0
+56,5,0.0,1997-01-27,1997-02-06,Spain,Gnocchi di nonna Alice,21,10.0
+76,30,0.0,1997-01-30,1997-02-03,Austria,Gnocchi di nonna Alice,21,4.0
+52,28,0.0,1997-02-03,1997-03-04,Portugal,Gnocchi di nonna Alice,21,29.0
+13,40,0.1,1997-02-05,1997-02-11,France,Gnocchi di nonna Alice,21,6.0
+25,15,0.0,1997-02-26,1997-03-04,Belgium,Gnocchi di nonna Alice,21,6.0
+70,30,0.2,1997-03-04,1997-03-14,Portugal,Gnocchi di nonna Alice,21,10.0
+19,20,0.0,1997-03-11,1997-03-18,UK,Gnocchi di nonna Alice,21,7.0
+23,30,0.0,1997-04-02,1997-04-09,Brazil,Gnocchi di nonna Alice,21,7.0
+40,14,0.0,1997-04-04,1997-04-07,Germany,Gnocchi di nonna Alice,21,3.0
+31,70,0.0,1997-04-22,1997-05-16,Austria,Gnocchi di nonna Alice,21,24.0
+72,40,0.0,1997-04-28,1997-05-01,Switzerland,Gnocchi di nonna Alice,21,3.0
+77,30,0.15000001,1997-05-05,1997-05-15,Finland,Gnocchi di nonna Alice,21,10.0
+2,40,0.2,1997-06-02,1997-06-04,USA,Gnocchi di nonna Alice,21,2.0
+46,60,0.05,1997-06-17,1997-06-19,Canada,Gnocchi di nonna Alice,21,2.0
+41,5,0.2,1997-07-11,1997-08-12,USA,Gnocchi di nonna Alice,21,32.0
+43,28,0.0,1997-07-23,1997-08-01,Germany,Gnocchi di nonna Alice,21,9.0
+48,14,0.0,1997-07-31,1997-08-05,USA,Gnocchi di nonna Alice,21,5.0
+61,20,0.0,1997-08-01,1997-08-08,Canada,Gnocchi di nonna Alice,21,7.0
+33,60,0.05,1997-08-19,1997-08-26,Brazil,Gnocchi di nonna Alice,21,7.0
+38,45,0.0,1997-09-04,1997-09-15,USA,Gnocchi di nonna Alice,21,11.0
+62,12,0.15000001,1997-09-10,1997-09-19,Portugal,Gnocchi di nonna Alice,21,9.0
+26,20,0.25,1997-10-02,1997-10-03,Brazil,Gnocchi di nonna Alice,21,1.0
+38,30,0.0,1997-10-21,1997-10-31,Ireland,Gnocchi di nonna Alice,21,10.0
+40,18,0.25,1997-10-22,1997-10-27,USA,Gnocchi di nonna Alice,21,5.0
+62,10,0.05,1997-11-03,1997-12-05,Italy,Gnocchi di nonna Alice,21,32.0
+32,14,0.2,1997-11-13,1997-11-25,USA,Gnocchi di nonna Alice,21,12.0
+41,28,0.0,1997-11-20,1997-11-28,USA,Gnocchi di nonna Alice,21,8.0
+43,15,0.0,1997-11-20,1997-12-19,UK,Gnocchi di nonna Alice,21,29.0
+75,30,0.25,1997-11-26,1997-11-28,France,Gnocchi di nonna Alice,21,2.0
+56,60,0.0,1997-12-02,1997-12-09,Sweden,Gnocchi di nonna Alice,21,7.0
+35,20,0.2,1997-12-17,1997-12-19,Finland,Gnocchi di nonna Alice,21,2.0
+51,20,0.15000001,1997-12-22,1997-12-26,Brazil,Gnocchi di nonna Alice,21,4.0
+62,20,0.15000001,1998-01-01,1998-01-09,USA,Gnocchi di nonna Alice,21,8.0
+70,30,0.0,1998-01-07,1998-01-13,USA,Gnocchi di nonna Alice,21,6.0
+11,30,0.0,1998-01-20,1998-01-29,Belgium,Gnocchi di nonna Alice,21,9.0
+57,24,0.0,1998-01-27,1998-02-04,USA,Gnocchi di nonna Alice,21,8.0
+59,21,0.05,1998-02-12,1998-02-13,USA,Gnocchi di nonna Alice,21,1.0
+77,16,0.0,1998-02-19,1998-02-27,Belgium,Gnocchi di nonna Alice,21,8.0
+41,18,0.0,1998-03-12,1998-03-13,Canada,Gnocchi di nonna Alice,21,1.0
+70,12,0.15000001,1998-03-20,1998-04-08,Switzerland,Gnocchi di nonna Alice,21,19.0
+26,5,0.0,1998-04-13,1998-04-16,USA,Gnocchi di nonna Alice,21,3.0
+53,20,0.0,1998-04-16,1998-04-27,Switzerland,Gnocchi di nonna Alice,21,11.0
+31,15,0.05,1996-07-08,1996-07-15,France,Ravioli Angelo,36,7.0
+57,50,0.0,1996-07-19,1996-07-29,Germany,Ravioli Angelo,36,10.0
+10,2,0.0,1996-08-15,1996-08-21,Spain,Ravioli Angelo,36,6.0
+39,16,0.0,1996-10-10,1996-10-14,Spain,Ravioli Angelo,36,4.0
+20,25,0.0,1996-11-15,1996-11-20,UK,Ravioli Angelo,36,5.0
+38,25,0.0,1996-11-29,1996-12-02,Austria,Ravioli Angelo,36,3.0
+2,20,0.0,1997-01-16,1997-01-27,Finland,Ravioli Angelo,36,11.0
+8,15,0.2,1997-02-06,1997-02-14,Germany,Ravioli Angelo,36,8.0
+13,5,0.1,1997-05-13,1997-05-21,Mexico,Ravioli Angelo,36,8.0
+60,6,0.0,1997-06-24,1997-07-25,UK,Ravioli Angelo,36,31.0
+6,4,0.0,1997-06-27,1997-07-14,Germany,Ravioli Angelo,36,17.0
+39,20,0.0,1997-07-11,1997-07-18,Austria,Ravioli Angelo,36,7.0
+60,40,0.0,1997-10-16,1997-10-23,UK,Ravioli Angelo,36,7.0
+68,14,0.25,1997-11-26,1997-11-28,France,Ravioli Angelo,36,2.0
+19,15,0.0,1998-01-09,1998-01-13,Venezuela,Ravioli Angelo,36,4.0
+35,15,0.0,1998-01-12,1998-02-06,France,Ravioli Angelo,36,25.0
+38,24,0.0,1998-01-16,1998-01-21,Austria,Ravioli Angelo,36,5.0
+43,10,0.05,1998-01-26,1998-02-02,Brazil,Ravioli Angelo,36,7.0
+13,20,0.0,1998-02-27,1998-03-09,Argentina,Ravioli Angelo,36,10.0
+25,30,0.0,1998-03-06,1998-03-19,Switzerland,Ravioli Angelo,36,13.0
+44,15,0.0,1998-03-27,1998-04-06,USA,Ravioli Angelo,36,10.0
+64,28,0.0,1998-04-21,,Venezuela,Ravioli Angelo,36,
+7,20,0.0,1998-04-28,1998-05-05,Venezuela,Ravioli Angelo,36,7.0
+31,30,0.1,1996-09-25,1996-10-04,USA,Escargots de Bourgogne,62,9.0
+53,30,0.2,1996-10-11,1996-10-14,Sweden,Escargots de Bourgogne,62,3.0
+29,80,0.2,1996-12-05,1996-12-11,Ireland,Escargots de Bourgogne,62,6.0
+30,15,0.0,1996-12-05,1996-12-09,Poland,Escargots de Bourgogne,62,4.0
+59,20,0.0,1997-05-14,1997-05-19,Switzerland,Escargots de Bourgogne,62,5.0
+77,30,0.0,1997-07-09,1997-07-16,USA,Escargots de Bourgogne,62,7.0
+22,6,0.0,1997-08-19,1997-08-26,Finland,Escargots de Bourgogne,62,7.0
+35,49,0.2,1997-09-09,1997-09-15,Ireland,Escargots de Bourgogne,62,6.0
+57,30,0.0,1997-09-19,1997-09-23,Germany,Escargots de Bourgogne,62,4.0
+60,30,0.25,1997-10-08,1997-10-14,Venezuela,Escargots de Bourgogne,62,6.0
+64,12,0.25,1997-10-22,1997-10-27,USA,Escargots de Bourgogne,62,5.0
+13,30,0.1,1998-01-19,1998-01-22,Brazil,Escargots de Bourgogne,62,3.0
+40,60,0.1,1998-01-21,1998-01-30,Germany,Escargots de Bourgogne,62,9.0
+47,12,0.15000001,1998-02-02,1998-02-17,Venezuela,Escargots de Bourgogne,62,15.0
+76,15,0.0,1998-02-24,1998-02-27,USA,Escargots de Bourgogne,62,3.0
+1,15,0.0,1998-02-26,1998-03-04,Brazil,Escargots de Bourgogne,62,6.0
+18,30,0.2,1998-03-06,1998-03-18,Belgium,Escargots de Bourgogne,62,12.0
+36,40,0.05,1998-04-09,1998-04-13,Germany,Escargots de Bourgogne,62,4.0
+58,30,0.0,1996-07-12,1996-07-15,Switzerland,Raclette Courdavault,79,3.0
+72,70,0.15000001,1996-07-29,1996-08-06,Germany,Raclette Courdavault,79,8.0
+25,6,0.05,1996-08-07,1996-08-09,Italy,Raclette Courdavault,79,2.0
+39,15,0.0,1996-08-12,1996-08-16,Sweden,Raclette Courdavault,79,4.0
+10,30,0.25,1996-09-05,1996-09-11,Ireland,Raclette Courdavault,79,6.0
+56,10,0.0,1996-09-12,1996-09-17,Mexico,Raclette Courdavault,79,5.0
+59,40,0.15000001,1996-10-08,1996-10-10,USA,Raclette Courdavault,79,2.0
+77,9,0.0,1996-10-14,1996-10-17,Portugal,Raclette Courdavault,79,3.0
+11,9,0.15000001,1996-10-29,1996-11-05,Denmark,Raclette Courdavault,79,7.0
+43,12,0.0,1996-12-18,1996-12-20,Norway,Raclette Courdavault,79,2.0
+68,16,0.0,1997-01-10,1997-01-15,Canada,Raclette Courdavault,79,5.0
+70,9,0.2,1997-01-10,1997-01-21,Canada,Raclette Courdavault,79,11.0
+51,20,0.0,1997-01-23,1997-02-24,Brazil,Raclette Courdavault,79,32.0
+22,70,0.2,1997-01-30,1997-02-03,Austria,Raclette Courdavault,79,4.0
+23,36,0.0,1997-02-25,1997-03-03,Germany,Raclette Courdavault,79,6.0
+35,60,0.0,1997-03-19,1997-03-21,USA,Raclette Courdavault,79,2.0
+42,12,0.0,1997-03-20,1997-03-24,France,Raclette Courdavault,79,4.0
+58,30,0.0,1997-03-27,1997-04-02,Germany,Raclette Courdavault,79,6.0
+64,60,0.0,1997-03-31,1997-04-03,Venezuela,Raclette Courdavault,79,3.0
+4,4,0.0,1997-04-24,1997-04-29,UK,Raclette Courdavault,79,5.0
+70,2,0.0,1997-05-08,1997-05-19,Argentina,Raclette Courdavault,79,11.0
+74,15,0.1,1997-05-13,1997-05-21,Mexico,Raclette Courdavault,79,8.0
+1,40,0.2,1997-06-12,1997-06-17,Ireland,Raclette Courdavault,79,5.0
+19,12,0.0,1997-06-20,1997-06-30,Germany,Raclette Courdavault,79,10.0
+37,35,0.0,1997-07-16,1997-07-22,Venezuela,Raclette Courdavault,79,6.0
+45,20,0.05,1997-07-21,1997-07-29,Canada,Raclette Courdavault,79,8.0
+60,30,0.15000001,1997-07-31,1997-08-04,USA,Raclette Courdavault,79,4.0
+71,1,0.0,1997-09-11,1997-09-17,USA,Raclette Courdavault,79,6.0
+5,12,0.0,1997-09-23,1997-09-30,France,Raclette Courdavault,79,7.0
+9,25,0.0,1997-10-06,1997-10-09,Germany,Raclette Courdavault,79,3.0
+3,42,0.15000001,1997-10-13,1997-10-15,Ireland,Raclette Courdavault,79,2.0
+26,35,0.0,1997-10-14,1997-10-20,Sweden,Raclette Courdavault,79,6.0
+25,8,0.0,1997-10-16,1997-10-21,USA,Raclette Courdavault,79,5.0
+33,10,0.05,1997-11-03,1997-12-05,Italy,Raclette Courdavault,79,32.0
+70,45,0.0,1997-11-18,1997-11-27,Germany,Raclette Courdavault,79,9.0
+2,6,0.0,1997-11-20,1997-12-19,UK,Raclette Courdavault,79,29.0
+25,25,0.15000001,1997-11-21,1997-11-24,Finland,Raclette Courdavault,79,3.0
+57,7,0.0,1997-11-27,1997-12-15,USA,Raclette Courdavault,79,18.0
+59,25,0.0,1997-12-10,1997-12-19,Germany,Raclette Courdavault,79,9.0
+2,25,0.0,1997-12-26,1998-01-05,Germany,Raclette Courdavault,79,10.0
+17,15,0.05,1997-12-30,1998-01-06,Brazil,Raclette Courdavault,79,7.0
+62,40,0.1,1998-01-09,1998-01-13,Venezuela,Raclette Courdavault,79,4.0
+18,15,0.0,1998-01-15,1998-01-21,Germany,Raclette Courdavault,79,6.0
+10,50,0.0,1998-01-20,1998-01-29,Belgium,Raclette Courdavault,79,9.0
+13,42,0.05,1998-01-26,1998-02-02,Brazil,Raclette Courdavault,79,7.0
+16,40,0.05,1998-02-17,1998-02-19,Belgium,Raclette Courdavault,79,2.0
+31,4,0.0,1998-03-13,1998-03-16,UK,Raclette Courdavault,79,3.0
+56,18,0.05,1998-04-02,1998-04-09,Denmark,Raclette Courdavault,79,7.0
+65,10,0.0,1998-04-07,1998-04-10,Finland,Raclette Courdavault,79,3.0
+2,110,0.0,1998-04-13,1998-04-20,Austria,Raclette Courdavault,79,7.0
+42,24,0.0,1998-04-16,1998-04-22,Germany,Raclette Courdavault,79,6.0
+3,100,0.25,1998-04-17,1998-04-27,USA,Raclette Courdavault,79,10.0
+26,30,0.0,1998-04-17,1998-04-23,USA,Raclette Courdavault,79,6.0
+29,30,0.0,1998-04-20,1998-04-22,Germany,Raclette Courdavault,79,2.0
+7,40,0.0,1996-07-09,1996-07-11,Belgium,Camembert Pierrot,19,2.0
+27,35,0.0,1996-08-16,1996-08-23,Venezuela,Camembert Pierrot,19,7.0
+70,20,0.25,1996-08-19,1996-08-27,Germany,Camembert Pierrot,19,8.0
+24,21,0.0,1996-08-30,1996-09-05,USA,Camembert Pierrot,19,6.0
+54,8,0.2,1996-11-19,1996-12-02,Venezuela,Camembert Pierrot,19,13.0
+64,80,0.05,1996-11-21,1996-11-26,UK,Camembert Pierrot,19,5.0
+51,55,0.1,1996-11-22,1996-12-03,Germany,Camembert Pierrot,19,11.0
+76,70,0.25,1996-12-04,1996-12-09,Brazil,Camembert Pierrot,19,5.0
+17,6,0.1,1996-12-12,1997-01-16,Ireland,Camembert Pierrot,19,35.0
+18,15,0.0,1996-12-16,1996-12-20,Sweden,Camembert Pierrot,19,4.0
+21,20,0.2,1996-12-17,1996-12-23,USA,Camembert Pierrot,19,6.0
+33,60,0.05,1997-01-20,1997-01-30,Switzerland,Camembert Pierrot,19,10.0
+62,20,0.0,1997-03-04,1997-03-14,Portugal,Camembert Pierrot,19,10.0
+11,40,0.0,1997-03-20,1997-03-25,Brazil,Camembert Pierrot,19,5.0
+52,12,0.15000001,1997-04-21,1997-04-24,Brazil,Camembert Pierrot,19,3.0
+1,84,0.15000001,1997-04-23,1997-05-23,Germany,Camembert Pierrot,19,30.0
+58,10,0.05,1997-04-28,1997-05-01,Switzerland,Camembert Pierrot,19,3.0
+35,35,0.25,1997-05-14,1997-06-06,Germany,Camembert Pierrot,19,23.0
+67,24,0.15000001,1997-06-30,1997-07-04,Finland,Camembert Pierrot,19,4.0
+38,70,0.05,1997-07-21,1997-07-29,Canada,Camembert Pierrot,19,8.0
+39,15,0.0,1997-07-25,1997-08-01,Poland,Camembert Pierrot,19,7.0
+2,40,0.0,1997-07-28,1997-08-01,USA,Camembert Pierrot,19,4.0
+24,10,0.0,1997-08-08,1997-08-14,Mexico,Camembert Pierrot,19,6.0
+30,20,0.0,1997-08-11,1997-08-20,Sweden,Camembert Pierrot,19,9.0
+53,20,0.1,1997-09-02,1997-09-19,Germany,Camembert Pierrot,19,17.0
+26,30,0.0,1997-09-04,1997-09-15,USA,Camembert Pierrot,19,11.0
+35,55,0.05,1997-09-05,1997-09-08,Germany,Camembert Pierrot,19,3.0
+49,30,0.0,1997-09-26,1997-09-30,Germany,Camembert Pierrot,19,4.0
+1,10,0.0,1997-10-17,1997-11-20,Brazil,Camembert Pierrot,19,34.0
+11,15,0.0,1997-11-04,1997-11-11,Brazil,Camembert Pierrot,19,7.0
+23,50,0.0,1997-11-14,1997-11-18,Canada,Camembert Pierrot,19,4.0
+68,15,0.0,1997-12-08,1997-12-15,UK,Camembert Pierrot,19,7.0
+35,21,0.0,1998-01-13,1998-01-23,UK,Camembert Pierrot,19,10.0
+51,30,0.0,1998-01-13,1998-01-21,Brazil,Camembert Pierrot,19,8.0
+6,60,0.0,1998-01-16,1998-01-21,Austria,Camembert Pierrot,19,5.0
+16,45,0.2,1998-01-22,1998-02-10,USA,Camembert Pierrot,19,19.0
+17,100,0.0,1998-02-18,1998-02-23,Austria,Camembert Pierrot,19,5.0
+55,10,0.0,1998-03-02,1998-03-11,Spain,Camembert Pierrot,19,9.0
+62,25,0.25,1998-03-02,1998-03-11,Canada,Camembert Pierrot,19,9.0
+64,49,0.25,1998-03-10,1998-03-16,Germany,Camembert Pierrot,19,6.0
+65,24,0.15000001,1998-03-17,1998-03-20,Venezuela,Camembert Pierrot,19,3.0
+21,2,0.15000001,1998-03-19,1998-03-26,Portugal,Camembert Pierrot,19,7.0
+28,4,0.0,1998-04-02,1998-04-06,Mexico,Camembert Pierrot,19,4.0
+10,9,0.0,1998-04-08,1998-04-10,Spain,Camembert Pierrot,19,2.0
+19,36,0.05,1998-04-09,1998-04-17,Germany,Camembert Pierrot,19,8.0
+47,50,0.0,1998-04-28,1998-05-01,UK,Camembert Pierrot,19,3.0
+49,21,0.0,1998-04-29,,Germany,Camembert Pierrot,19,
+46,35,0.0,1998-04-29,,Brazil,Camembert Pierrot,19,
+64,4,0.0,1998-04-30,1998-05-04,Italy,Camembert Pierrot,19,4.0
+16,15,0.0,1998-04-30,,USA,Camembert Pierrot,19,
+18,2,0.06,1998-05-06,,USA,Camembert Pierrot,19,
+20,16,0.0,1997-01-17,1997-01-24,Germany,Sirop d'�rable,113,7.0
+40,90,0.15000001,1997-02-10,1997-02-28,USA,Sirop d'�rable,113,18.0
+65,25,0.0,1997-02-24,1997-03-03,Finland,Sirop d'�rable,113,7.0
+76,25,0.0,1997-04-11,1997-04-18,USA,Sirop d'�rable,113,7.0
+23,15,0.2,1997-04-22,1997-04-28,Germany,Sirop d'�rable,113,6.0
+61,20,0.0,1997-05-08,1997-05-12,Austria,Sirop d'�rable,113,4.0
+70,10,0.1,1997-05-28,1997-06-06,Spain,Sirop d'�rable,113,9.0
+73,120,0.25,1997-07-10,1997-07-14,Austria,Sirop d'�rable,113,4.0
+42,20,0.2,1997-08-22,1997-09-05,Denmark,Sirop d'�rable,113,14.0
+49,10,0.0,1997-10-24,1997-10-27,Argentina,Sirop d'�rable,113,3.0
+54,5,0.0,1997-10-30,1997-11-05,Canada,Sirop d'�rable,113,6.0
+24,20,0.1,1997-11-10,1997-11-21,USA,Sirop d'�rable,113,11.0
+21,20,0.0,1997-12-08,1997-12-12,Denmark,Sirop d'�rable,113,4.0
+56,30,0.15000001,1998-01-05,1998-01-14,France,Sirop d'�rable,113,9.0
+65,30,0.2,1998-02-10,1998-02-18,Sweden,Sirop d'�rable,113,8.0
+2,15,0.0,1998-02-25,1998-03-03,Poland,Sirop d'�rable,113,6.0
+24,5,0.0,1998-02-26,1998-03-04,Finland,Sirop d'�rable,113,6.0
+70,30,0.0,1998-03-06,1998-03-16,UK,Sirop d'�rable,113,10.0
+77,66,0.15000001,1998-04-01,1998-04-07,Austria,Sirop d'�rable,113,6.0
+10,7,0.0,1998-04-03,1998-04-17,Poland,Sirop d'�rable,113,14.0
+31,6,0.0,1998-04-20,1998-04-27,USA,Sirop d'�rable,113,7.0
+77,4,0.0,1998-04-22,1998-05-01,Brazil,Sirop d'�rable,113,9.0
+25,10,0.2,1998-04-27,1998-05-01,Brazil,Sirop d'�rable,113,4.0
+2,4,0.0,1998-04-29,,Germany,Sirop d'�rable,113,
+68,15,0.25,1996-07-19,1996-07-29,Germany,Tarte au sucre,17,10.0
+11,12,0.0,1996-08-09,1996-08-13,Germany,Tarte au sucre,17,4.0
+38,40,0.0,1996-08-21,1996-08-30,Germany,Tarte au sucre,17,9.0
+17,15,0.0,1996-09-05,1996-09-11,Ireland,Tarte au sucre,17,6.0
+34,10,0.0,1996-09-17,1996-09-25,USA,Tarte au sucre,17,8.0
+41,5,0.0,1996-09-20,1996-09-27,USA,Tarte au sucre,17,7.0
+30,25,0.1,1996-09-25,1996-10-04,USA,Tarte au sucre,17,9.0
+59,70,0.0,1996-09-27,1996-10-08,USA,Tarte au sucre,17,11.0
+8,28,0.0,1996-10-28,1996-11-04,Canada,Tarte au sucre,17,7.0
+24,20,0.0,1996-12-20,1996-12-24,Canada,Tarte au sucre,17,4.0
+29,10,0.0,1996-12-25,1997-01-03,USA,Tarte au sucre,17,9.0
+30,35,0.0,1997-01-08,1997-01-14,France,Tarte au sucre,17,6.0
+36,40,0.0,1997-01-14,1997-01-16,France,Tarte au sucre,17,2.0
+13,35,0.0,1997-02-18,1997-02-27,France,Tarte au sucre,17,9.0
+69,3,0.0,1997-04-14,1997-04-21,Canada,Tarte au sucre,17,7.0
+75,40,0.0,1997-05-23,1997-05-27,France,Tarte au sucre,17,4.0
+24,20,0.05,1997-05-30,1997-06-05,Germany,Tarte au sucre,17,6.0
+39,15,0.25,1997-06-06,1997-06-09,Germany,Tarte au sucre,17,3.0
+40,10,0.1,1997-06-09,1997-06-12,Italy,Tarte au sucre,17,3.0
+60,10,0.0,1997-06-19,1997-06-30,USA,Tarte au sucre,17,11.0
+45,10,0.0,1997-07-15,1997-07-21,UK,Tarte au sucre,17,6.0
+56,10,0.2,1997-07-22,1997-07-31,Brazil,Tarte au sucre,17,9.0
+29,15,0.0,1997-08-11,1997-08-21,USA,Tarte au sucre,17,10.0
+30,80,0.15000001,1997-08-15,1997-08-18,Austria,Tarte au sucre,17,3.0
+13,10,0.0,1997-09-17,1997-09-24,France,Tarte au sucre,17,7.0
+39,48,0.0,1997-10-03,1997-10-22,Germany,Tarte au sucre,17,19.0
+70,20,0.0,1997-10-27,1997-10-29,Germany,Tarte au sucre,17,2.0
+41,9,0.0,1997-11-19,1997-11-21,Switzerland,Tarte au sucre,17,2.0
+71,30,0.0,1997-11-27,1997-12-15,USA,Tarte au sucre,17,18.0
+55,15,0.0,1997-12-08,1997-12-12,Denmark,Tarte au sucre,17,4.0
+62,20,0.0,1997-12-16,1998-01-14,Germany,Tarte au sucre,17,29.0
+13,2,0.0,1997-12-26,1998-01-05,UK,Tarte au sucre,17,10.0
+65,5,0.25,1997-12-29,1998-01-02,Denmark,Tarte au sucre,17,4.0
+68,20,0.05,1998-01-06,1998-02-04,USA,Tarte au sucre,17,29.0
+58,25,0.15000001,1998-01-06,1998-01-13,Germany,Tarte au sucre,17,7.0
+62,3,0.0,1998-01-08,1998-01-16,USA,Tarte au sucre,17,8.0
+1,50,0.0,1998-01-26,1998-01-30,USA,Tarte au sucre,17,4.0
+61,3,0.0,1998-01-30,1998-02-17,USA,Tarte au sucre,17,18.0
+75,20,0.05,1998-02-05,1998-02-09,Spain,Tarte au sucre,17,4.0
+7,6,0.15000001,1998-02-23,1998-03-03,Sweden,Tarte au sucre,17,8.0
+52,35,0.0,1998-02-24,1998-02-27,USA,Tarte au sucre,17,3.0
+7,14,0.1,1998-03-06,1998-03-24,France,Tarte au sucre,17,18.0
+16,30,0.25,1998-03-11,1998-03-20,USA,Tarte au sucre,17,9.0
+41,60,0.0,1998-03-13,1998-03-17,Canada,Tarte au sucre,17,4.0
+19,12,0.15000001,1998-03-20,1998-04-08,Switzerland,Tarte au sucre,17,19.0
+49,40,0.1,1998-03-31,1998-04-10,USA,Tarte au sucre,17,10.0
+61,21,0.25,1998-04-16,1998-04-20,Canada,Tarte au sucre,17,4.0
+1,12,0.0,1998-04-23,1998-05-01,Poland,Tarte au sucre,17,8.0
+17,8,0.0,1996-08-12,1996-08-16,Sweden,Vegie-spread,24,4.0
+67,5,0.0,1996-08-29,1996-09-11,Mexico,Vegie-spread,24,13.0
+11,80,0.15000001,1996-10-08,1996-10-10,USA,Vegie-spread,24,2.0
+29,16,0.1,1996-12-11,1996-12-13,Brazil,Vegie-spread,24,2.0
+4,65,0.0,1997-01-02,1997-01-10,Austria,Vegie-spread,24,8.0
+33,35,0.25,1997-01-29,1997-02-07,Ireland,Vegie-spread,24,9.0
+58,6,0.0,1997-06-20,1997-06-30,Germany,Vegie-spread,24,10.0
+71,24,0.2,1997-07-11,1997-08-12,USA,Vegie-spread,24,32.0
+17,20,0.0,1997-10-03,1997-10-13,Germany,Vegie-spread,24,10.0
+33,9,0.0,1997-11-19,1997-11-26,Austria,Vegie-spread,24,7.0
+54,30,0.0,1997-12-22,1997-12-31,France,Vegie-spread,24,9.0
+16,40,0.0,1998-03-03,1998-03-09,Denmark,Vegie-spread,24,6.0
+32,10,0.0,1998-03-25,1998-04-03,USA,Vegie-spread,24,9.0
+57,20,0.0,1998-03-26,1998-04-10,Sweden,Vegie-spread,24,15.0
+30,35,0.0,1998-03-26,1998-03-31,Austria,Vegie-spread,24,5.0
+60,12,0.0,1998-04-16,1998-04-27,Switzerland,Vegie-spread,24,11.0
+1,30,0.0,1998-04-22,1998-04-28,Switzerland,Vegie-spread,24,6.0
+60,9,0.0,1996-08-26,1996-08-28,UK,Wimmers gute Semmelknödel,22,2.0
+16,50,0.0,1996-10-31,1996-11-06,Germany,Wimmers gute Semmelknödel,22,6.0
+25,35,0.1,1996-11-29,1996-12-02,Austria,Wimmers gute Semmelknödel,22,3.0
+40,30,0.0,1996-12-03,1996-12-27,Switzerland,Wimmers gute Semmelknödel,22,24.0
+50,7,0.0,1997-01-27,1997-02-06,Spain,Wimmers gute Semmelknödel,22,10.0
+35,30,0.1,1997-02-05,1997-02-11,France,Wimmers gute Semmelknödel,22,6.0
+63,6,0.0,1997-02-07,1997-02-10,Canada,Wimmers gute Semmelknödel,22,3.0
+17,35,0.1,1997-02-19,1997-03-12,Germany,Wimmers gute Semmelknödel,22,21.0
+24,8,0.0,1997-03-11,1997-03-14,France,Wimmers gute Semmelknödel,22,3.0
+42,30,0.0,1997-03-19,1997-03-21,USA,Wimmers gute Semmelknödel,22,2.0
+43,30,0.0,1997-06-03,1997-06-06,Germany,Wimmers gute Semmelknödel,22,3.0
+67,18,0.1,1997-06-11,1997-06-18,Canada,Wimmers gute Semmelknödel,22,7.0
+10,6,0.0,1997-06-19,1997-06-30,USA,Wimmers gute Semmelknödel,22,11.0
+28,9,0.0,1997-08-12,1997-08-20,Spain,Wimmers gute Semmelknödel,22,8.0
+75,15,0.1,1997-09-15,1997-09-23,Germany,Wimmers gute Semmelknödel,22,8.0
+36,28,0.0,1997-09-25,1997-09-30,USA,Wimmers gute Semmelknödel,22,5.0
+52,24,0.0,1997-11-27,1997-12-15,USA,Wimmers gute Semmelknödel,22,18.0
+11,35,0.2,1997-12-25,1998-01-14,Venezuela,Wimmers gute Semmelknödel,22,20.0
+13,3,0.0,1998-01-14,1998-01-19,France,Wimmers gute Semmelknödel,22,5.0
+19,30,0.0,1998-01-16,1998-01-21,Austria,Wimmers gute Semmelknödel,22,5.0
+72,48,0.0,1998-01-21,1998-01-30,Germany,Wimmers gute Semmelknödel,22,9.0
+20,30,0.25,1998-01-29,1998-02-02,Germany,Wimmers gute Semmelknödel,22,4.0
+52,15,0.05,1998-02-05,1998-02-09,Spain,Wimmers gute Semmelknödel,22,4.0
+76,20,0.0,1998-02-09,1998-02-12,France,Wimmers gute Semmelknödel,22,3.0
+47,8,0.0,1998-03-18,1998-03-27,Venezuela,Wimmers gute Semmelknödel,22,9.0
+76,4,0.0,1998-03-23,1998-04-01,Austria,Wimmers gute Semmelknödel,22,9.0
+21,20,0.0,1998-04-17,1998-04-24,USA,Wimmers gute Semmelknödel,22,7.0
+75,25,0.2,1998-04-27,1998-04-29,Austria,Wimmers gute Semmelknödel,22,2.0
+77,130,0.0,1998-05-05,,Austria,Wimmers gute Semmelknödel,22,
+21,2,0.03,1998-05-06,,USA,Wimmers gute Semmelknödel,22,
+27,15,0.15000001,1996-07-08,1996-07-12,Brazil,Louisiana Fiery Hot Pepper Sauce,76,4.0
+55,20,0.0,1996-07-08,1996-07-15,France,Louisiana Fiery Hot Pepper Sauce,76,7.0
+58,30,0.1,1996-09-11,1996-09-18,Spain,Louisiana Fiery Hot Pepper Sauce,76,7.0
+13,40,0.0,1996-10-14,1996-10-17,Portugal,Louisiana Fiery Hot Pepper Sauce,76,3.0
+57,10,0.05,1996-11-11,1996-11-20,Austria,Louisiana Fiery Hot Pepper Sauce,76,9.0
+16,5,0.0,1996-11-28,1996-12-30,Spain,Louisiana Fiery Hot Pepper Sauce,76,32.0
+62,15,0.0,1996-11-28,1996-12-02,Denmark,Louisiana Fiery Hot Pepper Sauce,76,4.0
+72,20,0.1,1996-12-11,1996-12-13,Brazil,Louisiana Fiery Hot Pepper Sauce,76,2.0
+75,20,0.0,1997-01-01,1997-01-10,USA,Louisiana Fiery Hot Pepper Sauce,76,9.0
+53,35,0.0,1997-02-14,1997-03-07,Brazil,Louisiana Fiery Hot Pepper Sauce,76,21.0
+61,28,0.1,1997-02-19,1997-03-12,Germany,Louisiana Fiery Hot Pepper Sauce,76,21.0
+6,15,0.1,1997-04-02,1997-04-10,France,Louisiana Fiery Hot Pepper Sauce,76,8.0
+1,20,0.0,1997-04-11,1997-04-16,Ireland,Louisiana Fiery Hot Pepper Sauce,76,5.0
+18,39,0.0,1997-04-22,1997-05-16,Austria,Louisiana Fiery Hot Pepper Sauce,76,24.0
+23,36,0.1,1997-05-19,1997-05-29,Brazil,Louisiana Fiery Hot Pepper Sauce,76,10.0
+36,30,0.05,1997-06-26,1997-07-01,Germany,Louisiana Fiery Hot Pepper Sauce,76,5.0
+28,12,0.2,1997-07-11,1997-07-18,Austria,Louisiana Fiery Hot Pepper Sauce,76,7.0
+34,21,0.0,1997-08-20,1997-09-01,Venezuela,Louisiana Fiery Hot Pepper Sauce,76,12.0
+13,15,0.15000001,1997-09-10,1997-09-19,Portugal,Louisiana Fiery Hot Pepper Sauce,76,9.0
+43,10,0.0,1997-09-12,1997-09-22,Switzerland,Louisiana Fiery Hot Pepper Sauce,76,10.0
+60,12,0.0,1997-09-17,1997-09-24,France,Louisiana Fiery Hot Pepper Sauce,76,7.0
+71,65,0.05,1997-10-09,1997-10-17,Austria,Louisiana Fiery Hot Pepper Sauce,76,8.0
+2,10,0.05,1997-11-05,1997-11-14,France,Louisiana Fiery Hot Pepper Sauce,76,9.0
+67,40,0.0,1997-11-11,1997-11-21,Ireland,Louisiana Fiery Hot Pepper Sauce,76,10.0
+7,80,0.1,1997-12-04,1997-12-09,Germany,Louisiana Fiery Hot Pepper Sauce,76,5.0
+13,2,0.0,1997-12-31,1998-01-05,France,Louisiana Fiery Hot Pepper Sauce,76,5.0
+31,15,0.15000001,1998-01-27,1998-02-04,USA,Louisiana Fiery Hot Pepper Sauce,76,8.0
+62,21,0.05,1998-02-05,1998-02-09,Spain,Louisiana Fiery Hot Pepper Sauce,76,4.0
+68,10,0.0,1998-02-10,1998-02-12,Finland,Louisiana Fiery Hot Pepper Sauce,76,2.0
+72,12,0.05,1998-02-12,1998-02-13,USA,Louisiana Fiery Hot Pepper Sauce,76,1.0
+49,21,0.0,1998-02-24,1998-03-04,Brazil,Louisiana Fiery Hot Pepper Sauce,76,8.0
+13,21,0.0,1998-04-15,1998-04-20,UK,Louisiana Fiery Hot Pepper Sauce,76,5.0
+22,30,0.0,1996-09-09,1996-09-18,Italy,Louisiana Hot Spiced Okra,4,9.0
+46,60,0.0,1997-02-11,1997-02-18,Austria,Louisiana Hot Spiced Okra,4,7.0
+11,60,0.15000001,1997-03-14,1997-04-04,Belgium,Louisiana Hot Spiced Okra,4,21.0
+44,10,0.1,1997-04-02,1997-04-10,France,Louisiana Hot Spiced Okra,4,8.0
+56,24,0.0,1997-05-09,1997-05-12,UK,Louisiana Hot Spiced Okra,4,3.0
+13,4,0.0,1997-09-25,1997-10-01,Mexico,Louisiana Hot Spiced Okra,4,6.0
+31,50,0.0,1997-12-11,1997-12-12,Sweden,Louisiana Hot Spiced Okra,4,1.0
+10,1,0.0,1998-05-06,,USA,Louisiana Hot Spiced Okra,4,
+24,5,0.25,1996-08-19,1996-08-27,Germany,Laughing Lumberjack Lager,52,8.0
+77,30,0.0,1997-04-10,1997-04-29,Mexico,Laughing Lumberjack Lager,52,19.0
+59,7,0.0,1997-05-21,1997-05-30,USA,Laughing Lumberjack Lager,52,9.0
+50,25,0.0,1997-09-16,1997-09-18,Germany,Laughing Lumberjack Lager,52,2.0
+51,3,0.0,1997-12-12,1997-12-26,USA,Laughing Lumberjack Lager,52,14.0
+55,15,0.0,1998-02-02,1998-02-09,UK,Laughing Lumberjack Lager,52,7.0
+6,15,0.0,1998-02-26,1998-03-05,Spain,Laughing Lumberjack Lager,52,7.0
+10,24,0.2,1998-03-03,1998-03-13,France,Laughing Lumberjack Lager,52,10.0
+17,40,0.15000001,1998-03-10,1998-03-13,Italy,Laughing Lumberjack Lager,52,3.0
+62,20,0.0,1998-04-28,,Argentina,Laughing Lumberjack Lager,52,
+4,3,0.1,1996-08-23,1996-09-03,Italy,Scottish Longbreads,6,11.0
+33,20,0.0,1996-09-09,1996-09-18,Italy,Scottish Longbreads,6,9.0
+41,15,0.1,1996-09-11,1996-09-18,Spain,Scottish Longbreads,6,7.0
+75,3,0.0,1996-09-17,1996-09-25,USA,Scottish Longbreads,6,8.0
+6,10,0.0,1996-10-14,1996-10-17,Portugal,Scottish Longbreads,6,3.0
+28,10,0.0,1996-10-21,1996-10-28,France,Scottish Longbreads,6,7.0
+20,4,0.05,1996-10-31,1996-11-06,Germany,Scottish Longbreads,6,6.0
+31,8,0.2,1996-12-17,1996-12-23,USA,Scottish Longbreads,6,6.0
+16,60,0.0,1996-12-31,1997-01-08,Denmark,Scottish Longbreads,6,8.0
+31,36,0.25,1997-01-16,1997-01-28,Denmark,Scottish Longbreads,6,12.0
+45,30,0.2,1997-01-23,1997-01-27,Canada,Scottish Longbreads,6,4.0
+60,21,0.25,1997-02-28,1997-03-03,Sweden,Scottish Longbreads,6,3.0
+75,30,0.0,1997-03-31,1997-04-03,Venezuela,Scottish Longbreads,6,3.0
+21,6,0.0,1997-04-29,1997-05-02,Argentina,Scottish Longbreads,6,3.0
+47,20,0.0,1997-05-07,1997-05-09,Belgium,Scottish Longbreads,6,2.0
+51,35,0.0,1997-05-19,1997-06-13,Germany,Scottish Longbreads,6,25.0
+30,15,0.0,1997-08-01,1997-08-08,Canada,Scottish Longbreads,6,7.0
+35,18,0.2,1997-08-06,1997-08-11,Brazil,Scottish Longbreads,6,5.0
+64,10,0.0,1997-09-09,1997-09-18,USA,Scottish Longbreads,6,9.0
+5,40,0.2,1997-10-10,1997-10-16,USA,Scottish Longbreads,6,6.0
+7,45,0.0,1997-10-29,1997-11-04,USA,Scottish Longbreads,6,6.0
+72,6,0.2,1997-11-27,1997-12-02,USA,Scottish Longbreads,6,5.0
+75,40,0.0,1997-12-05,1997-12-09,Germany,Scottish Longbreads,6,4.0
+24,18,0.0,1997-12-22,1997-12-31,France,Scottish Longbreads,6,9.0
+41,15,0.0,1997-12-23,1997-12-31,Poland,Scottish Longbreads,6,8.0
+52,24,0.0,1998-01-13,1998-01-21,Brazil,Scottish Longbreads,6,8.0
+76,20,0.0,1998-01-20,1998-01-29,Mexico,Scottish Longbreads,6,9.0
+7,20,0.0,1998-02-04,1998-02-09,UK,Scottish Longbreads,6,5.0
+13,18,0.0,1998-02-16,1998-02-23,Spain,Scottish Longbreads,6,7.0
+53,20,0.0,1998-02-24,1998-03-04,Brazil,Scottish Longbreads,6,8.0
+69,80,0.25,1998-03-11,1998-03-20,USA,Scottish Longbreads,6,9.0
+76,2,0.0,1998-04-09,1998-04-10,Spain,Scottish Longbreads,6,1.0
+60,42,0.0,1998-04-24,1998-04-30,Canada,Scottish Longbreads,6,6.0
+18,55,0.0,1998-05-01,1998-05-04,USA,Scottish Longbreads,6,3.0
+38,15,0.0,1996-09-03,1996-09-11,Venezuela,Gudbrandsdalsost,26,8.0
+69,1,0.0,1996-09-18,1996-09-24,Mexico,Gudbrandsdalsost,26,6.0
+51,7,0.0,1996-09-20,1996-09-26,France,Gudbrandsdalsost,26,6.0
+37,18,0.1,1996-11-11,1996-12-03,France,Gudbrandsdalsost,26,22.0
+56,20,0.0,1996-11-18,1996-11-27,Germany,Gudbrandsdalsost,26,9.0
+62,30,0.0,1996-11-26,1996-12-04,UK,Gudbrandsdalsost,26,8.0
+19,50,0.0,1996-12-24,1997-01-01,Austria,Gudbrandsdalsost,26,8.0
+49,8,0.0,1996-12-26,1997-01-03,Venezuela,Gudbrandsdalsost,26,8.0
+12,15,0.0,1997-01-07,1997-01-30,Germany,Gudbrandsdalsost,26,23.0
+24,20,0.05,1997-01-20,1997-01-30,Switzerland,Gudbrandsdalsost,26,10.0
+64,10,0.1,1997-04-02,1997-04-10,France,Gudbrandsdalsost,26,8.0
+46,10,0.0,1997-05-07,1997-05-09,Belgium,Gudbrandsdalsost,26,2.0
+52,18,0.0,1997-05-29,1997-06-05,Venezuela,Gudbrandsdalsost,26,7.0
+29,10,0.15000001,1997-06-30,1997-07-04,Finland,Gudbrandsdalsost,26,4.0
+17,20,0.2,1997-07-09,1997-08-13,Germany,Gudbrandsdalsost,26,35.0
+33,65,0.25,1997-07-10,1997-07-14,Austria,Gudbrandsdalsost,26,4.0
+26,20,0.25,1997-08-21,1997-08-28,Germany,Gudbrandsdalsost,26,7.0
+41,45,0.2,1997-09-12,1997-09-19,Austria,Gudbrandsdalsost,26,7.0
+75,30,0.15000001,1997-10-06,1997-10-10,USA,Gudbrandsdalsost,26,4.0
+63,25,0.05,1997-10-24,1997-10-29,Germany,Gudbrandsdalsost,26,5.0
+8,40,0.0,1997-11-19,1997-11-21,Switzerland,Gudbrandsdalsost,26,2.0
+75,30,0.0,1997-11-19,1997-11-26,Austria,Gudbrandsdalsost,26,7.0
+28,3,0.0,1997-11-24,1997-11-28,UK,Gudbrandsdalsost,26,4.0
+39,25,0.25,1997-11-26,1997-11-28,France,Gudbrandsdalsost,26,2.0
+47,20,0.2,1997-11-27,1997-12-02,USA,Gudbrandsdalsost,26,5.0
+51,24,0.2,1997-12-25,1998-01-14,Venezuela,Gudbrandsdalsost,26,20.0
+63,50,0.05,1998-02-18,1998-02-20,USA,Gudbrandsdalsost,26,2.0
+8,9,0.0,1998-03-19,1998-03-23,Germany,Gudbrandsdalsost,26,4.0
+21,10,0.0,1998-03-20,1998-03-24,France,Gudbrandsdalsost,26,4.0
+40,30,0.0,1998-04-14,1998-05-04,Brazil,Gudbrandsdalsost,26,20.0
+44,36,0.1,1998-04-17,1998-04-23,Switzerland,Gudbrandsdalsost,26,6.0
+7,21,0.25,1996-07-19,1996-07-29,Germany,Outback Lager,15,10.0
+12,20,0.0,1996-07-25,1996-08-12,France,Outback Lager,15,18.0
+24,20,0.0,1996-09-06,1996-09-13,Brazil,Outback Lager,15,7.0
+27,5,0.0,1996-09-18,1996-09-24,Mexico,Outback Lager,15,6.0
+31,30,0.0,1996-09-26,1996-10-03,UK,Outback Lager,15,7.0
+63,30,0.0,1996-12-12,1997-01-16,Ireland,Outback Lager,15,35.0
+75,30,0.0,1996-12-20,1996-12-24,Canada,Outback Lager,15,4.0
+38,8,0.1,1997-01-21,1997-01-27,Brazil,Outback Lager,15,6.0
+7,25,0.1,1997-02-21,1997-02-26,UK,Outback Lager,15,5.0
+43,12,0.0,1997-03-17,1997-03-24,Venezuela,Outback Lager,15,7.0
+13,60,0.1,1997-03-25,1997-03-31,Venezuela,Outback Lager,15,6.0
+57,14,0.1,1997-04-15,1997-05-02,Germany,Outback Lager,15,17.0
+16,6,0.0,1997-04-24,1997-04-29,UK,Outback Lager,15,5.0
+24,7,0.0,1997-05-15,1997-05-16,UK,Outback Lager,15,1.0
+36,15,0.05,1997-07-31,1997-08-05,USA,Outback Lager,15,5.0
+16,20,0.0,1997-08-05,1997-08-11,UK,Outback Lager,15,6.0
+18,15,0.25,1997-08-21,1997-08-28,Germany,Outback Lager,15,7.0
+32,40,0.05,1997-09-05,1997-09-10,Brazil,Outback Lager,15,5.0
+11,50,0.0,1997-10-06,1997-10-09,Germany,Outback Lager,15,3.0
+20,30,0.25,1997-10-08,1997-10-14,Venezuela,Outback Lager,15,6.0
+76,8,0.05,1997-10-09,1997-10-17,Austria,Outback Lager,15,8.0
+77,28,0.15000001,1997-10-16,1997-10-23,UK,Outback Lager,15,7.0
+7,40,0.0,1997-11-28,1997-12-04,Switzerland,Outback Lager,15,6.0
+43,35,0.0,1997-12-16,1997-12-25,Venezuela,Outback Lager,15,9.0
+72,5,0.0,1998-01-01,1998-01-07,Canada,Outback Lager,15,6.0
+7,6,0.0,1998-01-08,1998-01-16,USA,Outback Lager,15,8.0
+62,9,0.0,1998-01-09,1998-01-30,Sweden,Outback Lager,15,21.0
+6,12,0.0,1998-01-20,1998-01-29,Mexico,Outback Lager,15,9.0
+11,30,0.0,1998-01-22,1998-01-23,Belgium,Outback Lager,15,1.0
+41,30,0.15000001,1998-01-23,1998-01-30,France,Outback Lager,15,7.0
+21,4,0.0,1998-01-29,1998-02-03,France,Outback Lager,15,5.0
+34,50,0.2,1998-02-10,1998-02-18,Sweden,Outback Lager,15,8.0
+55,30,0.0,1998-02-12,1998-02-18,Belgium,Outback Lager,15,6.0
+61,3,0.25,1998-02-20,1998-03-04,Brazil,Outback Lager,15,12.0
+2,20,0.2,1998-04-01,1998-04-07,Germany,Outback Lager,15,6.0
+70,30,0.0,1998-04-13,1998-04-20,Austria,Outback Lager,15,7.0
+76,4,0.0,1998-04-21,1998-04-27,Spain,Outback Lager,15,6.0
+72,3,0.0,1998-04-29,1998-05-01,UK,Outback Lager,15,2.0
+29,12,0.2,1998-04-30,,Italy,Outback Lager,15,
+41,20,0.0,1996-08-06,1996-08-16,France,Flotemysost,26,10.0
+59,2,0.0,1996-09-12,1996-09-17,Mexico,Flotemysost,26,5.0
+51,3,0.0,1996-09-19,1996-10-23,Ireland,Flotemysost,26,34.0
+60,30,0.0,1996-10-03,1996-10-18,Finland,Flotemysost,26,15.0
+42,40,0.1,1996-10-18,1996-10-25,Finland,Flotemysost,26,7.0
+32,5,0.0,1996-11-26,1996-12-04,UK,Flotemysost,26,8.0
+46,50,0.2,1996-12-05,1996-12-11,Ireland,Flotemysost,26,6.0
+52,6,0.0,1996-12-10,1996-12-19,Sweden,Flotemysost,26,9.0
+24,15,0.0,1996-12-18,1996-12-20,Norway,Flotemysost,26,2.0
+61,60,0.0,1996-12-27,1997-01-06,Germany,Flotemysost,26,10.0
+74,30,0.0,1996-12-31,1997-01-08,Denmark,Flotemysost,26,8.0
+75,60,0.0,1997-01-01,1997-01-10,USA,Flotemysost,26,9.0
+41,15,0.0,1997-01-07,1997-01-30,Germany,Flotemysost,26,23.0
+51,2,0.0,1997-02-14,1997-03-07,Brazil,Flotemysost,26,21.0
+77,30,0.0,1997-02-24,1997-03-03,Finland,Flotemysost,26,7.0
+4,50,0.0,1997-02-26,1997-03-04,Belgium,Flotemysost,26,6.0
+24,12,0.0,1997-03-13,1997-03-21,UK,Flotemysost,26,8.0
+77,9,0.1,1997-05-19,1997-05-29,Brazil,Flotemysost,26,10.0
+7,9,0.0,1997-07-14,1997-07-18,USA,Flotemysost,26,4.0
+22,15,0.05,1997-07-21,1997-07-29,Canada,Flotemysost,26,8.0
+46,15,0.05,1997-07-31,1997-08-05,USA,Flotemysost,26,5.0
+55,15,0.0,1997-08-05,1997-08-11,UK,Flotemysost,26,6.0
+13,20,0.0,1997-08-11,1997-08-20,Sweden,Flotemysost,26,9.0
+35,30,0.25,1997-08-27,1997-09-03,Ireland,Flotemysost,26,7.0
+42,14,0.2,1997-09-12,1997-09-19,Austria,Flotemysost,26,7.0
+55,12,0.0,1997-09-17,1997-09-26,Sweden,Flotemysost,26,9.0
+1,60,0.2,1997-10-10,1997-10-16,USA,Flotemysost,26,6.0
+40,20,0.15000001,1997-10-13,1997-10-15,Ireland,Flotemysost,26,2.0
+52,30,0.0,1997-10-23,1997-10-29,France,Flotemysost,26,6.0
+26,8,0.0,1997-10-28,1997-11-05,Brazil,Flotemysost,26,8.0
+76,12,0.0,1997-12-08,1997-12-15,UK,Flotemysost,26,7.0
+1,16,0.0,1997-12-10,1998-01-02,Austria,Flotemysost,26,23.0
+59,55,0.2,1998-01-22,1998-02-10,USA,Flotemysost,26,19.0
+1,30,0.0,1998-02-23,1998-02-26,Venezuela,Flotemysost,26,3.0
+29,25,0.0,1998-02-27,1998-03-02,Brazil,Flotemysost,26,3.0
+8,35,0.25,1998-03-10,1998-03-16,Germany,Flotemysost,26,6.0
+29,21,0.0,1998-04-08,,Austria,Flotemysost,26,
+42,20,0.0,1998-04-09,1998-04-13,Germany,Flotemysost,26,4.0
+28,60,0.05,1998-04-09,1998-04-17,Germany,Flotemysost,26,8.0
+34,50,0.0,1998-04-15,1998-04-20,UK,Flotemysost,26,5.0
+71,16,0.0,1998-04-17,1998-04-24,USA,Flotemysost,26,7.0
+24,30,0.0,1998-04-21,1998-04-30,Belgium,Flotemysost,26,9.0
+36,5,0.0,1996-07-04,1996-07-16,France,Mozzarella di Giovanni,14,12.0
+60,4,0.0,1996-07-30,1996-08-02,Venezuela,Mozzarella di Giovanni,14,3.0
+7,20,0.05,1996-07-31,1996-08-09,USA,Mozzarella di Giovanni,14,9.0
+24,24,0.0,1996-08-02,1996-08-06,USA,Mozzarella di Giovanni,14,4.0
+58,7,0.0,1996-08-06,1996-08-16,France,Mozzarella di Giovanni,14,10.0
+71,3,0.0,1996-08-16,1996-08-23,Venezuela,Mozzarella di Giovanni,14,7.0
+19,20,0.0,1996-09-04,1996-09-10,France,Mozzarella di Giovanni,14,6.0
+60,40,0.0,1996-10-09,1996-10-14,Germany,Mozzarella di Giovanni,14,5.0
+71,25,0.15000001,1996-10-16,1996-10-28,Venezuela,Mozzarella di Giovanni,14,12.0
+23,25,0.0,1996-10-24,1996-10-29,Germany,Mozzarella di Giovanni,14,5.0
+42,42,0.25,1996-12-04,1996-12-09,Brazil,Mozzarella di Giovanni,14,5.0
+45,24,0.1,1996-12-23,1996-12-26,Austria,Mozzarella di Giovanni,14,3.0
+68,21,0.0,1996-12-27,1997-01-06,Germany,Mozzarella di Giovanni,14,10.0
+41,10,0.0,1997-02-04,1997-02-07,UK,Mozzarella di Giovanni,14,3.0
+30,40,0.0,1997-02-27,1997-02-28,France,Mozzarella di Giovanni,14,1.0
+77,25,0.0,1997-04-04,1997-04-07,Germany,Mozzarella di Giovanni,14,3.0
+31,9,0.0,1997-05-06,1997-05-09,USA,Mozzarella di Giovanni,14,3.0
+36,24,0.0,1997-05-12,1997-05-22,Sweden,Mozzarella di Giovanni,14,10.0
+3,21,0.0,1997-05-14,1997-05-19,Switzerland,Mozzarella di Giovanni,14,5.0
+59,1,0.0,1997-05-15,1997-05-16,UK,Mozzarella di Giovanni,14,1.0
+70,24,0.0,1997-06-03,1997-06-13,Denmark,Mozzarella di Giovanni,14,10.0
+12,30,0.0,1997-06-20,1997-06-30,Germany,Mozzarella di Giovanni,14,10.0
+18,12,0.0,1997-07-22,1997-07-25,USA,Mozzarella di Giovanni,14,3.0
+56,60,0.0,1997-08-20,1997-09-01,Venezuela,Mozzarella di Giovanni,14,12.0
+46,15,0.0,1997-08-28,1997-08-29,Belgium,Mozzarella di Giovanni,14,1.0
+49,35,0.0,1997-11-14,1997-11-18,Canada,Mozzarella di Giovanni,14,4.0
+10,7,0.0,1997-11-18,1997-11-27,Germany,Mozzarella di Giovanni,14,9.0
+2,30,0.15000001,1997-12-18,1997-12-22,Italy,Mozzarella di Giovanni,14,4.0
+20,10,0.0,1997-12-26,1998-01-05,UK,Mozzarella di Giovanni,14,10.0
+26,40,0.1,1998-01-02,1998-01-12,Italy,Mozzarella di Giovanni,14,10.0
+51,15,0.1,1998-01-19,1998-01-22,Brazil,Mozzarella di Giovanni,14,3.0
+72,10,0.0,1998-03-04,1998-03-11,Mexico,Mozzarella di Giovanni,14,7.0
+19,16,0.0,1998-03-06,1998-03-24,France,Mozzarella di Giovanni,14,18.0
+69,50,0.0,1998-03-11,1998-03-20,USA,Mozzarella di Giovanni,14,9.0
+7,5,0.0,1998-03-18,1998-03-27,Argentina,Mozzarella di Giovanni,14,9.0
+43,20,0.0,1998-03-31,1998-04-06,UK,Mozzarella di Giovanni,14,6.0
+26,2,0.0,1998-04-01,1998-04-03,USA,Mozzarella di Giovanni,14,2.0
+33,35,0.0,1998-04-14,1998-04-21,Germany,Mozzarella di Giovanni,14,7.0
+65,25,0.0,1996-08-12,1996-08-16,Sweden,Röd Kaviar,101,4.0
+71,20,0.1,1997-01-21,1997-01-27,Brazil,Röd Kaviar,101,6.0
+1,20,0.2,1997-03-27,1997-04-02,Germany,Röd Kaviar,101,6.0
+13,24,0.05,1997-05-12,1997-05-22,Sweden,Röd Kaviar,101,10.0
+18,9,0.0,1997-05-14,1997-05-19,Switzerland,Röd Kaviar,101,5.0
+51,3,0.0,1997-06-04,1997-06-10,UK,Röd Kaviar,101,6.0
+24,30,0.0,1997-07-16,1997-07-21,USA,Röd Kaviar,101,5.0
+62,35,0.15000001,1997-08-11,1997-08-21,USA,Röd Kaviar,101,10.0
+55,50,0.0,1997-09-16,1997-09-18,Germany,Röd Kaviar,101,2.0
+59,15,0.15000001,1997-10-06,1997-10-10,USA,Röd Kaviar,101,4.0
+56,35,0.0,1997-10-14,1997-10-20,Sweden,Röd Kaviar,101,6.0
+63,15,0.0,1997-11-24,1997-12-03,Switzerland,Röd Kaviar,101,9.0
+2,10,0.0,1998-02-11,1998-02-18,Argentina,Röd Kaviar,101,7.0
+5,2,0.01,1998-05-06,,USA,Röd Kaviar,101,
+29,21,0.0,1996-07-11,1996-07-23,Switzerland,Longlife Tofu,4,12.0
+59,36,0.25,1996-07-23,1996-07-31,Austria,Longlife Tofu,4,8.0
+1,20,0.15000001,1996-12-03,1996-12-27,Switzerland,Longlife Tofu,4,24.0
+13,14,0.0,1996-12-12,1996-12-13,Venezuela,Longlife Tofu,4,1.0
+24,50,0.0,1996-12-13,1996-12-16,Austria,Longlife Tofu,4,3.0
+64,15,0.0,1997-01-17,1997-01-24,Germany,Longlife Tofu,4,7.0
+71,30,0.0,1997-02-07,1997-02-10,Canada,Longlife Tofu,4,3.0
+36,16,0.0,1997-03-26,1997-04-02,Venezuela,Longlife Tofu,4,7.0
+38,5,0.0,1997-11-25,1997-11-27,Italy,Longlife Tofu,4,2.0
+59,35,0.0,1997-12-17,1997-12-19,Finland,Longlife Tofu,4,2.0
+53,15,0.25,1997-12-31,1998-01-05,France,Longlife Tofu,4,5.0
+69,20,0.0,1998-01-22,1998-01-23,Belgium,Longlife Tofu,4,1.0
+21,20,0.0,1998-04-03,1998-04-17,Poland,Longlife Tofu,4,14.0
+44,30,0.0,1996-08-14,1996-09-12,Sweden,Rhönbräu Klosterbier,125,29.0
+61,6,0.0,1996-08-29,1996-09-11,Mexico,Rhönbräu Klosterbier,125,13.0
+1,6,0.0,1996-08-30,1996-09-05,USA,Rhönbräu Klosterbier,125,6.0
+35,10,0.0,1996-09-23,1996-10-03,Germany,Rhönbräu Klosterbier,125,10.0
+42,50,0.0,1996-10-10,1996-10-14,Spain,Rhönbräu Klosterbier,125,4.0
+54,6,0.15000001,1996-11-06,1996-11-08,Brazil,Rhönbräu Klosterbier,125,2.0
+13,12,0.0,1996-11-26,1996-12-04,Germany,Rhönbräu Klosterbier,125,8.0
+59,24,0.1,1997-02-05,1997-02-11,France,Rhönbräu Klosterbier,125,6.0
+70,4,0.25,1997-02-28,1997-03-03,Sweden,Rhönbräu Klosterbier,125,3.0
+40,10,0.0,1997-03-13,1997-03-21,Mexico,Rhönbräu Klosterbier,125,8.0
+52,36,0.0,1997-03-31,1997-04-03,Venezuela,Rhönbräu Klosterbier,125,3.0
+71,36,0.1,1997-04-18,1997-04-28,USA,Rhönbräu Klosterbier,125,10.0
+28,50,0.0,1997-04-22,1997-05-16,Austria,Rhönbräu Klosterbier,125,24.0
+35,30,0.0,1997-05-29,1997-06-05,Venezuela,Rhönbräu Klosterbier,125,7.0
+49,20,0.0,1997-06-03,1997-06-06,Germany,Rhönbräu Klosterbier,125,3.0
+57,15,0.1,1997-06-18,1997-06-25,Sweden,Rhönbräu Klosterbier,125,7.0
+21,20,0.0,1997-06-23,1997-06-30,USA,Rhönbräu Klosterbier,125,7.0
+2,21,0.0,1997-06-25,1997-07-04,USA,Rhönbräu Klosterbier,125,9.0
+63,50,0.2,1997-06-26,1997-07-02,Brazil,Rhönbräu Klosterbier,125,6.0
+44,30,0.2,1997-07-11,1997-08-12,USA,Rhönbräu Klosterbier,125,32.0
+61,40,0.0,1997-07-29,1997-08-01,Venezuela,Rhönbräu Klosterbier,125,3.0
+11,8,0.1,1997-08-14,1997-08-15,France,Rhönbräu Klosterbier,125,1.0
+62,2,0.0,1997-08-15,1997-08-21,France,Rhönbräu Klosterbier,125,6.0
+33,25,0.0,1997-09-16,1997-09-18,Germany,Rhönbräu Klosterbier,125,2.0
+51,30,0.0,1997-09-25,1997-10-01,Mexico,Rhönbräu Klosterbier,125,6.0
+12,42,0.0,1997-10-29,1997-11-04,USA,Rhönbräu Klosterbier,125,6.0
+32,20,0.0,1997-11-11,1997-11-21,Ireland,Rhönbräu Klosterbier,125,10.0
+35,18,0.0,1997-12-02,1997-12-08,USA,Rhönbräu Klosterbier,125,6.0
+1,7,0.2,1997-12-11,1997-12-16,Austria,Rhönbräu Klosterbier,125,5.0
+5,10,0.0,1997-12-18,1997-12-24,Venezuela,Rhönbräu Klosterbier,125,6.0
+68,42,0.2,1997-12-19,1997-12-23,Brazil,Rhönbräu Klosterbier,125,4.0
+2,40,0.05,1997-12-22,1998-01-19,Germany,Rhönbräu Klosterbier,125,28.0
+12,20,0.0,1998-01-07,1998-01-16,Argentina,Rhönbräu Klosterbier,125,9.0
+76,120,0.05,1998-02-18,1998-02-20,USA,Rhönbräu Klosterbier,125,2.0
+24,14,0.0,1998-02-25,1998-02-27,France,Rhönbräu Klosterbier,125,2.0
+43,6,0.0,1998-03-04,1998-04-08,Sweden,Rhönbräu Klosterbier,125,35.0
+61,49,0.0,1998-03-05,1998-03-12,Germany,Rhönbräu Klosterbier,125,7.0
+18,20,0.1,1998-03-06,1998-03-24,France,Rhönbräu Klosterbier,125,18.0
+32,50,0.05,1998-03-16,1998-04-07,Switzerland,Rhönbräu Klosterbier,125,22.0
+64,12,0.2,1998-03-17,1998-03-20,Sweden,Rhönbräu Klosterbier,125,3.0
+33,20,0.15000001,1998-03-18,1998-03-23,Brazil,Rhönbräu Klosterbier,125,5.0
+67,10,0.0,1998-03-24,1998-03-27,France,Rhönbräu Klosterbier,125,3.0
+24,10,0.0,1998-03-25,1998-03-27,Canada,Rhönbräu Klosterbier,125,2.0
+25,40,0.2,1998-03-27,1998-04-17,Sweden,Rhönbräu Klosterbier,125,21.0
+51,30,0.0,1998-04-03,1998-04-17,Poland,Rhönbräu Klosterbier,125,14.0
+57,4,0.0,1998-05-06,,USA,Rhönbräu Klosterbier,125,
+7,15,0.15000001,1996-07-29,1996-08-06,Germany,Lakkalikööri,57,8.0
+55,33,0.05,1996-08-05,1996-08-12,Germany,Lakkalikööri,57,7.0
+60,6,0.0,1996-10-01,1996-10-04,UK,Lakkalikööri,57,3.0
+70,30,0.0,1996-10-02,1996-10-11,Mexico,Lakkalikööri,57,9.0
+21,15,0.0,1996-10-31,1996-11-06,Germany,Lakkalikööri,57,6.0
+60,12,0.0,1996-11-26,1996-12-04,Germany,Lakkalikööri,57,8.0
+61,35,0.0,1996-12-31,1997-01-08,Denmark,Lakkalikööri,57,8.0
+13,14,0.0,1997-01-14,1997-01-16,France,Lakkalikööri,57,2.0
+17,20,0.25,1997-01-24,1997-02-14,France,Lakkalikööri,57,21.0
+60,18,0.15000001,1997-02-03,1997-02-13,Sweden,Lakkalikööri,57,10.0
+60,42,0.15000001,1997-03-14,1997-04-04,Belgium,Lakkalikööri,57,21.0
+77,50,0.0,1997-05-08,1997-05-12,Austria,Lakkalikööri,57,4.0
+60,10,0.0,1997-06-12,1997-06-18,France,Lakkalikööri,57,6.0
+53,30,0.0,1997-06-16,1997-07-11,USA,Lakkalikööri,57,25.0
+70,10,0.0,1997-06-20,1997-06-30,Germany,Lakkalikööri,57,10.0
+34,14,0.0,1997-06-27,1997-07-14,Germany,Lakkalikööri,57,17.0
+40,4,0.2,1997-07-09,1997-08-13,Germany,Lakkalikööri,57,35.0
+41,10,0.1,1997-07-18,1997-07-29,Portugal,Lakkalikööri,57,11.0
+17,80,0.0,1997-07-28,1997-08-01,USA,Lakkalikööri,57,4.0
+41,35,0.0,1997-08-13,1997-08-19,Germany,Lakkalikööri,57,6.0
+53,10,0.0,1997-09-11,1997-09-17,USA,Lakkalikööri,57,6.0
+55,35,0.15000001,1997-10-13,1997-10-15,Ireland,Lakkalikööri,57,2.0
+68,15,0.0,1997-10-13,1997-10-21,Germany,Lakkalikööri,57,8.0
+30,20,0.0,1997-11-06,1997-11-07,France,Lakkalikööri,57,1.0
+54,20,0.0,1997-11-07,1997-11-12,Brazil,Lakkalikööri,57,5.0
+16,10,0.0,1997-11-20,1997-12-19,UK,Lakkalikööri,57,29.0
+19,50,0.15000001,1998-01-01,1998-01-09,USA,Lakkalikööri,57,8.0
+34,21,0.25,1998-01-16,1998-01-23,Sweden,Lakkalikööri,57,7.0
+41,20,0.0,1998-01-29,1998-02-04,France,Lakkalikööri,57,6.0
+28,10,0.0,1998-02-10,1998-02-12,Finland,Lakkalikööri,57,2.0
+43,20,0.0,1998-03-05,1998-04-08,France,Lakkalikööri,57,34.0
+77,5,0.0,1998-03-05,1998-03-18,Spain,Lakkalikööri,57,13.0
+39,60,0.0,1998-03-19,1998-03-30,Brazil,Lakkalikööri,57,11.0
+1,44,0.0,1998-03-19,1998-03-23,Germany,Lakkalikööri,57,4.0
+2,10,0.0,1998-03-30,1998-04-21,Argentina,Lakkalikööri,57,22.0
+16,90,0.2,1998-04-01,1998-04-07,Germany,Lakkalikööri,57,6.0
+31,6,0.0,1998-04-07,1998-04-20,Belgium,Lakkalikööri,57,13.0
+7,50,0.1,1998-04-27,1998-05-05,Sweden,Lakkalikööri,57,8.0
+13,2,0.15000001,1998-05-06,,Switzerland,Lakkalikööri,57,
+2,12,0.0,1996-07-15,1996-07-17,Brazil,Original Frankfurter grüne Soße,32,2.0
+41,15,0.0,1996-07-16,1996-07-22,Venezuela,Original Frankfurter grüne Soße,32,6.0
+50,10,0.0,1996-08-27,1996-09-03,Brazil,Original Frankfurter grüne Soße,32,7.0
+64,5,0.0,1996-11-28,1996-12-30,Spain,Original Frankfurter grüne Soße,32,32.0
+11,7,0.0,1996-11-28,1996-12-02,Denmark,Original Frankfurter grüne Soße,32,4.0
+24,14,0.0,1996-12-31,1997-01-08,Denmark,Original Frankfurter grüne Soße,32,8.0
+16,35,0.0,1997-01-16,1997-01-28,Denmark,Original Frankfurter grüne Soße,32,12.0
+2,10,0.15000001,1997-01-21,1997-01-27,Brazil,Original Frankfurter grüne Soße,32,6.0
+46,55,0.1,1997-02-19,1997-03-12,Germany,Original Frankfurter grüne Soße,32,21.0
+76,30,0.05,1997-03-24,1997-04-25,USA,Original Frankfurter grüne Soße,32,32.0
+6,7,0.15000001,1997-03-31,1997-04-08,Portugal,Original Frankfurter grüne Soße,32,8.0
+14,5,0.0,1997-04-03,1997-04-11,Canada,Original Frankfurter grüne Soße,32,8.0
+19,25,0.0,1997-04-04,1997-04-07,Germany,Original Frankfurter grüne Soße,32,3.0
+2,10,0.05,1997-05-30,1997-06-05,Germany,Original Frankfurter grüne Soße,32,6.0
+3,18,0.0,1997-06-23,1997-06-30,USA,Original Frankfurter grüne Soße,32,7.0
+4,20,0.0,1997-07-02,1997-07-09,Brazil,Original Frankfurter grüne Soße,32,7.0
+6,60,0.05,1997-07-07,1997-07-14,Canada,Original Frankfurter grüne Soße,32,7.0
+7,5,0.25,1997-07-17,1997-07-22,Denmark,Original Frankfurter grüne Soße,32,5.0
+8,35,0.25,1997-08-27,1997-09-03,Ireland,Original Frankfurter grüne Soße,32,7.0
+10,70,0.05,1997-09-05,1997-09-08,Germany,Original Frankfurter grüne Soße,32,3.0
+12,30,0.25,1997-10-02,1997-10-03,Brazil,Original Frankfurter grüne Soße,32,1.0
+13,2,0.1,1997-11-10,1997-11-21,USA,Original Frankfurter grüne Soße,32,11.0
+14,15,0.0,1997-12-16,1997-12-25,Venezuela,Original Frankfurter grüne Soße,32,9.0
+16,20,0.0,1998-01-02,1998-01-12,Italy,Original Frankfurter grüne Soße,32,10.0
+20,15,0.1,1998-01-09,1998-01-13,Venezuela,Original Frankfurter grüne Soße,32,4.0
+23,2,0.2,1998-01-15,1998-01-21,Germany,Original Frankfurter grüne Soße,32,6.0
+32,15,0.0,1998-01-20,1998-01-29,Belgium,Original Frankfurter grüne Soße,32,9.0
+39,25,0.0,1998-02-12,1998-02-18,Belgium,Original Frankfurter grüne Soße,32,6.0
+41,40,0.0,1998-02-13,1998-03-02,Brazil,Original Frankfurter grüne Soße,32,17.0
+46,15,0.0,1998-03-05,1998-03-12,Germany,Original Frankfurter grüne Soße,32,7.0
+52,40,0.0,1998-03-12,1998-03-19,Denmark,Original Frankfurter grüne Soße,32,7.0
+55,15,0.0,1998-03-30,1998-04-21,Argentina,Original Frankfurter grüne Soße,32,22.0
+60,21,0.05,1998-04-03,1998-04-10,Germany,Original Frankfurter grüne Soße,32,7.0
+64,30,0.0,1998-04-06,1998-04-14,USA,Original Frankfurter grüne Soße,32,8.0
+66,18,0.0,1998-04-10,1998-04-20,Norway,Original Frankfurter grüne Soße,32,10.0
+73,10,0.0,1998-04-30,1998-05-04,Italy,Original Frankfurter grüne Soße,32,4.0
+75,28,0.15000001,1998-05-04,,Brazil,Original Frankfurter grüne Soße,32,
+77,2,0.0,1998-05-06,,USA,Original Frankfurter grüne Soße,32,
