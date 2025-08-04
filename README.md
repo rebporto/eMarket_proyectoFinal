@@ -1,8 +1,8 @@
-# 🛒 Proyecto Final - eMarket (Digital House)
+# Proyecto Final - eMarket (Digital House)
 
-Este proyecto fue realizado como entrega final del curso **Data Analyst** en [Digital House](https://www.digitalhouse.com/). Consiste en una exploración completa del negocio de eMarket, desde la limpieza de datos hasta la construcción de dashboards e insights accionables.
+Este proyecto fue realizado como entrega final del curso **Data Analyst** en [Digital House]. Consiste en una exploración completa del negocio de eMarket, desde la limpieza de datos hasta la construcción de dashboards e insights accionables.
 
-## 🧩 Estructura del proyecto
+## Estructura del proyecto
 
 🔸 **Etapa 1 – Exploración Visual y Métricas**
 - Análisis inicial del dataset
@@ -23,7 +23,7 @@ Este proyecto fue realizado como entrega final del curso **Data Analyst** en [Di
 
 ---
 
-## 📦 Archivos incluidos
+## Archivos incluidos
 
 - `Etapa1_Graficos.ipynb` → análisis visual inicial
 - `Etapa1_Metricas Finales.ipynb` → métricas calculadas por categoría
@@ -31,11 +31,11 @@ Este proyecto fue realizado como entrega final del curso **Data Analyst** en [Di
 - `.csv` → datasets listo para importar
 - `Documentación Final.pdf` → explicación y reflexiones por etapa
 - `Dashboard Power BI.pbix` → archivo visual interactivo (versión 1)
-- `Video de presentación.mp4` → pitch grabado de cierre del proyecto
+- `Video de presentación.mp4` → pitch grabado de cierre del proyecto [Ver presentación del proyecto (Google Drive)](https://drive.google.com/file/d/LINKAQUI)
 
 ---
 
-## 🎯 Objetivo de la entrega
+## Objetivo de la entrega
 
 Este proyecto busca demostrar la capacidad de:
 - Integrar múltiples fuentes de datos
@@ -45,17 +45,17 @@ Este proyecto busca demostrar la capacidad de:
 
 ---
 
-## 🚀 Próximos pasos
+## Próximos pasos
 
 Mi objetivo es seguir perfeccionando este proyecto con nuevas buenas prácticas en modelado de datos y performance en Power BI, así como continuar desarrollando habilidades con Python para análisis, visualización y automatización de tareas.
 
 ---
 
-## 🙋‍♀️ Sobre mí
+## Sobre mí
 
 Soy Renata Porto, analista de datos con formación en visualización, limpieza de datos y dashboards interactivos. Este es uno de los primeros proyectos que representan mi evolución en el área y mi compromiso con el aprendizaje continuo.
 
-📫 Contacto: [LinkedIn](https://www.linkedin.com/in/rebporto/) | `renataporto@me.com`
+Contacto: [LinkedIn](https://www.linkedin.com/in/rebporto/) | `renataporto@me.com`
 
 ---
 
